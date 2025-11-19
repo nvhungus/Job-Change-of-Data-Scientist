@@ -1,0 +1,2130 @@
+enrollee_id,city,city_development_index,gender,relevent_experience,enrolled_university,education_level,major_discipline,experience,company_size,company_type,last_new_job,training_hours,is_major_city
+32403,city_41,0.016125763268414313,Male,1,Full time course,3,STEM,-0.,1,Unknown,1,0,0
+9858,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,1,0,1
+31806,city_21,-1.607294979728601,Male,0,no_enrollment,2,Unknown,-1.,0,Pvt Ltd,never,0,0
+27385,city_13,0.016125763268414313,Male,1,no_enrollment,4,STEM,0.1,0,Pvt Ltd,1,0,0
+27724,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+217,city_23,0.5919203125087344,Male,0,Part time course,4,STEM,-0.,0,Unknown,2,0,0
+21465,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,1,0,0
+27302,city_160,0.7598603893704947,Female,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,1
+12994,city_173,0.4239802356469741,Male,1,no_enrollment,3,STEM,0.5,0,Unknown,4,-1,0
+16287,city_21,-1.607294979728601,Male,1,Full time course,3,Unknown,-1.,3,Funded Startup,1,-1,0
+10856,city_103,0.7598603893704947,Male,1,no_enrollment,4,Other,1.5,0,Unknown,>4,2,1
+9272,city_90,-1.0155061374538275,Male,1,no_enrollment,3,STEM,1.4,0,Pvt Ltd,2,0,0
+14249,city_46,-0.5036887603513199,Male,1,no_enrollment,3,STEM,-0.,4,Other,never,0,0
+24372,city_98,0.9917776383700684,Unknow,1,no_enrollment,4,STEM,-0.,4,Pvt Ltd,1,1,1
+14070,city_103,0.7598603893704947,Unknow,0,no_enrollment,3,STEM,-0.,0,Unknown,never,0,1
+24914,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,0.4,6,Pvt Ltd,1,1,0
+7865,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,-0.,4,Pvt Ltd,1,-1,0
+7463,city_13,0.016125763268414313,Male,1,no_enrollment,4,Business Degree,-1.,3,Pvt Ltd,1,0,0
+21514,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,4,0,0
+29033,city_21,-1.607294979728601,Male,0,Full time course,0,Unknown,-1.,0,Unknown,never,0,0
+15359,city_103,0.7598603893704947,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,never,0,1
+16001,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,8,Unknown,1,0,1
+25202,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,3,0,0
+5058,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-1.,0,Unknown,1,0,1
+23570,city_118,-0.8235746210403871,Male,1,no_enrollment,3,STEM,1.2,4,Pvt Ltd,>4,0,0
+19139,city_103,0.7598603893704947,Female,1,Part time course,3,STEM,0.7,0,Public Sector,>4,0,1
+9548,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,>4,0,1
+8799,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,0,Public Sector,1,0,1
+11113,city_134,-1.0155061374538275,Unknow,1,no_enrollment,4,STEM,0.8,0,Pvt Ltd,1,0,0
+19437,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,0,Pvt Ltd,,0,0
+394,city_73,-0.5676659324891333,Unknow,1,Full time course,3,STEM,-0.,3,Pvt Ltd,1,0,0
+7683,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,1
+22849,city_116,-0.6556345441786269,Unknow,1,no_enrollment,0,Unknown,-0.,3,Pvt Ltd,never,0,0
+17189,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,4,0,0
+28610,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,>4,0,1
+25608,city_165,0.6239088985776411,Unknow,1,no_enrollment,4,STEM,1.0,3,Pvt Ltd,>4,0,1
+22139,city_103,0.7598603893704947,Male,1,Part time course,3,STEM,1.5,4,Pvt Ltd,>4,0,1
+19644,city_61,0.703880363749907,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,1,1
+18517,city_21,-1.607294979728601,Unknow,0,Full time course,4,STEM,-1.,0,Pvt Ltd,1,0,0
+12835,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,1.5,1,Early Stage Startup,1,0,0
+20178,city_45,0.5199459938536943,Male,1,no_enrollment,4,STEM,0.4,0,Public Sector,1,0,0
+25855,city_103,0.7598603893704947,Female,1,no_enrollment,3,Arts,-0.,3,Pvt Ltd,1,0,1
+32126,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.8,4,Pvt Ltd,4,1,1
+22753,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,2,-1,1
+18133,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,-1.,0,Unknown,1,0,1
+29242,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,-0.,4,Pvt Ltd,1,0,0
+6312,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,1,3,1
+113,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,-0.,6,Pvt Ltd,1,0,1
+14685,city_114,0.8078432684738539,Male,0,Full time course,4,STEM,-1.,0,Pvt Ltd,1,0,1
+20768,city_90,-1.0155061374538275,Male,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,0
+25906,city_28,0.9118061731978017,Male,1,no_enrollment,3,STEM,1.2,3,Pvt Ltd,1,0,1
+20142,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,1,1
+25891,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+4742,city_149,-1.0874804561088667,Unknow,0,no_enrollment,0,Unknown,-1.,0,Unknown,,0,0
+2222,city_105,-0.24778007180006614,Male,1,no_enrollment,3,Business Degree,0.5,4,Pvt Ltd,1,0,0
+16917,city_103,0.7598603893704947,Unknow,0,Full time course,2,Unknown,-1.,0,Unknown,1,0,1
+10493,city_21,-1.607294979728601,Unknow,1,no_enrollment,4,STEM,-0.,6,Pvt Ltd,2,0,0
+10418,city_76,-1.0155061374538275,Male,1,no_enrollment,0,Unknown,-0.,4,Pvt Ltd,>4,0,0
+9766,city_83,0.7838518289221739,Male,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,2,0,1
+1361,city_103,0.7598603893704947,Other,1,Full time course,3,STEM,-0.,0,Unknown,1,1,1
+19625,city_97,0.7998461219566281,Male,1,no_enrollment,2,Unknown,-0.,3,Pvt Ltd,1,0,1
+20943,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+9561,city_28,0.9118061731978017,Unknow,1,no_enrollment,4,STEM,1.2,0,Unknown,2,0,1
+4271,city_13,0.016125763268414313,Unknow,1,Unknown,3,STEM,-0.,1,Pvt Ltd,2,0,0
+2094,city_64,-1.2714148260050813,Female,1,no_enrollment,3,STEM,1.1,4,Pvt Ltd,>4,0,0
+16931,city_31,-0.1438171670761193,Male,1,no_enrollment,3,STEM,0.7,0,Unknown,>4,1,0
+27298,city_21,-1.607294979728601,Male,0,no_enrollment,3,Arts,-0.,1,Early Stage Startup,never,0,0
+26493,city_136,0.575926019474281,Male,0,Part time course,3,STEM,-0.,0,Public Sector,1,0,0
+30745,city_19,-1.1434604817294534,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,3,0,0
+21052,city_90,-1.0155061374538275,Male,1,no_enrollment,3,STEM,-1.,0,Unknown,never,0,0
+20723,city_11,-2.199083822003374,Male,1,Full time course,3,STEM,-1.,3,Pvt Ltd,1,2,0
+13539,city_143,-0.6796259837303069,Male,1,no_enrollment,3,STEM,0.4,1,Pvt Ltd,2,1,0
+3214,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,1.5,6,Pvt Ltd,4,3,1
+16230,city_103,0.7598603893704947,Unknow,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,1
+25300,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,1,Early Stage Startup,1,0,1
+24018,city_11,-2.199083822003374,Male,1,Part time course,3,STEM,-1.,0,Pvt Ltd,1,0,0
+21833,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.4,3,Pvt Ltd,>4,0,1
+30632,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,0.2,3,Pvt Ltd,2,0,1
+4334,city_103,0.7598603893704947,Male,1,Unknown,2,Unknown,-0.,0,Unknown,2,0,1
+22271,city_100,0.49595455430201424,Male,0,Full time course,3,Other,0.7,0,Unknown,3,0,0
+28776,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,>4,0,1
+27769,city_21,-1.607294979728601,Male,0,Full time course,4,STEM,-1.,0,Unknown,1,0,0
+25909,city_67,0.24004586575076048,Unknow,1,no_enrollment,4,STEM,0.7,4,Pvt Ltd,>4,0,0
+31266,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,-0.,5,Pvt Ltd,>4,0,1
+7973,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,0.5,8,Pvt Ltd,1,0,1
+30867,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,1,0,0
+22501,city_75,0.9118061731978017,Male,1,no_enrollment,0,Unknown,1.2,0,Pvt Ltd,>4,0,1
+2539,city_13,0.016125763268414313,Male,1,Full time course,4,STEM,-0.,8,Pvt Ltd,4,0,0
+26681,city_103,0.7598603893704947,Male,1,no_enrollment,3,Business Degree,1.5,8,Pvt Ltd,3,0,1
+16184,city_127,-0.6396402511441734,Unknow,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,0
+3852,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,6,Pvt Ltd,>4,0,1
+1680,city_19,-1.1434604817294534,Male,1,no_enrollment,4,STEM,1.2,6,Unknown,4,0,0
+3562,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,6,Pvt Ltd,2,0,1
+8488,city_101,-2.1351066498655618,Male,1,Part time course,4,STEM,-1.,0,Unknown,2,3,0
+8373,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.0,6,Pvt Ltd,3,1,1
+2934,city_75,0.9118061731978017,Male,1,no_enrollment,5,STEM,1.5,6,Pvt Ltd,3,3,1
+12919,city_103,0.7598603893704947,Female,1,no_enrollment,3,Humanities,-0.,0,Unknown,1,0,1
+4386,city_21,-1.607294979728601,Male,0,Full time course,2,Unknown,-1.,1,Early Stage Startup,2,0,0
+22462,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,8,NGO,1,0,0
+13988,city_103,0.7598603893704947,Unknow,1,Part time course,4,STEM,0.8,8,Pvt Ltd,>4,0,1
+21230,city_103,0.7598603893704947,Unknow,0,no_enrollment,2,Unknown,-1.,0,Unknown,>4,0,1
+26180,city_139,-2.702904052588655,Male,0,Full time course,3,STEM,-1.,0,Pvt Ltd,never,0,0
+16658,city_16,0.6798889241982279,Male,1,no_enrollment,3,Business Degree,0.8,3,Pvt Ltd,1,0,1
+10324,city_16,0.6798889241982279,Male,1,Part time course,3,STEM,1.5,8,Pvt Ltd,2,0,1
+20453,city_27,0.1840658401301737,Male,1,no_enrollment,3,STEM,-1.,3,Pvt Ltd,never,-1,0
+13485,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,0.1,4,Pvt Ltd,2,0,0
+33080,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,never,0,1
+25492,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,1.5,0,Unknown,1,0,1
+1319,city_71,0.4719631147503342,Male,0,Part time course,3,STEM,-1.,0,Unknown,>4,0,0
+19146,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.1,3,Unknown,1,0,1
+29339,city_67,0.24004586575076048,Male,1,no_enrollment,4,STEM,0.7,3,Pvt Ltd,never,-1,0
+33177,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.1,3,Pvt Ltd,1,0,1
+22143,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,1.5,7,Pvt Ltd,1,0,1
+22264,city_160,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,1
+17034,city_103,0.7598603893704947,Unknow,1,Full time course,3,STEM,-0.,8,Other,never,0,1
+27002,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-0.,3,Pvt Ltd,>4,0,0
+21318,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,1,0,1
+12308,city_143,-0.6796259837303069,Unknow,0,no_enrollment,3,STEM,-0.,6,Public Sector,>4,0,0
+842,city_21,-1.607294979728601,Male,0,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+4926,city_103,0.7598603893704947,Male,0,no_enrollment,2,Unknown,-1.,0,Unknown,never,0,1
+3,city_99,0.7198746567843612,Unknow,0,Full time course,2,Unknown,-0.,0,Pvt Ltd,never,0,1
+19567,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,0.2,6,Pvt Ltd,1,0,0
+12809,city_61,0.703880363749907,Male,1,no_enrollment,2,Unknown,-1.,4,Pvt Ltd,1,0,1
+22682,city_71,0.4719631147503342,Male,0,no_enrollment,4,STEM,-1.,6,Pvt Ltd,1,2,0
+1216,city_173,0.4239802356469741,Male,1,no_enrollment,4,STEM,1.5,6,Pvt Ltd,2,0,0
+4417,city_103,0.7598603893704947,Unknow,0,no_enrollment,0,Unknown,-0.,0,Unknown,,0,1
+24162,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,1,Pvt Ltd,1,0,0
+16873,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,1.5,7,Pvt Ltd,>4,0,1
+21920,city_16,0.6798889241982279,Female,0,no_enrollment,5,STEM,1.2,6,NGO,1,0,1
+24230,city_21,-1.607294979728601,Unknow,1,Full time course,4,No Major,-1.,1,Early Stage Startup,,0,0
+5189,city_16,0.6798889241982279,Unknow,0,no_enrollment,2,Unknown,-1.,0,Unknown,1,0,1
+24396,city_70,-1.0155061374538275,Male,1,no_enrollment,3,STEM,1.1,4,Pvt Ltd,2,0,0
+770,city_73,-0.5676659324891333,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,1,0,0
+30913,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,1.5,1,Pvt Ltd,>4,0,1
+14566,city_69,0.24804301226798714,Female,1,Part time course,3,STEM,-0.,5,Pvt Ltd,1,1,0
+15634,city_61,0.703880363749907,Male,1,no_enrollment,3,No Major,0.1,4,Pvt Ltd,>4,0,1
+18163,city_64,-1.2714148260050813,Unknow,1,no_enrollment,2,Unknown,-1.,0,Unknown,never,1,0
+16673,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,0,Unknown,1,-1,0
+18805,city_16,0.6798889241982279,Male,0,no_enrollment,5,Humanities,1.5,0,Unknown,>4,0,1
+15367,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-1.,0,Unknown,1,0,1
+22556,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-0.,0,Funded Startup,1,0,0
+27439,city_100,0.49595455430201424,Male,1,Part time course,3,STEM,0.7,0,Unknown,1,0,0
+18426,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+9789,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,-1,1
+28172,city_114,0.8078432684738539,Unknow,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,>4,1,1
+9184,city_136,0.575926019474281,Male,1,Part time course,4,STEM,-1.,8,Pvt Ltd,1,0,0
+3587,city_16,0.6798889241982279,Male,1,no_enrollment,4,Humanities,-0.,0,Pvt Ltd,4,0,1
+1167,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.7,4,Pvt Ltd,4,0,1
+1663,city_134,-1.0155061374538275,Unknow,1,Part time course,4,STEM,1.5,0,Unknown,>4,0,0
+20948,city_44,-0.7995831814887071,Unknow,1,no_enrollment,4,STEM,-0.,0,Unknown,,0,0
+31594,city_41,0.016125763268414313,Male,1,no_enrollment,4,STEM,1.5,3,Funded Startup,>4,1,0
+27117,city_90,-1.0155061374538275,Male,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+678,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,1,0,1
+1441,city_103,0.7598603893704947,Male,0,Full time course,4,STEM,0.8,0,Unknown,never,0,1
+31272,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,0.4,7,Pvt Ltd,4,0,0
+12443,city_149,-1.0874804561088667,Male,1,no_enrollment,2,Unknown,-0.,4,Pvt Ltd,1,3,0
+32981,city_165,0.6239088985776411,Male,1,no_enrollment,5,STEM,1.5,0,Unknown,1,0,1
+1317,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,0.2,4,Funded Startup,1,0,1
+4601,city_28,0.9118061731978017,Male,0,no_enrollment,5,STEM,1.5,7,Pvt Ltd,2,0,1
+30498,city_83,0.7838518289221739,Unknow,0,no_enrollment,3,STEM,-1.,0,Public Sector,never,0,1
+7863,city_165,0.6239088985776411,Unknow,0,no_enrollment,3,STEM,0.4,0,Unknown,3,0,1
+8744,city_150,-1.0155061374538275,Male,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,0
+14698,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,7,Pvt Ltd,1,0,1
+10021,city_16,0.6798889241982279,Female,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,0,1
+15253,city_16,0.6798889241982279,Male,1,no_enrollment,5,STEM,1.5,3,Funded Startup,3,1,1
+18108,city_114,0.8078432684738539,Male,1,no_enrollment,2,Unknown,-0.,8,Pvt Ltd,>4,0,1
+31410,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,>4,0,1
+30532,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.8,5,Pvt Ltd,1,0,1
+31733,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,3,Unknown,>4,0,1
+28833,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-1.,3,Pvt Ltd,1,0,0
+8708,city_74,-1.9671665730038015,Male,1,Part time course,4,STEM,-1.,3,Pvt Ltd,1,0,0
+10050,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,-0.,8,Pvt Ltd,>4,0,1
+21685,city_114,0.8078432684738539,Unknow,0,no_enrollment,5,STEM,0.7,8,Pvt Ltd,1,0,1
+18529,city_143,-0.6796259837303069,Male,1,Full time course,3,STEM,-0.,0,Pvt Ltd,4,0,0
+1850,city_103,0.7598603893704947,Unknow,0,no_enrollment,3,STEM,-1.,4,Public Sector,1,0,1
+22639,city_176,-0.48769446731686655,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,1,0,0
+5967,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,-0.,0,Pvt Ltd,>4,0,0
+20977,city_16,0.6798889241982279,Male,1,no_enrollment,2,Unknown,1.5,4,Pvt Ltd,1,1,1
+5391,city_155,-2.151100942900014,Male,0,Full time course,3,STEM,-1.,0,Unknown,,0,0
+4398,city_155,-2.151100942900014,Male,1,no_enrollment,3,STEM,-0.,3,Unknown,3,2,0
+18383,city_21,-1.607294979728601,Male,0,no_enrollment,4,STEM,-0.,4,Pvt Ltd,1,0,0
+17336,city_21,-1.607294979728601,Male,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,0
+7470,city_167,0.7678575358877204,Male,1,Full time course,3,STEM,-0.,4,Pvt Ltd,1,0,1
+24781,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,2,0,1
+24202,city_90,-1.0155061374538275,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+20650,city_73,-0.5676659324891333,Unknow,1,Part time course,3,STEM,-0.,0,Pvt Ltd,3,0,0
+5377,city_114,0.8078432684738539,Male,0,no_enrollment,2,Unknown,-0.,0,Pvt Ltd,never,0,1
+31693,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,6,Pvt Ltd,>4,0,1
+28619,city_103,0.7598603893704947,Male,0,no_enrollment,3,No Major,-1.,0,Unknown,never,-1,1
+15432,city_114,0.8078432684738539,Unknow,0,no_enrollment,2,Unknown,0.1,4,Pvt Ltd,>4,0,1
+22999,city_21,-1.607294979728601,Female,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,1,0,0
+8377,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.4,4,Pvt Ltd,2,0,1
+9302,city_149,-1.0874804561088667,Unknow,1,no_enrollment,3,STEM,-0.,0,Unknown,2,1,0
+16158,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,3,Funded Startup,3,0,1
+29575,city_11,-2.199083822003374,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,3,0,0
+16573,city_28,0.9118061731978017,Male,1,Unknown,3,No Major,-0.,0,Pvt Ltd,2,1,1
+30736,city_160,0.7598603893704947,Male,0,Full time course,2,Unknown,-1.,0,Unknown,1,0,1
+20612,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,never,1,0
+11976,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,0.5,0,Unknown,1,0,0
+28302,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,-0.,1,Pvt Ltd,1,1,1
+9462,city_21,-1.607294979728601,Unknow,0,Part time course,0,Unknown,-1.,0,Unknown,never,2,0
+14512,city_11,-2.199083822003374,Male,1,Full time course,3,STEM,-0.,3,Unknown,1,1,0
+8401,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,-0.,3,Public Sector,2,0,0
+19780,city_105,-0.24778007180006614,Female,1,no_enrollment,4,Unknown,-0.,5,Unknown,1,0,0
+2594,city_21,-1.607294979728601,Unknow,0,Full time course,2,Unknown,-1.,0,Pvt Ltd,never,0,0
+1466,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,>4,0,1
+17205,city_114,0.8078432684738539,Female,1,no_enrollment,4,STEM,1.5,0,Unknown,never,0,1
+12990,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.8,4,Pvt Ltd,>4,0,1
+4234,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.2,8,Pvt Ltd,1,0,1
+18171,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.2,0,Unknown,2,0,1
+15457,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,1.0,3,Pvt Ltd,>4,0,1
+23319,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-0.,0,Unknown,never,0,0
+10598,city_136,0.575926019474281,Male,1,no_enrollment,5,STEM,0.5,1,Early Stage Startup,1,0,0
+7788,city_21,-1.607294979728601,Male,1,no_enrollment,2,Unknown,-0.,0,Unknown,never,0,0
+32021,city_103,0.7598603893704947,Male,1,no_enrollment,4,Humanities,1.5,4,Pvt Ltd,2,0,1
+23969,city_30,-1.0155061374538275,Male,1,no_enrollment,0,Unknown,1.5,1,Pvt Ltd,,0,0
+13037,city_97,0.7998461219566281,Unknow,1,no_enrollment,2,Unknown,-0.,0,Unknown,1,0,1
+30196,city_114,0.8078432684738539,Male,1,no_enrollment,3,Humanities,-1.,1,Early Stage Startup,1,0,1
+19504,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,1,0,0
+16336,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,>4,3,0
+6048,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,0.7,6,Pvt Ltd,2,0,1
+6827,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,never,0,0
+9268,city_160,0.7598603893704947,Male,1,no_enrollment,0,Unknown,1.5,1,Pvt Ltd,2,0,1
+11169,city_21,-1.607294979728601,Female,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,0,0
+31131,city_103,0.7598603893704947,Female,0,Part time course,3,Other,-1.,7,Other,1,0,1
+12361,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-1.,1,Early Stage Startup,,0,0
+15165,city_160,0.7598603893704947,Unknow,0,Part time course,3,STEM,1.5,0,Unknown,,0,1
+27773,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,>4,2,1
+15266,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,7,Pvt Ltd,1,0,1
+26289,city_89,0.7998461219566281,Female,1,no_enrollment,3,Humanities,-1.,1,Pvt Ltd,2,0,1
+32553,city_57,0.32801447744025397,Unknow,0,no_enrollment,4,STEM,0.2,0,Pvt Ltd,never,0,0
+33062,city_98,0.9917776383700684,Male,1,no_enrollment,3,STEM,-0.,1,Early Stage Startup,1,1,1
+8818,city_103,0.7598603893704947,Unknow,1,no_enrollment,1,Unknown,-0.,4,Pvt Ltd,1,0,1
+15380,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,5,Pvt Ltd,4,0,0
+30120,city_11,-2.199083822003374,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,never,0,0
+24317,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,2,0,0
+412,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,1.0,1,Pvt Ltd,2,0,1
+30607,city_149,-1.0874804561088667,Male,1,Full time course,3,STEM,-0.,6,Pvt Ltd,2,0,0
+8513,city_16,0.6798889241982279,Male,1,Full time course,4,STEM,-0.,0,Unknown,1,0,1
+8596,city_41,0.016125763268414313,Unknow,1,Full time course,2,Unknown,-0.,4,Pvt Ltd,2,1,0
+14539,city_69,0.24804301226798714,Male,1,no_enrollment,3,STEM,-0.,1,Funded Startup,1,0,0
+20456,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-0.,8,Pvt Ltd,never,2,0
+15221,city_114,0.8078432684738539,Male,1,no_enrollment,0,Unknown,-1.,0,Unknown,never,0,1
+28968,city_150,-1.0155061374538275,Male,1,Part time course,2,Unknown,-1.,3,NGO,2,0,0
+21648,city_61,0.703880363749907,Male,1,no_enrollment,4,STEM,1.4,6,Pvt Ltd,never,0,1
+3210,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.0,0,Pvt Ltd,3,0,1
+22118,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,0,Unknown,2,0,1
+5605,city_76,-1.0155061374538275,Other,1,no_enrollment,3,STEM,-0.,8,Public Sector,3,2,0
+30930,city_67,0.24004586575076048,Male,1,no_enrollment,3,STEM,1.5,1,Pvt Ltd,never,3,0
+28718,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,1,0,1
+8141,city_103,0.7598603893704947,Unknow,0,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,1
+3486,city_165,0.6239088985776411,Male,1,no_enrollment,5,STEM,0.5,4,Pvt Ltd,>4,0,1
+8805,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,3,Funded Startup,2,0,1
+6602,city_162,-0.4637030277651865,Unknow,1,Full time course,3,STEM,-0.,0,Pvt Ltd,1,0,0
+14916,city_64,-1.2714148260050813,Male,1,no_enrollment,3,STEM,0.7,0,Funded Startup,1,0,0
+21636,city_36,0.5439374334053744,Unknow,0,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,0
+9047,city_103,0.7598603893704947,Other,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,1,1
+6694,city_16,0.6798889241982279,Female,1,no_enrollment,3,STEM,1.2,0,Pvt Ltd,>4,0,1
+17793,city_74,-1.9671665730038015,Unknow,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,>4,0,0
+32857,city_16,0.6798889241982279,Male,1,no_enrollment,2,Unknown,-0.,8,Pvt Ltd,1,0,1
+26325,city_21,-1.607294979728601,Male,0,Unknown,0,Unknown,-1.,0,Unknown,never,0,0
+20907,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,-0.,0,Unknown,2,2,1
+12617,city_90,-1.0155061374538275,Unknow,1,no_enrollment,2,Unknown,0.1,1,Pvt Ltd,2,0,0
+24295,city_105,-0.24778007180006614,Male,1,no_enrollment,4,STEM,-0.,4,Pvt Ltd,2,0,0
+32409,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,5,NGO,1,0,0
+16713,city_103,0.7598603893704947,Male,1,no_enrollment,3,Arts,0.4,3,Pvt Ltd,>4,0,1
+4863,city_107,-2.454992510554628,Male,0,Full time course,2,Unknown,-1.,0,Pvt Ltd,never,0,0
+13274,city_101,-2.1351066498655618,Male,1,no_enrollment,2,Unknown,-1.,0,Unknown,never,0,0
+12462,city_21,-1.607294979728601,Male,1,Unknown,3,STEM,-1.,3,Pvt Ltd,1,-1,0
+8524,city_83,0.7838518289221739,Unknow,1,no_enrollment,3,STEM,1.4,4,Funded Startup,1,0,1
+21728,city_57,0.32801447744025397,Male,1,no_enrollment,4,STEM,-0.,4,Unknown,1,0,0
+20577,city_21,-1.607294979728601,Female,0,Full time course,2,Unknown,-1.,8,Pvt Ltd,never,0,0
+3407,city_128,-2.383018191899588,Unknow,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,1,-1,0
+27184,city_28,0.9118061731978017,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,3,0,1
+28845,city_39,0.5839231659915077,Male,1,no_enrollment,3,STEM,0.5,5,Public Sector,1,0,0
+2851,city_102,-0.16780860662779934,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,4,0,0
+485,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.2,0,Unknown,1,2,1
+7207,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,0.4,4,Pvt Ltd,1,0,1
+9005,city_21,-1.607294979728601,Male,0,no_enrollment,4,STEM,-0.,4,Pvt Ltd,>4,2,0
+4532,city_67,0.24004586575076048,Male,1,no_enrollment,2,Unknown,-1.,4,Funded Startup,1,-1,0
+23235,city_103,0.7598603893704947,Male,1,no_enrollment,5,STEM,1.5,1,Public Sector,>4,0,1
+5403,city_67,0.24004586575076048,Male,0,no_enrollment,2,Unknown,-0.,0,Pvt Ltd,never,1,0
+8232,city_103,0.7598603893704947,Male,1,no_enrollment,3,Arts,1.0,3,Pvt Ltd,3,0,1
+40,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,0.1,7,Pvt Ltd,never,0,0
+8991,city_160,0.7598603893704947,Male,0,Full time course,3,STEM,-1.,0,Unknown,1,0,1
+28620,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,never,0,1
+16355,city_21,-1.607294979728601,Female,1,no_enrollment,4,STEM,-0.,8,Pvt Ltd,1,0,0
+18340,city_21,-1.607294979728601,Female,1,Full time course,3,STEM,-0.,0,Public Sector,1,1,0
+5138,city_19,-1.1434604817294534,Male,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+12391,city_99,0.7198746567843612,Unknow,0,Full time course,2,Unknown,-1.,0,Unknown,,0,1
+15550,city_16,0.6798889241982279,Male,1,Full time course,2,Unknown,-1.,3,Pvt Ltd,1,0,1
+27155,city_16,0.6798889241982279,Unknow,0,Unknown,1,Unknown,1.5,0,Unknown,never,1,1
+19883,city_23,0.5919203125087344,Female,1,no_enrollment,3,STEM,-1.,0,Unknown,2,0,0
+25140,city_65,-0.1838028996622527,Unknow,1,Part time course,3,STEM,-0.,0,Unknown,2,0,0
+27463,city_10,0.5599317264398277,Unknow,0,no_enrollment,4,STEM,1.5,4,Pvt Ltd,2,0,0
+23894,city_73,-0.5676659324891333,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+18285,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,0.2,3,Pvt Ltd,3,0,1
+25415,city_102,-0.16780860662779934,Male,1,Part time course,3,STEM,1.5,0,Unknown,1,0,0
+9894,city_102,-0.16780860662779934,Male,1,no_enrollment,3,Humanities,-1.,1,Pvt Ltd,1,0,0
+15242,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,1
+8485,city_40,-0.3917287091101473,Male,0,Full time course,3,STEM,-0.,0,Unknown,2,0,0
+11982,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,0.8,3,Unknown,never,0,0
+28370,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,1,0,1
+17047,city_103,0.7598603893704947,Unknow,0,no_enrollment,0,Unknown,1.5,5,Unknown,2,0,1
+24941,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-0.,3,Pvt Ltd,1,0,0
+28936,city_90,-1.0155061374538275,Male,1,no_enrollment,3,STEM,0.2,1,Unknown,,0,0
+9562,city_73,-0.5676659324891333,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,1,1,0
+30061,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,-1.,0,Funded Startup,1,0,1
+2718,city_11,-2.199083822003374,Male,1,no_enrollment,3,STEM,-0.,3,Funded Startup,1,0,0
+24681,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,6,Public Sector,>4,2,1
+16210,city_73,-0.5676659324891333,Male,1,no_enrollment,4,STEM,-0.,4,Funded Startup,1,0,0
+1517,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,8,Pvt Ltd,1,0,1
+29475,city_103,0.7598603893704947,Male,0,Full time course,2,Unknown,-0.,5,NGO,1,-1,1
+32233,city_11,-2.199083822003374,Unknow,0,no_enrollment,3,STEM,-1.,0,Unknown,never,0,0
+26601,city_16,0.6798889241982279,Male,1,no_enrollment,3,Humanities,1.5,0,Unknown,1,0,1
+22457,city_21,-1.607294979728601,Unknow,1,Unknown,3,STEM,-0.,4,Unknown,1,0,0
+30759,city_74,-1.9671665730038015,Male,0,no_enrollment,3,Other,-1.,0,NGO,1,1,0
+27417,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,>4,0,1
+18983,city_16,0.6798889241982279,Male,0,Full time course,3,STEM,-1.,0,Pvt Ltd,1,0,1
+32085,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,6,Unknown,2,0,1
+13197,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,1,0,1
+14026,city_160,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,1.0,0,Unknown,>4,0,1
+19719,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,0,0
+30046,city_114,0.8078432684738539,Male,1,Full time course,4,STEM,-0.,6,Public Sector,1,0,1
+10446,city_11,-2.199083822003374,Unknow,0,Full time course,2,Unknown,-1.,0,Unknown,1,0,0
+5907,city_149,-1.0874804561088667,Unknow,1,no_enrollment,3,STEM,-1.,3,Pvt Ltd,1,0,0
+1392,city_103,0.7598603893704947,Unknow,0,no_enrollment,1,Unknown,-1.,0,Pvt Ltd,never,0,1
+10348,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,1.1,3,Pvt Ltd,>4,0,1
+7957,city_152,-1.0155061374538275,Unknow,1,no_enrollment,4,STEM,0.7,0,Pvt Ltd,1,0,0
+19058,city_103,0.7598603893704947,Male,0,no_enrollment,4,STEM,0.7,0,Pvt Ltd,1,0,1
+19243,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,1.2,4,Unknown,1,0,1
+7770,city_103,0.7598603893704947,Unknow,0,Full time course,3,STEM,-1.,8,Pvt Ltd,,0,1
+15910,city_97,0.7998461219566281,Male,1,no_enrollment,3,STEM,0.7,6,Pvt Ltd,1,0,1
+30486,city_30,-1.0155061374538275,Unknow,0,Full time course,0,Unknown,-0.,3,Funded Startup,1,0,0
+20333,city_19,-1.1434604817294534,Female,0,no_enrollment,3,STEM,-1.,4,NGO,1,0,0
+6816,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-1.,4,Pvt Ltd,1,0,0
+26209,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,5,Pvt Ltd,1,0,1
+10803,city_114,0.8078432684738539,Male,1,no_enrollment,5,STEM,1.5,0,Unknown,4,3,1
+26411,city_165,0.6239088985776411,Male,0,no_enrollment,5,STEM,-1.,3,Public Sector,1,1,1
+31555,city_103,0.7598603893704947,Male,1,no_enrollment,3,Business Degree,-0.,5,Pvt Ltd,2,0,1
+15564,city_102,-0.16780860662779934,Male,0,no_enrollment,3,STEM,0.5,4,Pvt Ltd,2,0,0
+28764,city_21,-1.607294979728601,Male,0,Full time course,2,Unknown,-1.,0,Unknown,never,1,0
+14172,city_103,0.7598603893704947,Male,1,Full time course,3,Business Degree,1.5,0,Pvt Ltd,3,0,1
+3068,city_21,-1.607294979728601,Male,0,Full time course,3,STEM,-1.,8,Pvt Ltd,1,0,0
+27164,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,1,Pvt Ltd,1,1,1
+20887,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,-0.,6,Pvt Ltd,1,0,1
+27102,city_136,0.575926019474281,Male,1,no_enrollment,4,No Major,-0.,3,Pvt Ltd,1,0,0
+14534,city_114,0.8078432684738539,Male,1,Part time course,2,Unknown,-0.,6,Pvt Ltd,1,0,1
+9021,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,1.5,0,Funded Startup,>4,3,1
+6527,city_123,-0.6956202767647602,Unknow,0,Full time course,3,Other,0.4,0,Unknown,1,2,0
+7615,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,6,Pvt Ltd,>4,0,1
+11392,city_103,0.7598603893704947,Male,1,no_enrollment,5,STEM,-0.,4,NGO,2,0,1
+33148,city_21,-1.607294979728601,Unknow,0,no_enrollment,4,STEM,-1.,4,Pvt Ltd,2,0,0
+20910,city_71,0.4719631147503342,Other,0,Full time course,3,STEM,-1.,0,Unknown,1,0,0
+20269,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.2,0,Pvt Ltd,>4,1,1
+23670,city_103,0.7598603893704947,Unknow,0,Part time course,3,STEM,-1.,0,Unknown,1,0,1
+19946,city_61,0.703880363749907,Female,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,>4,0,1
+29652,city_103,0.7598603893704947,Unknow,0,no_enrollment,3,Business Degree,-1.,3,Pvt Ltd,1,0,1
+23770,city_143,-0.6796259837303069,Male,1,no_enrollment,4,STEM,0.1,0,Pvt Ltd,2,1,0
+24340,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,-0.,6,Pvt Ltd,1,0,0
+18737,city_114,0.8078432684738539,Male,1,no_enrollment,0,Unknown,-0.,4,Pvt Ltd,1,0,1
+24739,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,>4,0,1
+31072,city_123,-0.6956202767647602,Male,1,no_enrollment,5,STEM,1.5,3,Pvt Ltd,2,0,0
+32629,city_136,0.575926019474281,Male,0,Full time course,3,STEM,-1.,0,Unknown,never,3,0
+4184,city_114,0.8078432684738539,Female,1,no_enrollment,2,Unknown,-0.,4,Pvt Ltd,never,0,1
+19028,city_100,0.49595455430201424,Male,0,no_enrollment,4,STEM,-0.,1,Unknown,>4,0,0
+12295,city_70,-1.0155061374538275,Unknow,0,no_enrollment,1,Unknown,-1.,0,Unknown,never,0,0
+17898,city_100,0.49595455430201424,Male,0,no_enrollment,1,Unknown,-1.,0,Unknown,never,3,0
+25160,city_21,-1.607294979728601,Unknow,1,Part time course,4,STEM,-0.,8,Pvt Ltd,1,0,0
+13000,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,1
+8849,city_23,0.5919203125087344,Male,1,no_enrollment,2,Unknown,1.5,0,Unknown,1,0,0
+4773,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,7,Pvt Ltd,>4,0,1
+23867,city_114,0.8078432684738539,Male,0,no_enrollment,3,Humanities,1.4,0,Unknown,4,0,1
+25341,city_114,0.8078432684738539,Unknow,1,Part time course,3,STEM,0.2,0,NGO,1,-1,1
+1456,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.7,0,Unknown,4,1,1
+22152,city_103,0.7598603893704947,Unknow,1,Part time course,4,STEM,-1.,8,NGO,1,0,1
+6560,city_23,0.5919203125087344,Female,1,no_enrollment,3,STEM,0.8,3,NGO,1,0,0
+22829,city_27,0.1840658401301737,Unknow,0,no_enrollment,4,STEM,1.5,6,Pvt Ltd,>4,0,0
+4745,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,1
+22814,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Public Sector,>4,0,1
+23233,city_16,0.6798889241982279,Male,0,no_enrollment,2,Unknown,-1.,0,Unknown,never,0,1
+26370,city_73,-0.5676659324891333,Male,1,Part time course,3,STEM,1.5,0,Pvt Ltd,1,0,0
+12695,city_179,-2.5029753896579883,Male,1,no_enrollment,4,STEM,-0.,0,Pvt Ltd,1,0,0
+11888,city_16,0.6798889241982279,Male,0,Unknown,3,STEM,1.5,0,Pvt Ltd,1,0,1
+319,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.5,3,Pvt Ltd,>4,0,1
+2510,city_21,-1.607294979728601,Female,1,Full time course,3,STEM,-1.,3,Pvt Ltd,never,0,0
+5298,city_104,0.7918489754394014,Unknow,1,no_enrollment,3,STEM,-0.,4,NGO,1,0,1
+18400,city_65,-0.1838028996622527,Male,1,Part time course,4,STEM,-0.,5,Pvt Ltd,4,0,0
+30849,city_21,-1.607294979728601,Male,0,no_enrollment,4,STEM,-1.,7,Pvt Ltd,1,0,0
+31123,city_16,0.6798889241982279,Male,1,no_enrollment,3,Humanities,0.4,0,Unknown,1,0,1
+15829,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Pvt Ltd,2,0,1
+15578,city_136,0.575926019474281,Male,1,no_enrollment,3,No Major,0.5,1,Pvt Ltd,>4,0,0
+4037,city_103,0.7598603893704947,Male,1,Full time course,3,STEM,1.5,3,Pvt Ltd,>4,0,1
+29658,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,1,Funded Startup,2,0,1
+10171,city_61,0.703880363749907,Male,1,no_enrollment,4,STEM,1.5,0,Pvt Ltd,>4,0,1
+1937,city_23,0.5919203125087344,Male,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,4,0,0
+7376,city_75,0.9118061731978017,Male,1,no_enrollment,3,Other,-0.,5,Pvt Ltd,2,1,1
+25243,city_114,0.8078432684738539,Male,1,no_enrollment,2,Unknown,-0.,3,Pvt Ltd,1,0,1
+9234,city_61,0.703880363749907,Unknow,1,no_enrollment,3,STEM,1.5,1,Pvt Ltd,3,2,1
+8471,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,0,1
+5367,city_160,0.7598603893704947,Female,1,no_enrollment,3,STEM,-1.,6,Pvt Ltd,2,0,1
+5576,city_75,0.9118061731978017,Male,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,2,0,1
+5488,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.2,3,Funded Startup,1,-1,1
+18306,city_103,0.7598603893704947,Male,1,no_enrollment,2,Unknown,-0.,0,Early Stage Startup,1,0,1
+2063,city_50,0.5679288729570535,Unknow,1,no_enrollment,3,STEM,-0.,8,Public Sector,1,0,0
+14205,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,2,0,1
+16490,city_67,0.24004586575076048,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+10560,city_36,0.5439374334053744,Male,1,no_enrollment,3,STEM,1.5,1,Pvt Ltd,>4,0,0
+23064,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,7,Pvt Ltd,>4,3,1
+32545,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.4,0,Early Stage Startup,1,0,1
+29833,city_115,-0.28776580438619953,Female,0,no_enrollment,3,STEM,-1.,0,Unknown,never,0,0
+14200,city_160,0.7598603893704947,Male,1,no_enrollment,1,Unknown,1.5,4,Pvt Ltd,1,0,1
+29830,city_21,-1.607294979728601,Male,1,Part time course,3,STEM,-0.,0,Unknown,never,0,0
+21423,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,Other,-1.,3,Pvt Ltd,,2,0
+13869,city_114,0.8078432684738539,Male,0,no_enrollment,5,STEM,1.5,6,Public Sector,>4,0,1
+28259,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,0.4,5,Pvt Ltd,2,0,1
+9618,city_103,0.7598603893704947,Female,1,no_enrollment,3,Humanities,1.5,0,Unknown,>4,0,1
+18209,city_128,-2.383018191899588,Male,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,0
+27437,city_77,0.04011720282009346,Male,1,no_enrollment,5,Business Degree,1.4,3,Pvt Ltd,1,0,0
+17129,city_103,0.7598603893704947,Male,0,Full time course,4,STEM,0.5,0,Unknown,never,1,1
+8349,city_116,-0.6556345441786269,Male,1,no_enrollment,4,STEM,1.1,6,Pvt Ltd,4,0,0
+6179,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,2,0,1
+28842,city_136,0.575926019474281,Male,0,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+26563,city_41,0.016125763268414313,Male,1,no_enrollment,3,STEM,-0.,7,Pvt Ltd,2,0,0
+19256,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,0,Pvt Ltd,1,0,1
+25579,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,6,NGO,3,0,1
+27521,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.1,6,Pvt Ltd,>4,1,1
+31378,city_16,0.6798889241982279,Male,1,no_enrollment,4,Business Degree,1.5,6,Pvt Ltd,>4,0,1
+14870,city_11,-2.199083822003374,Male,1,no_enrollment,3,STEM,1.0,6,Pvt Ltd,1,0,0
+11929,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,2,0,1
+14585,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,8,Pvt Ltd,never,0,0
+32487,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,0.1,8,Pvt Ltd,1,0,0
+15593,city_90,-1.0155061374538275,Male,1,no_enrollment,3,STEM,0.5,0,Unknown,1,0,0
+13170,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,0.8,3,Pvt Ltd,1,2,1
+24544,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,>4,0,1
+11613,city_21,-1.607294979728601,Male,1,no_enrollment,4,Business Degree,-1.,1,Pvt Ltd,1,0,0
+30221,city_11,-2.199083822003374,Unknow,0,Part time course,3,STEM,-1.,0,Unknown,1,0,0
+28251,city_165,0.6239088985776411,Other,1,no_enrollment,3,Humanities,-1.,1,Pvt Ltd,1,0,1
+4062,city_36,0.5439374334053744,Male,1,Full time course,4,STEM,-0.,6,Public Sector,4,0,0
+29018,city_102,-0.16780860662779934,Male,1,no_enrollment,3,STEM,0.4,0,Unknown,>4,0,0
+26433,city_67,0.24004586575076048,Unknow,1,Part time course,3,STEM,-0.,4,Pvt Ltd,1,1,0
+5489,city_50,0.5679288729570535,Male,1,no_enrollment,3,No Major,0.7,0,Unknown,>4,0,0
+19459,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,2,0,1
+6017,city_116,-0.6556345441786269,Male,0,Full time course,3,STEM,-0.,4,Pvt Ltd,never,0,0
+24261,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,8,Pvt Ltd,1,0,0
+16705,city_102,-0.16780860662779934,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,2,0
+16540,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,0.8,8,Pvt Ltd,1,0,0
+7508,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,6,Public Sector,4,0,1
+32650,city_173,0.4239802356469741,Male,0,no_enrollment,3,Humanities,-1.,8,Pvt Ltd,1,0,0
+21381,city_21,-1.607294979728601,Unknow,1,no_enrollment,4,STEM,-0.,8,Pvt Ltd,2,0,0
+9487,city_21,-1.607294979728601,Male,0,Full time course,3,STEM,-0.,0,Unknown,never,1,0
+9040,city_65,-0.1838028996622527,Male,0,no_enrollment,3,STEM,-1.,1,Pvt Ltd,2,0,0
+12854,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,2,0,1
+32495,city_64,-1.2714148260050813,Male,0,no_enrollment,3,Other,1.5,0,Unknown,1,0,0
+1622,city_64,-1.2714148260050813,Other,0,Full time course,3,STEM,-0.,0,Pvt Ltd,never,0,0
+15660,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-1.,1,Pvt Ltd,1,-1,0
+4052,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+23279,city_46,-0.5036887603513199,Unknow,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,0
+20286,city_103,0.7598603893704947,Female,1,Full time course,4,STEM,-0.,3,Public Sector,2,0,1
+13832,city_128,-2.383018191899588,Male,1,Part time course,3,STEM,-0.,8,Pvt Ltd,1,0,0
+8066,city_45,0.5199459938536943,Unknow,0,Full time course,2,Unknown,-0.,0,Unknown,3,0,0
+31585,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,1.5,5,Pvt Ltd,1,0,1
+1249,city_159,0.1440801075440403,Male,1,no_enrollment,3,STEM,-0.,4,NGO,1,0,0
+10843,city_16,0.6798889241982279,Female,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,>4,0,1
+9706,city_136,0.575926019474281,Male,0,no_enrollment,4,STEM,-0.,4,NGO,>4,0,0
+14601,city_21,-1.607294979728601,Unknow,1,Full time course,4,STEM,-1.,1,Unknown,1,0,0
+5823,city_67,0.24004586575076048,Unknow,1,no_enrollment,4,STEM,0.5,0,Unknown,2,0,0
+1148,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.1,3,NGO,1,2,1
+31284,city_16,0.6798889241982279,Male,1,Full time course,4,STEM,1.5,8,Pvt Ltd,1,0,1
+21383,city_67,0.24004586575076048,Male,0,no_enrollment,4,STEM,0.5,0,Unknown,2,1,0
+32156,city_16,0.6798889241982279,Male,0,Full time course,4,STEM,0.5,3,Public Sector,1,0,1
+14110,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,-0.,8,Pvt Ltd,4,0,1
+20035,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,2,0,0
+20872,city_116,-0.6556345441786269,Male,0,Full time course,2,Unknown,-0.,1,Unknown,1,0,0
+14568,city_21,-1.607294979728601,Male,0,no_enrollment,4,STEM,-1.,3,Pvt Ltd,1,0,0
+12115,city_114,0.8078432684738539,Male,1,no_enrollment,5,STEM,1.5,0,Unknown,>4,1,1
+26440,city_45,0.5199459938536943,Male,1,Full time course,2,Unknown,-0.,1,Pvt Ltd,2,0,0
+28319,city_114,0.8078432684738539,Male,1,Unknown,3,STEM,0.4,6,Pvt Ltd,1,0,1
+11654,city_44,-0.7995831814887071,Female,1,Full time course,4,STEM,-0.,3,Unknown,never,0,0
+22964,city_114,0.8078432684738539,Unknow,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,never,0,1
+6834,city_80,0.17606869361294702,Female,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,0
+15305,city_73,-0.5676659324891333,Female,0,Part time course,3,STEM,-0.,0,Unknown,1,2,0
+14669,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,3,Funded Startup,1,-1,0
+15978,city_103,0.7598603893704947,Male,1,no_enrollment,2,Unknown,1.5,4,Pvt Ltd,>4,3,1
+32027,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,4,0,1
+4806,city_114,0.8078432684738539,Male,0,no_enrollment,4,Humanities,1.1,4,Pvt Ltd,>4,0,1
+23700,city_100,0.49595455430201424,Unknow,0,Full time course,5,STEM,1.5,5,Public Sector,>4,0,0
+5956,city_114,0.8078432684738539,Male,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,1
+2441,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,6,Pvt Ltd,>4,0,1
+20068,city_114,0.8078432684738539,Male,1,Part time course,3,Humanities,1.5,0,Unknown,>4,0,1
+18369,city_21,-1.607294979728601,Unknow,0,no_enrollment,4,STEM,0.1,1,Public Sector,2,0,0
+28121,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,>4,0,0
+15061,city_136,0.575926019474281,Male,1,Full time course,4,STEM,-1.,7,Unknown,4,0,0
+7443,city_173,0.4239802356469741,Male,1,no_enrollment,4,STEM,-0.,8,Pvt Ltd,1,3,0
+14456,city_21,-1.607294979728601,Female,1,Full time course,3,STEM,-1.,3,Pvt Ltd,1,0,0
+1864,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,4,Early Stage Startup,2,0,1
+23766,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,3,1
+13051,city_136,0.575926019474281,Male,1,Full time course,4,STEM,0.8,0,Unknown,1,0,0
+25644,city_16,0.6798889241982279,Unknow,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,3,3,1
+16941,city_103,0.7598603893704947,Male,1,Part time course,3,Business Degree,-0.,3,Pvt Ltd,4,0,1
+30388,city_67,0.24004586575076048,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,0,0
+5861,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,0.8,4,Pvt Ltd,>4,0,1
+9840,city_114,0.8078432684738539,Male,0,Full time course,2,Unknown,-0.,0,Public Sector,1,0,1
+16203,city_89,0.7998461219566281,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,1,0,1
+23986,city_128,-2.383018191899588,Male,0,no_enrollment,4,STEM,-1.,0,Unknown,1,0,0
+6889,city_28,0.9118061731978017,Male,1,no_enrollment,4,STEM,0.4,1,Pvt Ltd,1,1,1
+3658,city_16,0.6798889241982279,Male,1,no_enrollment,2,Unknown,0.2,3,Pvt Ltd,1,0,1
+4004,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,-1.,0,Funded Startup,1,0,1
+14620,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,>4,0,1
+18979,city_114,0.8078432684738539,Unknow,1,no_enrollment,4,STEM,0.5,3,Pvt Ltd,1,1,1
+25101,city_21,-1.607294979728601,Unknow,0,Full time course,4,STEM,-1.,7,Pvt Ltd,1,3,0
+10873,city_114,0.8078432684738539,Male,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,1
+24570,city_16,0.6798889241982279,Male,1,no_enrollment,3,Humanities,1.5,8,Pvt Ltd,>4,0,1
+25051,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,0,Unknown,4,0,1
+22366,city_90,-1.0155061374538275,Male,1,Part time course,4,STEM,0.4,3,Funded Startup,1,0,0
+11762,city_105,-0.24778007180006614,Male,0,no_enrollment,4,Business Degree,-1.,4,Pvt Ltd,2,0,0
+9993,city_16,0.6798889241982279,Male,0,no_enrollment,3,STEM,-0.,7,Public Sector,2,0,1
+31464,city_80,0.17606869361294702,Male,0,no_enrollment,1,Unknown,-1.,0,Unknown,never,0,0
+5040,city_64,-1.2714148260050813,Female,1,no_enrollment,3,Other,-1.,0,Pvt Ltd,2,0,0
+976,city_67,0.24004586575076048,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,2,0,0
+30784,city_114,0.8078432684738539,Male,1,Full time course,2,Unknown,1.0,5,Pvt Ltd,>4,1,1
+31557,city_100,0.49595455430201424,Male,0,no_enrollment,3,Humanities,-1.,0,Unknown,1,0,0
+22982,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,1,0,1
+29300,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,0,Pvt Ltd,1,0,1
+5932,city_72,-0.23978292528283945,Male,1,no_enrollment,3,STEM,-0.,7,Pvt Ltd,1,0,0
+31852,city_73,-0.5676659324891333,Male,1,no_enrollment,3,STEM,-0.,3,Unknown,2,-1,0
+20833,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.4,0,Pvt Ltd,1,0,1
+9501,city_71,0.4719631147503342,Male,1,no_enrollment,3,STEM,-0.,4,Unknown,1,0,0
+9707,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,0,Unknown,2,0,1
+20756,city_116,-0.6556345441786269,Male,1,no_enrollment,4,STEM,-1.,5,Pvt Ltd,1,0,0
+11541,city_114,0.8078432684738539,Male,0,no_enrollment,4,Humanities,-0.,3,NGO,1,0,1
+28084,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,>4,0,0
+9726,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.8,0,Unknown,>4,0,1
+31483,city_10,0.5599317264398277,Unknow,0,no_enrollment,3,STEM,0.5,6,Pvt Ltd,,0,0
+17440,city_171,-1.2874091190395336,Male,1,no_enrollment,0,Unknown,-0.,0,Unknown,1,0,0
+30836,city_134,-1.0155061374538275,Male,0,no_enrollment,3,STEM,-0.,0,Pvt Ltd,1,0,0
+139,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.0,5,Pvt Ltd,1,0,1
+2606,city_158,-0.47170017428241406,Male,0,Full time course,3,STEM,-0.,0,Unknown,never,0,0
+14158,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,-0.,0,Unknown,1,0,1
+13100,city_27,0.1840658401301737,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,2,0,0
+30502,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,7,Public Sector,1,0,1
+24245,city_16,0.6798889241982279,Male,1,no_enrollment,2,Unknown,1.5,0,Pvt Ltd,1,0,1
+28562,city_50,0.5679288729570535,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,4,1,0
+12735,city_50,0.5679288729570535,Male,1,no_enrollment,3,STEM,-0.,3,Unknown,2,0,0
+4114,city_114,0.8078432684738539,Female,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,3,0,1
+30367,city_102,-0.16780860662779934,Male,0,no_enrollment,4,STEM,0.8,0,Unknown,2,0,0
+5412,city_173,0.4239802356469741,Male,1,no_enrollment,3,STEM,-1.,0,Unknown,1,0,0
+27834,city_50,0.5679288729570535,Male,1,no_enrollment,4,STEM,-0.,5,Pvt Ltd,1,0,0
+4709,city_90,-1.0155061374538275,Male,0,no_enrollment,1,Unknown,-1.,0,Unknown,never,0,0
+23880,city_13,0.016125763268414313,Unknow,0,no_enrollment,3,Humanities,-1.,0,Unknown,never,0,0
+18607,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,1,0,1
+15527,city_28,0.9118061731978017,Male,1,Part time course,2,Unknown,-0.,8,Unknown,1,1,1
+13748,city_73,-0.5676659324891333,Male,1,no_enrollment,3,STEM,1.0,8,Pvt Ltd,1,0,0
+24331,city_21,-1.607294979728601,Male,1,Part time course,3,STEM,-0.,6,Pvt Ltd,3,0,0
+10636,city_65,-0.1838028996622527,Male,1,no_enrollment,3,No Major,0.2,6,Pvt Ltd,>4,0,0
+12488,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,1,Early Stage Startup,1,0,0
+16660,city_114,0.8078432684738539,Male,1,no_enrollment,2,Unknown,-1.,4,Pvt Ltd,1,0,1
+2892,city_41,0.016125763268414313,Unknow,1,Unknown,4,STEM,-0.,0,Unknown,,0,0
+6332,city_160,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,0.1,0,Unknown,1,0,1
+6504,city_21,-1.607294979728601,Male,1,Full time course,4,STEM,0.2,8,Pvt Ltd,never,0,0
+19043,city_46,-0.5036887603513199,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,0
+22715,city_162,-0.4637030277651865,Male,1,no_enrollment,3,STEM,0.1,4,Pvt Ltd,>4,0,0
+27606,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,0.5,0,Pvt Ltd,2,0,1
+33052,city_99,0.7198746567843612,Male,1,no_enrollment,3,STEM,0.7,4,Pvt Ltd,1,0,1
+6793,city_138,0.08810008192345355,Male,0,no_enrollment,4,STEM,-0.,3,Funded Startup,1,0,0
+16595,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,2,0,0
+18261,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,-0.,0,NGO,never,0,0
+27307,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,-0.,5,Unknown,2,0,1
+25699,city_16,0.6798889241982279,Unknow,0,Full time course,3,STEM,-0.,0,Unknown,never,0,1
+11707,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,3,0,1
+21613,city_21,-1.607294979728601,Female,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,1,0,0
+32057,city_116,-0.6556345441786269,Unknow,1,no_enrollment,4,STEM,0.5,0,Unknown,1,0,0
+115,city_61,0.703880363749907,Male,1,no_enrollment,3,STEM,0.2,6,Pvt Ltd,1,0,1
+6823,city_28,0.9118061731978017,Male,1,no_enrollment,3,STEM,1.5,3,Funded Startup,1,1,1
+14353,city_149,-1.0874804561088667,Male,0,Full time course,1,Unknown,-0.,1,Early Stage Startup,1,0,0
+26805,city_103,0.7598603893704947,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,>4,0,1
+15635,city_149,-1.0874804561088667,Male,0,Full time course,2,Unknown,-1.,0,Unknown,1,0,0
+26417,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,1,0,1
+3848,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.4,3,Pvt Ltd,3,0,1
+17211,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-0.,3,Pvt Ltd,2,-1,0
+13103,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,0.4,8,Pvt Ltd,3,-1,1
+5243,city_101,-2.1351066498655618,Unknow,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,>4,0,0
+2107,city_162,-0.4637030277651865,Male,1,Part time course,3,Business Degree,0.5,3,Pvt Ltd,3,0,0
+30974,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,2,0,1
+2998,city_136,0.575926019474281,Male,0,Part time course,4,STEM,-0.,8,Pvt Ltd,1,0,0
+22975,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,2,1,1
+27239,city_21,-1.607294979728601,Male,0,Unknown,3,STEM,-1.,0,Pvt Ltd,1,0,0
+18463,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,0,Unknown,never,0,1
+21490,city_21,-1.607294979728601,Unknow,1,no_enrollment,4,STEM,-0.,4,Pvt Ltd,,0,0
+30657,city_65,-0.1838028996622527,Male,0,no_enrollment,3,STEM,-1.,0,Pvt Ltd,2,2,0
+32075,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,-0.,0,Unknown,2,0,0
+31141,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.8,1,Pvt Ltd,1,0,1
+2340,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,-0.,1,Pvt Ltd,1,0,1
+21188,city_16,0.6798889241982279,Unknow,0,no_enrollment,5,STEM,-1.,8,NGO,1,0,1
+24156,city_67,0.24004586575076048,Male,0,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+32584,city_142,-0.7835888884542537,Unknow,1,no_enrollment,4,STEM,0.5,0,Pvt Ltd,4,0,0
+6515,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,0
+14292,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,0.8,8,Pvt Ltd,>4,3,1
+16125,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,Humanities,1.2,4,Pvt Ltd,>4,0,1
+25802,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,1.5,0,Unknown,>4,0,1
+19385,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,0.1,8,Pvt Ltd,1,0,0
+27304,city_115,-0.28776580438619953,Male,0,no_enrollment,4,STEM,1.4,3,Pvt Ltd,>4,0,0
+3697,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,0.7,8,Pvt Ltd,>4,0,0
+11800,city_25,-1.0155061374538275,Male,1,no_enrollment,4,STEM,-0.,5,Pvt Ltd,2,0,0
+180,city_103,0.7598603893704947,Male,0,no_enrollment,3,Humanities,-1.,4,Funded Startup,2,0,1
+7733,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-1.,3,Unknown,1,0,0
+6935,city_16,0.6798889241982279,Male,1,Full time course,4,STEM,1.5,3,Pvt Ltd,2,1,1
+4082,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Public Sector,>4,0,1
+31959,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,-0.,0,Funded Startup,1,0,1
+25113,city_21,-1.607294979728601,Male,0,Full time course,3,STEM,-1.,0,Unknown,1,0,0
+14329,city_57,0.32801447744025397,Male,0,Full time course,4,STEM,-0.,0,Unknown,4,0,0
+15570,city_114,0.8078432684738539,Male,1,no_enrollment,3,Humanities,-0.,1,Pvt Ltd,2,0,1
+32516,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,1,Early Stage Startup,1,0,0
+2535,city_14,-1.0155061374538275,Male,1,no_enrollment,4,STEM,1.5,1,Early Stage Startup,>4,0,0
+16014,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.0,4,Pvt Ltd,1,0,1
+24251,city_114,0.8078432684738539,Male,0,no_enrollment,2,Unknown,-0.,1,Pvt Ltd,>4,1,1
+31019,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,0,Pvt Ltd,never,0,1
+21012,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,2,1
+22140,city_103,0.7598603893704947,Unknow,0,no_enrollment,3,STEM,-1.,6,Public Sector,2,0,1
+21462,city_21,-1.607294979728601,Male,0,no_enrollment,3,STEM,-0.,8,Public Sector,1,2,0
+20786,city_16,0.6798889241982279,Male,0,Full time course,4,STEM,-0.,0,Unknown,3,-1,1
+32404,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.1,0,Unknown,4,0,1
+16084,city_11,-2.199083822003374,Unknow,1,Full time course,3,STEM,-0.,3,Pvt Ltd,>4,0,0
+20103,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,>4,0,1
+22525,city_50,0.5679288729570535,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,0
+13230,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,1
+29502,city_23,0.5919203125087344,Male,1,no_enrollment,2,Unknown,-0.,4,Funded Startup,1,0,0
+11646,city_10,0.5599317264398277,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,1,0,0
+6058,city_98,0.9917776383700684,Male,1,no_enrollment,4,STEM,0.7,3,Unknown,2,0,1
+30892,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-1.,5,Pvt Ltd,1,0,1
+31017,city_149,-1.0874804561088667,Female,0,no_enrollment,3,STEM,-0.,3,Early Stage Startup,1,0,0
+23803,city_71,0.4719631147503342,Male,1,Part time course,3,STEM,-0.,3,Pvt Ltd,2,0,0
+6831,city_128,-2.383018191899588,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,>4,0,0
+20380,city_21,-1.607294979728601,Male,0,Full time course,4,STEM,-1.,0,Pvt Ltd,1,0,0
+15629,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.1,6,Pvt Ltd,2,0,1
+17342,city_114,0.8078432684738539,Female,0,Part time course,2,Unknown,0.8,6,Unknown,2,0,1
+22359,city_103,0.7598603893704947,Male,0,no_enrollment,0,Unknown,-0.,0,Unknown,never,1,1
+27610,city_27,0.1840658401301737,Male,1,no_enrollment,3,STEM,-0.,1,Pvt Ltd,2,0,0
+26769,city_102,-0.16780860662779934,Unknow,0,Full time course,3,STEM,-0.,0,Unknown,never,0,0
+3979,city_73,-0.5676659324891333,Unknow,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,0,0
+25171,city_16,0.6798889241982279,Unknow,0,Full time course,3,STEM,-1.,1,Early Stage Startup,1,0,1
+23379,city_67,0.24004586575076048,Male,0,Part time course,3,STEM,0.8,0,Unknown,>4,1,0
+18138,city_27,0.1840658401301737,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,0
+31687,city_173,0.4239802356469741,Male,1,no_enrollment,2,Unknown,-1.,0,Funded Startup,1,0,0
+23739,city_102,-0.16780860662779934,Male,1,no_enrollment,4,STEM,0.1,0,Unknown,2,0,0
+8392,city_21,-1.607294979728601,Male,0,Full time course,3,STEM,-1.,0,Early Stage Startup,1,-1,0
+6427,city_75,0.9118061731978017,Male,1,Part time course,5,Arts,1.5,0,Unknown,>4,0,1
+27813,city_16,0.6798889241982279,Male,1,no_enrollment,5,Humanities,0.8,7,Public Sector,>4,3,1
+20687,city_104,0.7918489754394014,Unknow,0,Full time course,2,Unknown,-0.,4,Pvt Ltd,,0,1
+22527,city_33,-3.014792766760496,Male,0,no_enrollment,3,STEM,-0.,0,Unknown,2,0,0
+33343,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,1,0,0
+818,city_103,0.7598603893704947,Female,0,no_enrollment,3,Humanities,1.5,8,Pvt Ltd,4,0,1
+31669,city_21,-1.607294979728601,Male,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,0
+10952,city_16,0.6798889241982279,Male,0,Full time course,3,STEM,-0.,6,Public Sector,1,0,1
+16331,city_61,0.703880363749907,Male,1,no_enrollment,3,STEM,0.8,6,Pvt Ltd,1,0,1
+32029,city_103,0.7598603893704947,Male,1,no_enrollment,5,STEM,1.4,8,Public Sector,3,0,1
+21152,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,-1.,6,Pvt Ltd,3,0,1
+23488,city_16,0.6798889241982279,Male,0,no_enrollment,3,STEM,1.0,8,Pvt Ltd,>4,-1,1
+11945,city_21,-1.607294979728601,Male,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,0
+1670,city_103,0.7598603893704947,Female,0,Full time course,3,STEM,-1.,1,Public Sector,1,0,1
+16104,city_103,0.7598603893704947,Unknow,0,no_enrollment,2,Unknown,-1.,0,Unknown,never,0,1
+4158,city_103,0.7598603893704947,Unknow,0,no_enrollment,2,Unknown,-0.,7,Public Sector,2,0,1
+29781,city_16,0.6798889241982279,Male,1,no_enrollment,3,Business Degree,-0.,3,Funded Startup,3,0,1
+6720,city_21,-1.607294979728601,Unknow,1,Full time course,0,Unknown,-1.,0,Unknown,,0,0
+14369,city_79,-1.0155061374538275,Unknow,1,Full time course,4,STEM,0.1,0,Unknown,1,2,0
+20235,city_91,-1.0714861630744141,Male,1,no_enrollment,2,Unknown,1.0,3,Funded Startup,1,0,0
+3617,city_16,0.6798889241982279,Unknow,1,no_enrollment,3,STEM,1.5,3,Public Sector,3,0,1
+30756,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,0.1,0,Unknown,never,0,0
+22625,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,4,Public Sector,2,0,0
+22057,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,3,0,0
+20635,city_21,-1.607294979728601,Unknow,0,Part time course,3,STEM,-1.,8,Pvt Ltd,1,0,0
+1588,city_160,0.7598603893704947,Unknow,0,Full time course,2,Unknown,-1.,5,Pvt Ltd,1,0,1
+234,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.1,4,Pvt Ltd,2,1,1
+18752,city_33,-3.014792766760496,Male,1,no_enrollment,4,STEM,-0.,0,Unknown,1,0,0
+18128,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,-0.,3,Pvt Ltd,1,0,1
+18260,city_159,0.1440801075440403,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,2,0,0
+19332,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,0.8,6,Public Sector,3,0,1
+9564,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,3,0,1
+5685,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,0,Pvt Ltd,>4,0,1
+18063,city_105,-0.24778007180006614,Unknow,1,no_enrollment,3,STEM,-1.,3,Pvt Ltd,1,0,0
+27124,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Public Sector,>4,-1,1
+3395,city_53,-0.6796259837303069,Male,0,Full time course,2,Unknown,-1.,0,Unknown,1,1,0
+22310,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,0,1
+15977,city_175,-0.3917287091101473,Male,0,Full time course,2,Unknown,-1.,1,Unknown,1,0,0
+4917,city_103,0.7598603893704947,Male,1,Part time course,3,STEM,-0.,8,Public Sector,>4,1,1
+19102,city_9,-0.6556345441786269,Male,1,Full time course,0,Unknown,1.2,0,Funded Startup,2,1,0
+23275,city_103,0.7598603893704947,Unknow,0,Full time course,2,Unknown,-0.,0,Unknown,1,0,1
+13157,city_103,0.7598603893704947,Male,1,Part time course,3,STEM,0.1,0,Unknown,1,0,1
+13269,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,-0.,6,NGO,1,1,1
+29977,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+20571,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,-0.,8,Pvt Ltd,1,0,1
+23883,city_128,-2.383018191899588,Male,1,Part time course,4,STEM,0.8,7,Public Sector,>4,0,0
+33033,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,-1.,0,Unknown,1,0,1
+10579,city_101,-2.1351066498655618,Unknow,1,Full time course,3,STEM,-0.,5,Pvt Ltd,,0,0
+5258,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-0.,6,Pvt Ltd,2,0,0
+853,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,4,Public Sector,2,0,1
+27245,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,0.8,6,Pvt Ltd,1,0,0
+30670,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,1
+22497,city_26,-1.0155061374538275,Other,1,Part time course,2,Unknown,-0.,4,Unknown,1,0,0
+3218,city_102,-0.16780860662779934,Male,1,no_enrollment,3,STEM,0.8,4,Pvt Ltd,1,0,0
+464,city_114,0.8078432684738539,Unknow,0,Full time course,2,Unknown,1.4,0,Pvt Ltd,never,0,1
+15770,city_160,0.7598603893704947,Male,1,no_enrollment,2,Unknown,1.5,0,Funded Startup,>4,0,1
+18264,city_114,0.8078432684738539,Female,1,no_enrollment,1,Unknown,1.5,0,Pvt Ltd,>4,0,1
+32066,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,1,0,0
+11386,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,-0.,0,Unknown,3,0,1
+17502,city_136,0.575926019474281,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+32273,city_21,-1.607294979728601,Unknow,1,Full time course,4,STEM,-0.,3,Pvt Ltd,1,0,0
+27543,city_65,-0.1838028996622527,Male,1,no_enrollment,3,STEM,1.5,0,Pvt Ltd,1,0,0
+16317,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-1.,4,Pvt Ltd,2,0,0
+2852,city_67,0.24004586575076048,Male,1,no_enrollment,4,STEM,0.8,4,Pvt Ltd,2,0,0
+5056,city_103,0.7598603893704947,Male,0,Full time course,4,Humanities,1.5,8,Public Sector,2,0,1
+17504,city_160,0.7598603893704947,Other,0,no_enrollment,3,STEM,-1.,0,Unknown,never,-1,1
+24585,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,0
+11734,city_134,-1.0155061374538275,Unknow,0,Unknown,1,Unknown,-0.,0,Unknown,never,2,0
+16675,city_67,0.24004586575076048,Male,1,no_enrollment,4,STEM,-0.,8,Pvt Ltd,1,0,0
+23344,city_11,-2.199083822003374,Male,1,no_enrollment,4,STEM,-0.,0,Unknown,2,3,0
+21786,city_57,0.32801447744025397,Male,0,no_enrollment,4,STEM,-0.,1,Pvt Ltd,>4,0,0
+31079,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,-1.,3,Pvt Ltd,never,0,0
+33251,city_114,0.8078432684738539,Male,1,Unknown,4,STEM,1.5,8,Pvt Ltd,>4,0,1
+7805,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,1.1,4,Pvt Ltd,1,0,1
+8911,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,1
+7315,city_26,-1.0155061374538275,Male,1,Full time course,3,STEM,0.1,1,Unknown,2,0,0
+28132,city_77,0.04011720282009346,Male,0,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+8367,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,1
+27909,city_104,0.7918489754394014,Male,0,Full time course,2,Unknown,-0.,0,Funded Startup,3,0,1
+32320,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.0,0,Public Sector,1,1,1
+15441,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,1.1,3,Pvt Ltd,1,1,1
+25999,city_65,-0.1838028996622527,Male,0,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+20169,city_103,0.7598603893704947,Unknow,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,1
+11682,city_104,0.7918489754394014,Male,0,Full time course,4,STEM,-1.,0,Unknown,1,0,1
+26581,city_1,0.17606869361294702,Male,1,no_enrollment,3,STEM,-0.,3,Unknown,2,0,0
+14832,city_11,-2.199083822003374,Unknow,1,no_enrollment,3,STEM,-0.,1,Public Sector,1,0,0
+18023,city_70,-1.0155061374538275,Male,1,Part time course,3,STEM,-0.,8,Pvt Ltd,1,0,0
+18963,city_16,0.6798889241982279,Male,1,Part time course,2,Unknown,-0.,0,Pvt Ltd,1,0,1
+9105,city_123,-0.6956202767647602,Female,1,Part time course,3,Other,-0.,3,Pvt Ltd,2,0,0
+18344,city_21,-1.607294979728601,Male,0,Unknown,3,STEM,-1.,0,Unknown,never,0,0
+576,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,2,0,1
+2656,city_114,0.8078432684738539,Male,0,Full time course,4,STEM,-0.,4,Public Sector,1,0,1
+16881,city_103,0.7598603893704947,Male,1,no_enrollment,5,STEM,1.5,3,Pvt Ltd,1,0,1
+30245,city_11,-2.199083822003374,Male,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,0
+9630,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,6,Pvt Ltd,>4,0,1
+3580,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,2,0,1
+14773,city_16,0.6798889241982279,Male,1,no_enrollment,2,Unknown,-0.,0,Unknown,2,0,1
+31238,city_116,-0.6556345441786269,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,-1,0
+1633,city_89,0.7998461219566281,Unknow,1,no_enrollment,3,STEM,1.5,7,Pvt Ltd,>4,0,1
+1995,city_136,0.575926019474281,Unknow,0,Full time course,3,STEM,-0.,0,Unknown,,0,0
+30587,city_160,0.7598603893704947,Male,1,no_enrollment,3,No Major,-1.,3,Pvt Ltd,1,0,1
+32369,city_98,0.9917776383700684,Male,1,no_enrollment,3,STEM,0.1,3,Pvt Ltd,1,0,1
+3722,city_21,-1.607294979728601,Male,0,Part time course,2,Unknown,-1.,0,Unknown,never,0,0
+10721,city_114,0.8078432684738539,Male,0,no_enrollment,5,Humanities,-0.,5,Public Sector,>4,2,1
+407,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,1
+31098,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-1.,8,Pvt Ltd,1,-1,1
+4053,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,1.5,6,Pvt Ltd,4,0,1
+13782,city_175,-0.3917287091101473,Male,0,Part time course,3,STEM,-0.,4,Unknown,1,0,0
+20767,city_67,0.24004586575076048,Unknow,1,no_enrollment,3,STEM,0.2,0,Unknown,1,0,0
+20113,city_73,-0.5676659324891333,Unknow,1,no_enrollment,3,STEM,1.5,0,Pvt Ltd,>4,0,0
+4674,city_176,-0.48769446731686655,Female,0,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+2444,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,3,0,1
+19966,city_61,0.703880363749907,Unknow,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,>4,0,1
+26367,city_46,-0.5036887603513199,Male,1,Full time course,3,STEM,-0.,0,Pvt Ltd,1,0,0
+19508,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,0.8,4,Pvt Ltd,>4,0,1
+13006,city_134,-1.0155061374538275,Unknow,0,no_enrollment,2,Unknown,-0.,0,Unknown,never,0,0
+7563,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.1,4,Pvt Ltd,1,0,1
+25993,city_114,0.8078432684738539,Male,1,no_enrollment,2,Unknown,-0.,6,NGO,1,0,1
+18013,city_16,0.6798889241982279,Unknow,1,Full time course,3,STEM,-0.,0,Unknown,1,0,1
+27699,city_160,0.7598603893704947,Male,1,no_enrollment,3,Other,0.4,6,Pvt Ltd,>4,0,1
+3003,city_103,0.7598603893704947,Male,1,no_enrollment,5,Humanities,-0.,8,Pvt Ltd,1,0,1
+6620,city_28,0.9118061731978017,Male,1,no_enrollment,3,STEM,0.1,6,Public Sector,>4,0,1
+4364,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,4,Funded Startup,1,0,1
+2296,city_36,0.5439374334053744,Male,1,no_enrollment,4,STEM,-0.,1,Pvt Ltd,1,1,0
+17958,city_9,-0.6556345441786269,Unknow,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,0,0
+9740,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+1304,city_138,0.08810008192345355,Unknow,1,no_enrollment,3,STEM,0.2,1,Pvt Ltd,>4,0,0
+28735,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.4,4,Pvt Ltd,1,0,1
+32212,city_16,0.6798889241982279,Male,0,Full time course,2,Unknown,-0.,0,Unknown,1,0,1
+14053,city_73,-0.5676659324891333,Male,0,Part time course,3,STEM,-0.,0,Public Sector,never,0,0
+22641,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.4,3,Pvt Ltd,never,-1,1
+17900,city_11,-2.199083822003374,Male,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,1,0,0
+31333,city_99,0.7198746567843612,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,>4,1,1
+501,city_21,-1.607294979728601,Male,1,Full time course,2,Unknown,-1.,0,Pvt Ltd,never,0,0
+18104,city_71,0.4719631147503342,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,4,0,0
+6092,city_150,-1.0155061374538275,Male,1,no_enrollment,4,Business Degree,1.5,6,Pvt Ltd,>4,0,0
+17249,city_28,0.9118061731978017,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,>4,0,1
+1227,city_123,-0.6956202767647602,Male,0,no_enrollment,3,STEM,-0.,0,Unknown,never,0,0
+23515,city_114,0.8078432684738539,Male,1,Part time course,4,STEM,-0.,4,Public Sector,never,0,1
+16309,city_77,0.04011720282009346,Unknow,1,Part time course,3,STEM,-1.,4,Pvt Ltd,1,3,0
+5368,city_101,-2.1351066498655618,Female,1,Unknown,3,STEM,-0.,3,Pvt Ltd,1,0,0
+27693,city_83,0.7838518289221739,Male,1,no_enrollment,3,STEM,1.1,4,Pvt Ltd,>4,0,1
+2582,city_16,0.6798889241982279,Unknow,1,no_enrollment,3,STEM,1.5,0,Pvt Ltd,>4,0,1
+12096,city_115,-0.28776580438619953,Unknow,0,Full time course,4,STEM,-1.,0,Unknown,1,0,0
+17526,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,-1.,4,Pvt Ltd,1,0,1
+23647,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,6,Pvt Ltd,never,0,1
+11440,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,1.5,0,Unknown,3,0,1
+7942,city_104,0.7918489754394014,Unknow,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,1,0,1
+12064,city_90,-1.0155061374538275,Male,1,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+2170,city_64,-1.2714148260050813,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,4,3,0
+15663,city_123,-0.6956202767647602,Male,0,Full time course,3,STEM,-0.,0,Unknown,2,0,0
+18378,city_21,-1.607294979728601,Unknow,1,Unknown,3,STEM,-0.,3,Other,2,0,0
+5943,city_61,0.703880363749907,Male,1,no_enrollment,5,STEM,1.5,4,Pvt Ltd,3,0,1
+8578,city_114,0.8078432684738539,Male,0,Full time course,3,STEM,-1.,6,Pvt Ltd,never,0,1
+28645,city_16,0.6798889241982279,Female,0,Full time course,4,STEM,-0.,8,Public Sector,4,2,1
+5101,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,1.5,0,Early Stage Startup,>4,0,0
+14529,city_16,0.6798889241982279,Male,0,no_enrollment,5,STEM,1.5,6,Pvt Ltd,1,0,1
+26235,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,1
+24260,city_114,0.8078432684738539,Unknow,0,Unknown,0,Unknown,0.1,4,Unknown,never,0,1
+17549,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,0.4,0,Pvt Ltd,2,0,0
+17610,city_41,0.016125763268414313,Male,1,no_enrollment,3,No Major,-0.,0,Pvt Ltd,3,1,0
+10246,city_160,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.0,0,Unknown,1,0,1
+8990,city_103,0.7598603893704947,Unknow,0,Full time course,4,STEM,-0.,0,Unknown,1,1,1
+20459,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,0
+22775,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,0
+11212,city_36,0.5439374334053744,Male,1,no_enrollment,4,STEM,0.7,3,Pvt Ltd,3,0,0
+11963,city_61,0.703880363749907,Female,1,no_enrollment,4,Humanities,-0.,3,Unknown,1,0,1
+14516,city_11,-2.199083822003374,Male,1,Full time course,3,STEM,-0.,3,Pvt Ltd,1,0,0
+6464,city_75,0.9118061731978017,Male,1,no_enrollment,3,STEM,0.4,3,Pvt Ltd,4,0,1
+31981,city_103,0.7598603893704947,Unknow,0,no_enrollment,2,Unknown,-1.,0,Pvt Ltd,never,2,1
+19350,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,0.5,4,Pvt Ltd,3,0,1
+675,city_103,0.7598603893704947,Unknow,1,Full time course,3,STEM,1.5,0,Pvt Ltd,>4,0,1
+3374,city_21,-1.607294979728601,Male,0,no_enrollment,2,Unknown,-1.,0,Unknown,never,0,0
+24495,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,>4,2,1
+8484,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,1,1
+12459,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-0.,7,Pvt Ltd,never,0,0
+29414,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,2,1,1
+10548,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,1,0,1
+29383,city_100,0.49595455430201424,Male,0,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+13373,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+21283,city_10,0.5599317264398277,Male,1,no_enrollment,4,STEM,-0.,0,Unknown,>4,0,0
+2280,city_21,-1.607294979728601,Unknow,1,Full time course,4,STEM,-1.,3,Pvt Ltd,2,0,0
+5624,city_90,-1.0155061374538275,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,2,0,0
+6778,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,>4,0,0
+2926,city_114,0.8078432684738539,Male,0,no_enrollment,4,STEM,1.5,0,Unknown,1,1,1
+20431,city_152,-1.0155061374538275,Male,1,Full time course,3,STEM,0.8,5,Pvt Ltd,>4,0,0
+29537,city_54,0.24804301226798714,Male,1,no_enrollment,4,STEM,0.1,3,Pvt Ltd,1,0,0
+4450,city_11,-2.199083822003374,Male,0,Full time course,3,STEM,-1.,0,Pvt Ltd,1,0,0
+25833,city_21,-1.607294979728601,Unknow,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,0
+33112,city_114,0.8078432684738539,Unknow,1,no_enrollment,4,STEM,-0.,0,Pvt Ltd,1,0,1
+547,city_114,0.8078432684738539,Male,1,no_enrollment,2,Unknown,0.2,0,Pvt Ltd,>4,0,1
+9270,city_162,-0.4637030277651865,Male,1,Part time course,3,STEM,-0.,0,NGO,4,0,0
+15566,city_13,0.016125763268414313,Male,1,Part time course,2,Unknown,-0.,5,Pvt Ltd,2,0,0
+30826,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.4,4,Funded Startup,2,0,1
+250,city_73,-0.5676659324891333,Male,1,no_enrollment,4,STEM,-0.,3,Pvt Ltd,1,1,0
+25714,city_173,0.4239802356469741,Male,0,no_enrollment,4,STEM,-0.,0,Unknown,2,0,0
+28267,city_21,-1.607294979728601,Female,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,1,0,0
+4504,city_74,-1.9671665730038015,Male,1,no_enrollment,3,STEM,-0.,1,Pvt Ltd,1,1,0
+12581,city_104,0.7918489754394014,Unknow,1,Full time course,3,STEM,-1.,1,Pvt Ltd,never,0,1
+15483,city_24,-1.0155061374538275,Male,0,no_enrollment,4,STEM,1.5,1,Pvt Ltd,>4,0,0
+2894,city_61,0.703880363749907,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,-1,1
+15726,city_61,0.703880363749907,Male,1,no_enrollment,3,STEM,1.5,0,Pvt Ltd,1,0,1
+17117,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.1,1,Pvt Ltd,3,0,1
+14182,city_80,0.17606869361294702,Male,0,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+3699,city_16,0.6798889241982279,Unknow,1,Part time course,3,STEM,-0.,0,Unknown,1,2,1
+29624,city_97,0.7998461219566281,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,3,0,1
+16168,city_46,-0.5036887603513199,Female,1,no_enrollment,4,STEM,-0.,4,Unknown,2,0,0
+9800,city_103,0.7598603893704947,Unknow,0,no_enrollment,4,STEM,1.5,8,Pvt Ltd,3,0,1
+9544,city_21,-1.607294979728601,Male,0,no_enrollment,3,STEM,-0.,0,Unknown,never,2,0
+1433,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,1
+27458,city_46,-0.5036887603513199,Male,0,Full time course,3,STEM,-0.,8,Public Sector,1,0,0
+4804,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,-0.,0,Unknown,1,0,0
+24376,city_114,0.8078432684738539,Unknow,0,no_enrollment,4,Business Degree,-1.,4,Pvt Ltd,2,0,1
+31613,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Public Sector,>4,0,1
+26895,city_65,-0.1838028996622527,Male,1,no_enrollment,3,STEM,-0.,3,Funded Startup,3,0,0
+17085,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,>4,0,1
+22698,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-1.,0,Unknown,1,0,0
+146,city_103,0.7598603893704947,Other,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,-1,1
+24022,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,0.5,8,Pvt Ltd,1,0,0
+14658,city_102,-0.16780860662779934,Male,1,no_enrollment,4,STEM,1.0,0,Pvt Ltd,>4,0,0
+21548,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,1,0,1
+9827,city_138,0.08810008192345355,Male,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,0
+18544,city_21,-1.607294979728601,Male,1,Full time course,2,Unknown,-0.,6,Pvt Ltd,never,0,0
+28874,city_103,0.7598603893704947,Male,1,Part time course,3,STEM,-1.,0,Funded Startup,1,0,1
+6361,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,7,Pvt Ltd,>4,0,1
+13089,city_16,0.6798889241982279,Male,0,no_enrollment,2,Unknown,-0.,0,Unknown,never,0,1
+23426,city_57,0.32801447744025397,Male,1,no_enrollment,4,STEM,0.4,8,Pvt Ltd,1,0,0
+22520,city_21,-1.607294979728601,Male,1,Part time course,3,STEM,-0.,0,Unknown,4,0,0
+9649,city_103,0.7598603893704947,Male,1,no_enrollment,3,Business Degree,0.8,3,Pvt Ltd,1,0,1
+23255,city_100,0.49595455430201424,Unknow,0,Full time course,3,STEM,-0.,0,Unknown,never,0,0
+24081,city_64,-1.2714148260050813,Male,0,Full time course,3,Arts,-1.,0,Unknown,1,0,0
+23116,city_16,0.6798889241982279,Male,0,no_enrollment,1,Unknown,-1.,0,Unknown,never,0,1
+27338,city_21,-1.607294979728601,Male,0,Full time course,3,STEM,0.1,0,Unknown,1,0,0
+14873,city_36,0.5439374334053744,Unknow,1,no_enrollment,3,STEM,-0.,4,Unknown,>4,-1,0
+11886,city_123,-0.6956202767647602,Male,0,no_enrollment,4,STEM,0.5,0,Unknown,>4,0,0
+9207,city_114,0.8078432684738539,Male,1,no_enrollment,2,Unknown,-0.,1,Pvt Ltd,never,0,1
+3291,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,>4,0,1
+5002,city_73,-0.5676659324891333,Unknow,1,Part time course,4,STEM,-0.,7,Pvt Ltd,1,0,0
+6768,city_21,-1.607294979728601,Male,0,Part time course,2,Unknown,-1.,0,Unknown,never,0,0
+6281,city_103,0.7598603893704947,Male,0,no_enrollment,4,STEM,-0.,7,Other,1,2,1
+11155,city_103,0.7598603893704947,Male,0,Full time course,2,Unknown,-0.,8,Pvt Ltd,1,0,1
+14342,city_70,-1.0155061374538275,Male,1,no_enrollment,3,STEM,-0.,1,Other,2,0,0
+10394,city_103,0.7598603893704947,Male,1,no_enrollment,3,Other,0.7,3,Funded Startup,1,0,1
+14014,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.5,4,Pvt Ltd,1,1,1
+28671,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,never,0,1
+5109,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,4,Funded Startup,1,0,1
+31775,city_160,0.7598603893704947,Male,0,no_enrollment,3,STEM,1.5,5,Pvt Ltd,>4,0,1
+17944,city_16,0.6798889241982279,Male,1,no_enrollment,3,Business Degree,0.1,6,Pvt Ltd,1,0,1
+7499,city_28,0.9118061731978017,Unknow,1,no_enrollment,3,STEM,-0.,1,Pvt Ltd,>4,0,1
+13124,city_67,0.24004586575076048,Male,0,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+22808,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,4,Unknown,2,3,0
+29695,city_103,0.7598603893704947,Female,1,no_enrollment,3,Humanities,1.5,0,Pvt Ltd,1,0,1
+6167,city_103,0.7598603893704947,Male,1,no_enrollment,3,No Major,0.5,3,Unknown,1,0,1
+137,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,4,NGO,3,0,1
+19494,city_99,0.7198746567843612,Male,1,no_enrollment,3,STEM,1.5,5,Pvt Ltd,>4,0,1
+33277,city_11,-2.199083822003374,Unknow,0,no_enrollment,4,STEM,-1.,0,Unknown,1,0,0
+3760,city_41,0.016125763268414313,Male,1,Full time course,3,STEM,-0.,6,Pvt Ltd,>4,0,0
+6837,city_90,-1.0155061374538275,Male,0,Full time course,0,Unknown,-0.,0,Unknown,4,0,0
+27220,city_75,0.9118061731978017,Male,0,no_enrollment,3,STEM,-0.,0,Pvt Ltd,1,0,1
+26985,city_115,-0.28776580438619953,Female,1,no_enrollment,3,STEM,-1.,3,Pvt Ltd,1,3,0
+23667,city_103,0.7598603893704947,Male,1,no_enrollment,2,Unknown,-0.,0,Unknown,never,1,1
+7793,city_136,0.575926019474281,Male,0,no_enrollment,4,STEM,-0.,7,NGO,4,0,0
+11502,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,3,Pvt Ltd,never,0,0
+5882,city_114,0.8078432684738539,Unknow,1,Full time course,3,STEM,0.4,0,Unknown,>4,0,1
+24978,city_21,-1.607294979728601,Unknow,1,Unknown,3,STEM,-1.,3,Pvt Ltd,2,0,0
+25866,city_99,0.7198746567843612,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,>4,0,1
+30020,city_103,0.7598603893704947,Male,0,Full time course,2,Unknown,-1.,0,Unknown,1,0,1
+5380,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.0,0,Pvt Ltd,>4,0,1
+20045,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,0,1
+26651,city_61,0.703880363749907,Male,1,no_enrollment,4,STEM,1.5,0,Public Sector,>4,0,1
+14077,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,0.4,6,Pvt Ltd,1,0,1
+32000,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,2,0,1
+26694,city_48,-2.6549211734852953,Unknow,1,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+167,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.4,0,Unknown,3,0,1
+28381,city_67,0.24004586575076048,Unknow,1,no_enrollment,4,STEM,0.1,0,Unknown,1,0,0
+24612,city_160,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,1,Pvt Ltd,2,0,1
+17481,city_114,0.8078432684738539,Male,0,Full time course,3,STEM,0.1,0,Public Sector,>4,0,1
+28007,city_46,-0.5036887603513199,Male,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+26178,city_21,-1.607294979728601,Female,1,Full time course,3,STEM,-0.,8,Pvt Ltd,1,0,0
+13467,city_40,-0.3917287091101473,Male,0,no_enrollment,3,STEM,-0.,4,Pvt Ltd,2,0,0
+5720,city_21,-1.607294979728601,Female,1,no_enrollment,3,STEM,-1.,8,Pvt Ltd,2,0,0
+18565,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,4,Public Sector,3,0,0
+17018,city_75,0.9118061731978017,Male,1,Part time course,3,Business Degree,-0.,8,Pvt Ltd,>4,0,1
+13047,city_159,0.1440801075440403,Male,1,no_enrollment,3,STEM,0.2,5,Pvt Ltd,4,-1,0
+20475,city_21,-1.607294979728601,Male,0,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,0,0
+5150,city_75,0.9118061731978017,Male,1,no_enrollment,5,STEM,1.5,8,Pvt Ltd,2,0,1
+31451,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,0
+14621,city_71,0.4719631147503342,Male,1,no_enrollment,3,STEM,0.1,1,Early Stage Startup,1,0,0
+29123,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,-0.,5,Funded Startup,2,0,1
+13949,city_74,-1.9671665730038015,Male,1,Full time course,3,STEM,-1.,0,Early Stage Startup,1,0,0
+2269,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,8,Pvt Ltd,2,0,0
+12814,city_138,0.08810008192345355,Male,0,no_enrollment,4,STEM,1.5,1,Funded Startup,2,0,0
+5255,city_21,-1.607294979728601,Unknow,1,Part time course,3,STEM,-0.,3,Pvt Ltd,>4,0,0
+3880,city_67,0.24004586575076048,Male,0,Full time course,2,Unknown,-1.,3,Pvt Ltd,1,0,0
+25297,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,2,0,1
+27008,city_21,-1.607294979728601,Male,1,no_enrollment,3,Other,-1.,0,Unknown,never,1,0
+1886,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,1.5,0,Early Stage Startup,1,0,1
+31129,city_103,0.7598603893704947,Male,1,no_enrollment,1,Unknown,1.2,3,Pvt Ltd,>4,0,1
+1123,city_50,0.5679288729570535,Male,1,no_enrollment,4,STEM,0.8,8,Pvt Ltd,>4,0,0
+9149,city_23,0.5919203125087344,Unknow,1,no_enrollment,4,STEM,1.1,3,Pvt Ltd,3,0,0
+21962,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,1
+462,city_11,-2.199083822003374,Unknow,0,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+2677,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-0.,8,Pvt Ltd,never,0,0
+18648,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,5,Pvt Ltd,1,0,1
+25612,city_71,0.4719631147503342,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,1,0,0
+2784,city_71,0.4719631147503342,Unknow,0,no_enrollment,3,Other,-1.,0,Unknown,1,0,0
+33064,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,0.4,6,Pvt Ltd,4,0,0
+3543,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,>4,3,1
+16419,city_114,0.8078432684738539,Female,1,no_enrollment,3,Humanities,-0.,4,Pvt Ltd,1,2,1
+31606,city_103,0.7598603893704947,Male,0,no_enrollment,3,Other,0.5,0,Unknown,1,0,1
+5800,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.7,6,Public Sector,>4,0,1
+9032,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,0,Early Stage Startup,2,0,1
+32908,city_158,-0.47170017428241406,Female,0,Full time course,3,STEM,-1.,0,Pvt Ltd,never,0,0
+31186,city_136,0.575926019474281,Male,1,no_enrollment,4,Other,0.8,3,Pvt Ltd,2,0,0
+18411,city_11,-2.199083822003374,Male,1,no_enrollment,3,STEM,-1.,0,Unknown,1,0,0
+7636,city_103,0.7598603893704947,Unknow,1,no_enrollment,5,STEM,-0.,8,Pvt Ltd,4,0,1
+25586,city_46,-0.5036887603513199,Male,0,no_enrollment,2,Unknown,-1.,0,Unknown,never,0,0
+2583,city_16,0.6798889241982279,Unknow,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,,0,1
+560,city_98,0.9917776383700684,Male,1,no_enrollment,3,STEM,1.5,7,Pvt Ltd,>4,0,1
+5514,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,0,1
+3624,city_136,0.575926019474281,Male,1,no_enrollment,2,Unknown,1.1,8,Pvt Ltd,1,0,0
+1274,city_75,0.9118061731978017,Male,1,no_enrollment,3,STEM,-0.,6,Unknown,never,3,1
+4957,city_90,-1.0155061374538275,Male,1,no_enrollment,3,STEM,0.2,1,Pvt Ltd,3,0,0
+7424,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,Business Degree,1.5,1,Pvt Ltd,2,0,1
+12055,city_64,-1.2714148260050813,Female,1,no_enrollment,3,STEM,-0.,5,Pvt Ltd,2,0,0
+9163,city_21,-1.607294979728601,Male,1,no_enrollment,3,Other,-0.,4,Pvt Ltd,1,0,0
+29171,city_65,-0.1838028996622527,Male,1,no_enrollment,4,STEM,0.5,8,Pvt Ltd,1,0,0
+16193,city_103,0.7598603893704947,Unknow,1,no_enrollment,5,STEM,1.5,7,Pvt Ltd,>4,0,1
+25623,city_152,-1.0155061374538275,Unknow,0,Full time course,3,STEM,-0.,0,Unknown,never,0,0
+2575,city_158,-0.47170017428241406,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,1,0
+21353,city_21,-1.607294979728601,Unknow,0,no_enrollment,3,STEM,0.7,8,Public Sector,>4,0,0
+9106,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,>4,0,1
+30470,city_104,0.7918489754394014,Male,0,no_enrollment,4,Business Degree,-1.,0,Unknown,1,0,1
+20437,city_114,0.8078432684738539,Male,1,no_enrollment,2,Unknown,-0.,0,Unknown,1,0,1
+18316,city_102,-0.16780860662779934,Unknow,0,Part time course,3,STEM,-1.,0,Unknown,2,0,0
+11956,city_65,-0.1838028996622527,Male,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,1,1,0
+8713,city_136,0.575926019474281,Unknow,1,no_enrollment,3,STEM,1.0,0,Unknown,1,0,0
+12951,city_71,0.4719631147503342,Unknow,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+23795,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,3,0,1
+25933,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,-0.,0,Unknown,>4,0,0
+14271,city_103,0.7598603893704947,Unknow,0,Full time course,0,Unknown,0.1,1,Pvt Ltd,>4,0,1
+25129,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,1,Pvt Ltd,,0,0
+344,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,4,NGO,1,0,1
+31672,city_126,-2.7668812247264687,Male,1,Full time course,0,Unknown,-1.,1,Public Sector,1,0,0
+6400,city_103,0.7598603893704947,Male,1,no_enrollment,5,STEM,-0.,6,Public Sector,1,0,1
+30719,city_16,0.6798889241982279,Unknow,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,1
+26660,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,No Major,1.5,0,Pvt Ltd,>4,0,1
+14428,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-0.,0,Unknown,,0,0
+6225,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,Humanities,-1.,1,Pvt Ltd,1,0,1
+7773,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-0.,6,Pvt Ltd,1,0,0
+7720,city_75,0.9118061731978017,Unknow,1,no_enrollment,3,STEM,0.1,1,Pvt Ltd,2,0,1
+2018,city_102,-0.16780860662779934,Male,0,no_enrollment,4,STEM,-0.,5,Pvt Ltd,1,0,0
+5485,city_65,-0.1838028996622527,Male,1,no_enrollment,4,STEM,-0.,0,Unknown,1,0,0
+23288,city_46,-0.5036887603513199,Male,1,no_enrollment,3,No Major,1.2,8,Pvt Ltd,1,0,0
+33010,city_103,0.7598603893704947,Male,0,no_enrollment,2,Unknown,-0.,1,Pvt Ltd,1,0,1
+4819,city_71,0.4719631147503342,Male,1,Part time course,4,STEM,1.5,8,Pvt Ltd,1,0,0
+3127,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,7,Pvt Ltd,>4,0,1
+32360,city_160,0.7598603893704947,Male,1,no_enrollment,3,Business Degree,1.5,3,Pvt Ltd,>4,3,1
+23133,city_98,0.9917776383700684,Male,1,no_enrollment,2,Unknown,-0.,1,Pvt Ltd,1,0,1
+28972,city_21,-1.607294979728601,Unknow,1,Full time course,0,Unknown,-0.,1,Pvt Ltd,1,0,0
+7439,city_21,-1.607294979728601,Unknow,0,Full time course,2,Unknown,-1.,0,Unknown,,0,0
+28333,city_103,0.7598603893704947,Unknow,0,Full time course,3,STEM,-0.,0,Public Sector,1,0,1
+25726,city_24,-1.0155061374538275,Male,1,Unknown,1,Unknown,-1.,0,Unknown,never,1,0
+15009,city_134,-1.0155061374538275,Male,0,no_enrollment,1,Unknown,-1.,0,Unknown,never,0,0
+20205,city_26,-1.0155061374538275,Male,0,no_enrollment,2,Unknown,-1.,0,Unknown,never,3,0
+31245,city_136,0.575926019474281,Male,1,Part time course,4,STEM,-0.,8,Pvt Ltd,4,0,0
+10810,city_123,-0.6956202767647602,Male,0,Full time course,4,STEM,-0.,0,Unknown,never,0,0
+1172,city_9,-0.6556345441786269,Male,0,no_enrollment,3,Humanities,-1.,0,Unknown,1,0,0
+10809,city_82,-1.055491870039961,Female,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,3,2,0
+16944,city_103,0.7598603893704947,Male,1,Full time course,3,STEM,-0.,0,Unknown,3,0,1
+12829,city_69,0.24804301226798714,Male,1,no_enrollment,3,STEM,0.8,3,Pvt Ltd,2,0,0
+24246,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,0.2,0,Pvt Ltd,never,0,1
+33108,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.5,8,Pvt Ltd,>4,0,1
+5484,city_102,-0.16780860662779934,Male,1,no_enrollment,4,STEM,1.5,6,Pvt Ltd,3,0,0
+20725,city_136,0.575926019474281,Male,1,Full time course,4,STEM,-0.,4,Pvt Ltd,2,0,0
+19501,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,0.7,3,Pvt Ltd,>4,0,0
+19468,city_77,0.04011720282009346,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,2,1,0
+1097,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.2,3,Pvt Ltd,4,0,1
+31984,city_40,-0.3917287091101473,Male,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,1,0,0
+172,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+4899,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,1,0,0
+19171,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+21296,city_46,-0.5036887603513199,Male,1,no_enrollment,3,STEM,0.1,5,Public Sector,3,0,0
+14156,city_160,0.7598603893704947,Unknow,0,no_enrollment,3,STEM,-0.,7,Public Sector,3,0,1
+31565,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,1,Pvt Ltd,4,0,1
+21308,city_126,-2.7668812247264687,Male,1,Part time course,3,STEM,-1.,0,Unknown,2,0,0
+691,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+15225,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,-0.,3,Funded Startup,1,0,1
+852,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.8,8,Pvt Ltd,>4,0,1
+3413,city_40,-0.3917287091101473,Unknow,0,Full time course,4,STEM,-0.,0,Unknown,1,0,0
+33234,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,-1.,4,Pvt Ltd,2,0,1
+13314,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,3,Pvt Ltd,1,0,0
+30921,city_103,0.7598603893704947,Male,1,no_enrollment,3,Arts,1.1,1,Early Stage Startup,4,2,1
+17072,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,8,Unknown,>4,0,1
+31230,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,4,Funded Startup,1,0,0
+6689,city_141,-0.4956916138340932,Male,0,no_enrollment,4,STEM,-0.,4,Pvt Ltd,1,0,0
+19117,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,4,Unknown,1,0,1
+32259,city_83,0.7838518289221739,Male,1,no_enrollment,3,STEM,0.7,3,Pvt Ltd,1,1,1
+15640,city_43,-2.4709868035890814,Male,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,2,0,0
+16690,city_114,0.8078432684738539,Male,1,Full time course,2,Unknown,-0.,8,Pvt Ltd,1,0,1
+10928,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-0.,8,Pvt Ltd,1,0,0
+10640,city_116,-0.6556345441786269,Unknow,1,no_enrollment,4,STEM,0.4,4,NGO,1,1,0
+14904,city_67,0.24004586575076048,Male,1,Full time course,3,STEM,-0.,3,Pvt Ltd,1,3,0
+5160,city_75,0.9118061731978017,Unknow,1,Part time course,4,STEM,-0.,8,Pvt Ltd,2,0,1
+8239,city_21,-1.607294979728601,Male,1,Full time course,4,STEM,-0.,7,Pvt Ltd,never,0,0
+11912,city_103,0.7598603893704947,Male,1,Part time course,3,Business Degree,-0.,8,Pvt Ltd,4,0,1
+23554,city_176,-0.48769446731686655,Unknow,0,no_enrollment,1,Unknown,-1.,0,Unknown,never,0,0
+17221,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-0.,0,Unknown,never,0,0
+25072,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,1,0,0
+19240,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.7,1,Pvt Ltd,>4,0,1
+12151,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,2,0,1
+26963,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.2,1,Early Stage Startup,1,0,1
+2889,city_67,0.24004586575076048,Male,1,no_enrollment,3,STEM,-0.,3,Unknown,1,0,0
+19260,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.2,4,Pvt Ltd,4,-1,1
+7626,city_11,-2.199083822003374,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,,0,0
+31896,city_103,0.7598603893704947,Male,0,no_enrollment,5,STEM,0.7,4,Public Sector,>4,0,1
+17673,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,-0.,5,Pvt Ltd,3,0,1
+12645,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,2,0
+13726,city_90,-1.0155061374538275,Male,0,no_enrollment,3,STEM,0.4,1,Unknown,2,0,0
+14240,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,3,Early Stage Startup,2,0,0
+5113,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,-1.,0,Pvt Ltd,3,0,1
+32646,city_21,-1.607294979728601,Unknow,1,no_enrollment,4,Other,-1.,0,Pvt Ltd,2,0,0
+30645,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.1,8,Pvt Ltd,2,0,1
+14500,city_116,-0.6556345441786269,Unknow,0,no_enrollment,3,STEM,-0.,0,Unknown,never,0,0
+16525,city_67,0.24004586575076048,Male,0,no_enrollment,1,Unknown,-0.,0,Unknown,never,0,0
+20663,city_16,0.6798889241982279,Female,1,no_enrollment,3,Humanities,-1.,3,Pvt Ltd,1,0,1
+8897,city_103,0.7598603893704947,Male,0,Full time course,3,Other,-0.,0,Unknown,4,0,1
+10049,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,1,0,1
+13543,city_105,-0.24778007180006614,Female,1,no_enrollment,3,STEM,-1.,4,Public Sector,2,-1,0
+1250,city_160,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,2,0,1
+16345,city_114,0.8078432684738539,Male,0,no_enrollment,3,STEM,-0.,0,Unknown,1,0,1
+3673,city_67,0.24004586575076048,Male,1,Part time course,4,STEM,0.7,4,Pvt Ltd,3,0,0
+17165,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,1,0,0
+8587,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.8,6,Pvt Ltd,3,0,1
+7903,city_158,-0.47170017428241406,Unknow,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,,0,0
+28390,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,3,0,0
+18101,city_83,0.7838518289221739,Male,0,Full time course,2,Unknown,-0.,0,Unknown,1,0,1
+3408,city_106,-1.0155061374538275,Male,1,no_enrollment,4,STEM,-0.,0,Unknown,2,0,0
+3619,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,5,Pvt Ltd,1,0,1
+9335,city_103,0.7598603893704947,Male,0,no_enrollment,5,STEM,1.1,4,NGO,1,0,1
+31337,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,>4,0,1
+18903,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,No Major,1.5,3,Pvt Ltd,1,0,1
+1406,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.5,1,Pvt Ltd,>4,3,1
+31133,city_74,-1.9671665730038015,Unknow,0,Full time course,3,STEM,-0.,0,Pvt Ltd,never,0,0
+30475,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,0,Pvt Ltd,>4,1,1
+11339,city_114,0.8078432684738539,Unknow,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,1
+10455,city_160,0.7598603893704947,Female,0,Full time course,5,STEM,-0.,0,Unknown,1,0,1
+22881,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,5,Unknown,1,0,1
+29667,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,0.8,0,Pvt Ltd,>4,0,1
+16517,city_16,0.6798889241982279,Unknow,0,no_enrollment,4,Business Degree,-1.,7,Pvt Ltd,1,0,1
+15094,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,-0.,3,Funded Startup,3,0,1
+2682,city_23,0.5919203125087344,Female,0,Full time course,3,STEM,-1.,8,Pvt Ltd,2,0,0
+7679,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+2954,city_159,0.1440801075440403,Male,1,Part time course,3,STEM,1.5,0,Funded Startup,1,0,0
+12709,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,0,Unknown,1,1,0
+24845,city_103,0.7598603893704947,Male,0,no_enrollment,4,STEM,0.5,3,Pvt Ltd,1,3,1
+6829,city_21,-1.607294979728601,Unknow,1,no_enrollment,2,Unknown,-0.,0,Unknown,1,0,0
+12810,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,0.1,6,Pvt Ltd,>4,0,1
+20607,city_89,0.7998461219566281,Unknow,0,Full time course,2,Unknown,-0.,0,Unknown,1,0,1
+10429,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,0.7,6,Pvt Ltd,>4,0,1
+18781,city_136,0.575926019474281,Unknow,1,Part time course,3,STEM,-0.,3,Unknown,1,0,0
+21189,city_13,0.016125763268414313,Male,1,no_enrollment,4,STEM,-0.,4,Pvt Ltd,2,0,0
+19996,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-1.,3,Pvt Ltd,1,0,1
+24837,city_103,0.7598603893704947,Female,1,Full time course,3,STEM,-0.,4,Funded Startup,1,0,1
+4955,city_136,0.575926019474281,Unknow,1,no_enrollment,4,STEM,-0.,0,Pvt Ltd,1,0,0
+32766,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.5,4,Funded Startup,4,0,1
+6209,city_21,-1.607294979728601,Unknow,1,no_enrollment,4,STEM,1.1,4,Pvt Ltd,>4,0,0
+24293,city_21,-1.607294979728601,Female,1,Full time course,3,STEM,-1.,3,Pvt Ltd,1,0,0
+28090,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,4,NGO,2,0,1
+11842,city_46,-0.5036887603513199,Male,1,no_enrollment,3,STEM,-1.,1,Early Stage Startup,2,0,0
+13211,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,>4,0,1
+26309,city_114,0.8078432684738539,Male,0,Full time course,3,STEM,0.5,0,Pvt Ltd,1,0,1
+4832,city_91,-1.0714861630744141,Male,1,Part time course,3,STEM,-0.,3,Funded Startup,1,0,0
+23885,city_67,0.24004586575076048,Unknow,0,no_enrollment,2,Unknown,-1.,0,Unknown,never,0,0
+27278,city_160,0.7598603893704947,Female,1,no_enrollment,4,STEM,0.1,6,Unknown,2,3,1
+32853,city_73,-0.5676659324891333,Male,1,no_enrollment,3,STEM,1.5,4,Funded Startup,1,-1,0
+3264,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,2,0,1
+9997,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,-0.,6,Pvt Ltd,4,0,1
+21496,city_114,0.8078432684738539,Unknow,0,Full time course,2,Unknown,-0.,8,Unknown,,0,1
+20570,city_21,-1.607294979728601,Male,0,Full time course,3,STEM,-1.,0,Unknown,1,2,0
+11907,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,1,0,1
+28629,city_160,0.7598603893704947,Male,1,Part time course,3,STEM,-1.,3,Pvt Ltd,2,0,1
+31388,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,7,Pvt Ltd,2,0,1
+14538,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,3,Pvt Ltd,never,0,0
+28,city_103,0.7598603893704947,Male,0,no_enrollment,0,Unknown,-0.,0,Pvt Ltd,never,0,1
+32099,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,3,0,1
+6356,city_160,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.2,0,Unknown,1,0,1
+16058,city_160,0.7598603893704947,Male,1,no_enrollment,0,Unknown,1.2,1,Pvt Ltd,1,0,1
+10198,city_105,-0.24778007180006614,Male,1,Full time course,3,STEM,0.1,4,Pvt Ltd,>4,-1,0
+24993,city_162,-0.4637030277651865,Male,1,Unknown,3,STEM,-0.,3,Unknown,1,0,0
+28864,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Pvt Ltd,4,0,1
+1206,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.4,3,Pvt Ltd,>4,0,1
+14412,city_160,0.7598603893704947,Male,1,Full time course,3,STEM,-1.,8,Pvt Ltd,1,0,1
+19987,city_136,0.575926019474281,Unknow,1,no_enrollment,4,STEM,-0.,3,Unknown,3,0,0
+15586,city_115,-0.28776580438619953,Male,1,Part time course,4,STEM,0.1,0,Pvt Ltd,3,0,0
+17424,city_28,0.9118061731978017,Unknow,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,1
+19783,city_16,0.6798889241982279,Male,0,no_enrollment,3,STEM,0.8,4,Public Sector,1,-1,1
+15763,city_97,0.7998461219566281,Male,1,no_enrollment,3,STEM,0.8,5,Pvt Ltd,1,0,1
+6433,city_21,-1.607294979728601,Male,0,no_enrollment,3,STEM,-1.,6,Pvt Ltd,1,0,0
+7881,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,-0.,1,Pvt Ltd,1,0,1
+9237,city_65,-0.1838028996622527,Unknow,1,no_enrollment,5,STEM,1.0,3,Pvt Ltd,>4,0,0
+26656,city_103,0.7598603893704947,Female,1,no_enrollment,3,Humanities,-0.,4,Pvt Ltd,>4,2,1
+14019,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,1.5,0,Unknown,3,0,1
+27036,city_61,0.703880363749907,Male,0,Full time course,2,Unknown,-0.,0,Unknown,1,0,1
+8304,city_45,0.5199459938536943,Male,1,no_enrollment,3,Other,-0.,3,Pvt Ltd,never,0,0
+16458,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-0.,0,Public Sector,4,0,0
+16138,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.7,0,Unknown,2,0,1
+8701,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,>4,0,1
+14281,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,0.8,3,Funded Startup,4,1,1
+1968,city_104,0.7918489754394014,Male,1,no_enrollment,5,STEM,1.5,3,Funded Startup,2,-1,1
+742,city_160,0.7598603893704947,Female,1,Full time course,2,Unknown,-0.,8,Pvt Ltd,1,0,1
+17953,city_16,0.6798889241982279,Male,0,no_enrollment,3,STEM,1.5,0,Unknown,1,0,1
+660,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,0.8,3,Funded Startup,>4,0,1
+10829,city_102,-0.16780860662779934,Unknow,1,Full time course,3,STEM,-0.,4,Pvt Ltd,1,2,0
+14159,city_133,-0.6636316906958535,Male,0,no_enrollment,3,STEM,0.2,3,Pvt Ltd,>4,0,0
+13603,city_16,0.6798889241982279,Unknow,1,no_enrollment,3,STEM,0.2,4,Unknown,1,0,1
+18232,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,3,0,1
+14574,city_21,-1.607294979728601,Male,0,Full time course,3,STEM,-1.,1,Pvt Ltd,1,2,0
+24725,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,5,Pvt Ltd,1,0,1
+10737,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,0.8,8,Pvt Ltd,1,0,1
+15141,city_138,0.08810008192345355,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,3,0,0
+25308,city_128,-2.383018191899588,Female,0,no_enrollment,3,STEM,-1.,3,Early Stage Startup,never,0,0
+23084,city_102,-0.16780860662779934,Male,1,no_enrollment,4,STEM,0.5,4,Pvt Ltd,3,0,0
+25465,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,-0.,4,Pvt Ltd,1,2,1
+12340,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,3,Funded Startup,2,0,1
+15589,city_65,-0.1838028996622527,Male,1,no_enrollment,4,STEM,-0.,4,Unknown,1,0,0
+129,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,7,Public Sector,>4,1,1
+19641,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,never,0,1
+8083,city_45,0.5199459938536943,Unknow,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,0
+4166,city_98,0.9917776383700684,Male,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,>4,0,1
+14586,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,0,0
+21822,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,1
+2415,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,0.8,3,Unknown,>4,2,1
+1382,city_103,0.7598603893704947,Unknow,1,Part time course,3,STEM,0.5,0,Unknown,4,0,1
+30373,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,3,1,0
+1135,city_104,0.7918489754394014,Male,1,no_enrollment,4,STEM,1.0,4,Pvt Ltd,1,0,1
+29230,city_46,-0.5036887603513199,Male,1,Part time course,4,STEM,-0.,8,Pvt Ltd,>4,-1,0
+16972,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,>4,0,1
+25730,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.0,3,Pvt Ltd,4,0,1
+17021,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,4,Funded Startup,1,0,1
+19032,city_159,0.1440801075440403,Male,0,no_enrollment,3,STEM,0.8,8,Pvt Ltd,4,0,0
+6154,city_114,0.8078432684738539,Male,0,Full time course,4,STEM,-0.,7,Pvt Ltd,1,0,1
+2744,city_16,0.6798889241982279,Male,1,no_enrollment,2,Unknown,1.2,5,Pvt Ltd,1,0,1
+621,city_136,0.575926019474281,Male,0,no_enrollment,3,STEM,-1.,0,Unknown,1,0,0
+14035,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+13621,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,1,Early Stage Startup,1,0,0
+19202,city_103,0.7598603893704947,Male,1,Part time course,3,STEM,-0.,6,Pvt Ltd,1,0,1
+29010,city_21,-1.607294979728601,Male,1,Full time course,4,STEM,-1.,8,Pvt Ltd,1,0,0
+3606,city_103,0.7598603893704947,Male,0,Full time course,2,Unknown,-0.,0,Pvt Ltd,1,0,1
+22214,city_167,0.7678575358877204,Unknow,0,no_enrollment,1,Unknown,-0.,1,Pvt Ltd,3,0,1
+16245,city_158,-0.47170017428241406,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,0,0
+30639,city_160,0.7598603893704947,Other,1,Part time course,3,Humanities,-0.,3,NGO,1,3,1
+28365,city_16,0.6798889241982279,Female,1,no_enrollment,4,STEM,-0.,0,Pvt Ltd,1,0,1
+30546,city_104,0.7918489754394014,Unknow,0,no_enrollment,0,Unknown,-0.,0,Unknown,never,1,1
+7792,city_76,-1.0155061374538275,Unknow,0,no_enrollment,4,STEM,1.5,0,Unknown,2,1,0
+12846,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,1,0,0
+25038,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,1,1
+17919,city_116,-0.6556345441786269,Unknow,0,Full time course,3,Humanities,-1.,0,Unknown,never,3,0
+6465,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,1.2,3,Pvt Ltd,2,0,0
+13836,city_138,0.08810008192345355,Male,1,no_enrollment,3,STEM,0.7,4,Pvt Ltd,1,0,0
+30399,city_114,0.8078432684738539,Male,0,no_enrollment,2,Unknown,-1.,4,Pvt Ltd,1,0,1
+27949,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,1.2,3,Pvt Ltd,2,-1,1
+27512,city_16,0.6798889241982279,Female,1,no_enrollment,4,STEM,-0.,0,Pvt Ltd,1,0,1
+22507,city_123,-0.6956202767647602,Male,1,no_enrollment,3,Other,-0.,4,NGO,1,0,0
+656,city_116,-0.6556345441786269,Male,0,no_enrollment,0,Unknown,-0.,0,Unknown,1,0,0
+23663,city_150,-1.0155061374538275,Male,0,Full time course,3,STEM,-1.,0,Unknown,1,1,0
+30907,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,1,0,1
+30023,city_45,0.5199459938536943,Male,0,Full time course,2,Unknown,-1.,4,Pvt Ltd,1,2,0
+22045,city_10,0.5599317264398277,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,3,0
+2209,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,>4,0,1
+4838,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,0,Unknown,>4,0,1
+28498,city_103,0.7598603893704947,Female,1,no_enrollment,3,Arts,-0.,5,Pvt Ltd,2,0,1
+1179,city_160,0.7598603893704947,Male,1,Full time course,3,STEM,-0.,0,Unknown,1,0,1
+10682,city_104,0.7918489754394014,Unknow,0,Unknown,0,Unknown,-0.,0,Unknown,2,-1,1
+20707,city_136,0.575926019474281,Male,0,Full time course,2,Unknown,-0.,0,Unknown,1,-1,0
+31228,city_21,-1.607294979728601,Male,0,Full time course,2,Unknown,-1.,0,Pvt Ltd,never,0,0
+11642,city_114,0.8078432684738539,Male,1,no_enrollment,0,Unknown,-0.,4,Pvt Ltd,>4,0,1
+14477,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,1,0,0
+25737,city_114,0.8078432684738539,Other,0,Full time course,2,Unknown,-0.,4,Public Sector,1,0,1
+21032,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-1.,0,Unknown,2,0,1
+30770,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,0
+28733,city_71,0.4719631147503342,Male,1,no_enrollment,3,STEM,1.5,1,Pvt Ltd,3,0,0
+26032,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,0,Unknown,never,0,1
+2421,city_21,-1.607294979728601,Unknow,0,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,0
+6027,city_103,0.7598603893704947,Female,0,no_enrollment,5,STEM,-0.,4,Funded Startup,2,0,1
+7266,city_128,-2.383018191899588,Unknow,0,no_enrollment,3,STEM,-0.,0,Unknown,4,1,0
+20956,city_136,0.575926019474281,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,4,0,0
+26068,city_93,0.32001733092302725,Male,1,Full time course,3,STEM,-0.,8,Pvt Ltd,>4,2,0
+20179,city_114,0.8078432684738539,Unknow,0,Part time course,3,STEM,-0.,1,Pvt Ltd,2,0,1
+32956,city_103,0.7598603893704947,Male,1,no_enrollment,3,Arts,-0.,8,Pvt Ltd,1,0,1
+12570,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-1.,4,Pvt Ltd,1,0,0
+7689,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,7,Pvt Ltd,1,0,0
+19653,city_114,0.8078432684738539,Male,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,1
+8447,city_159,0.1440801075440403,Unknow,1,no_enrollment,3,STEM,-1.,6,Pvt Ltd,2,0,0
+18513,city_50,0.5679288729570535,Male,0,Full time course,2,Unknown,-1.,0,Unknown,1,0,0
+4066,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,>4,0,1
+613,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,-0.,4,Public Sector,4,0,1
+12437,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,2,0,1
+20917,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,1
+12505,city_21,-1.607294979728601,Unknow,0,no_enrollment,3,STEM,-0.,7,Pvt Ltd,2,0,0
+22510,city_21,-1.607294979728601,Unknow,1,no_enrollment,0,Unknown,-0.,0,Pvt Ltd,1,0,0
+6642,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,Other,-0.,4,Pvt Ltd,2,1,0
+8562,city_103,0.7598603893704947,Male,0,no_enrollment,4,STEM,-0.,7,Public Sector,1,0,1
+13030,city_103,0.7598603893704947,Male,1,Full time course,3,STEM,-0.,8,Pvt Ltd,2,0,1
+33291,city_76,-1.0155061374538275,Male,0,no_enrollment,3,STEM,-0.,0,Early Stage Startup,1,-1,0
+10469,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,0,Unknown,1,0,1
+30777,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+31756,city_128,-2.383018191899588,Male,0,no_enrollment,2,Unknown,-0.,0,Unknown,4,0,0
+3879,city_23,0.5919203125087344,Unknow,1,no_enrollment,3,STEM,-0.,3,Funded Startup,4,0,0
+16255,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,2,0,0
+5050,city_67,0.24004586575076048,Female,0,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+4273,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,>4,0,1
+14867,city_36,0.5439374334053744,Male,1,no_enrollment,4,STEM,0.1,5,Pvt Ltd,never,0,0
+16180,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.1,0,Unknown,1,0,1
+8491,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.1,1,Early Stage Startup,1,0,1
+23514,city_114,0.8078432684738539,Unknow,0,no_enrollment,2,Unknown,-0.,5,Public Sector,3,0,1
+14398,city_123,-0.6956202767647602,Male,1,no_enrollment,3,STEM,-0.,3,Early Stage Startup,1,2,0
+11444,city_90,-1.0155061374538275,Unknow,0,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,2,0
+22303,city_16,0.6798889241982279,Female,1,no_enrollment,5,STEM,0.1,0,Unknown,never,0,1
+7391,city_118,-0.8235746210403871,Male,1,Part time course,3,STEM,-0.,4,Pvt Ltd,1,0,0
+9195,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,2,1,0
+7519,city_103,0.7598603893704947,Male,0,Full time course,4,Humanities,-0.,1,Public Sector,4,0,1
+15307,city_103,0.7598603893704947,Male,0,no_enrollment,2,Unknown,-0.,0,Unknown,4,0,1
+24683,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,1.0,3,Pvt Ltd,>4,0,1
+27067,city_21,-1.607294979728601,Male,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+11327,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,0.2,6,Public Sector,>4,0,1
+2529,city_19,-1.1434604817294534,Unknow,1,no_enrollment,3,STEM,0.1,0,Unknown,2,0,0
+31349,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.4,4,Pvt Ltd,1,3,1
+30739,city_75,0.9118061731978017,Male,1,no_enrollment,3,STEM,-0.,1,Pvt Ltd,1,0,1
+32141,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.7,4,Funded Startup,3,0,1
+7759,city_160,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,0,Unknown,2,0,1
+16286,city_46,-0.5036887603513199,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,>4,0,0
+5381,city_100,0.49595455430201424,Male,0,no_enrollment,0,Unknown,-1.,0,Unknown,,0,0
+16782,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,1,3,1
+8122,city_61,0.703880363749907,Unknow,0,Full time course,2,Unknown,-0.,0,Unknown,never,-1,1
+4370,city_21,-1.607294979728601,Male,0,no_enrollment,2,Unknown,-0.,0,Unknown,4,3,0
+13883,city_136,0.575926019474281,Male,1,no_enrollment,4,Humanities,-0.,3,Pvt Ltd,1,0,0
+21673,city_36,0.5439374334053744,Unknow,1,no_enrollment,3,STEM,-0.,5,Pvt Ltd,1,0,0
+24268,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.1,6,Pvt Ltd,2,0,1
+17200,city_150,-1.0155061374538275,Unknow,0,no_enrollment,2,Unknown,-1.,0,Unknown,never,1,0
+31533,city_114,0.8078432684738539,Male,0,no_enrollment,2,Unknown,-0.,3,Pvt Ltd,4,0,1
+23172,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,0,1
+1647,city_103,0.7598603893704947,Male,1,no_enrollment,5,STEM,1.5,7,NGO,2,0,1
+1276,city_23,0.5919203125087344,Male,1,Full time course,3,STEM,-0.,8,Pvt Ltd,1,0,0
+19942,city_149,-1.0874804561088667,Female,0,Full time course,4,STEM,-0.,0,Unknown,never,0,0
+26888,city_74,-1.9671665730038015,Unknow,1,Full time course,3,STEM,-1.,5,NGO,2,0,0
+11667,city_28,0.9118061731978017,Unknow,0,no_enrollment,3,Humanities,-0.,3,Public Sector,never,0,1
+3890,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,0,Early Stage Startup,1,0,1
+17267,city_105,-0.24778007180006614,Male,0,no_enrollment,3,STEM,-1.,0,Unknown,never,0,0
+4934,city_160,0.7598603893704947,Other,1,no_enrollment,3,STEM,0.1,4,NGO,1,0,1
+2752,city_21,-1.607294979728601,Male,0,no_enrollment,3,STEM,-0.,7,Pvt Ltd,1,0,0
+6413,city_103,0.7598603893704947,Male,1,Unknown,0,Unknown,-1.,0,Unknown,never,0,1
+5817,city_61,0.703880363749907,Male,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,>4,0,1
+27952,city_21,-1.607294979728601,Unknow,0,no_enrollment,3,STEM,0.8,4,Pvt Ltd,2,0,0
+6402,city_103,0.7598603893704947,Male,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,1
+2358,city_11,-2.199083822003374,Male,1,Full time course,3,STEM,-0.,1,Early Stage Startup,1,0,0
+7645,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,-0.,8,Public Sector,1,0,0
+15411,city_61,0.703880363749907,Male,1,no_enrollment,4,STEM,0.2,8,Pvt Ltd,>4,0,1
+32727,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,0.1,1,Pvt Ltd,2,0,0
+32693,city_40,-0.3917287091101473,Male,1,no_enrollment,4,STEM,0.2,6,Pvt Ltd,4,3,0
+471,city_103,0.7598603893704947,Unknow,1,Full time course,3,STEM,-0.,1,Public Sector,2,0,1
+16922,city_73,-0.5676659324891333,Unknow,0,no_enrollment,2,Unknown,-1.,0,Unknown,never,0,0
+31991,city_103,0.7598603893704947,Male,1,no_enrollment,3,Arts,-0.,3,Funded Startup,1,1,1
+16212,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,5,Pvt Ltd,1,1,0
+22477,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,-0.,8,Pvt Ltd,1,0,0
+11514,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,0.1,3,Pvt Ltd,3,0,1
+28290,city_103,0.7598603893704947,Male,0,Part time course,4,STEM,1.5,8,Pvt Ltd,>4,0,1
+11473,city_16,0.6798889241982279,Female,1,no_enrollment,5,STEM,1.0,3,Pvt Ltd,2,0,1
+28584,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,3,Funded Startup,1,1,1
+9209,city_121,-0.3517429765240139,Other,1,no_enrollment,3,STEM,-1.,3,Funded Startup,1,0,0
+28252,city_21,-1.607294979728601,Unknow,0,no_enrollment,3,STEM,-0.,0,Public Sector,,0,0
+30158,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,1.5,6,Pvt Ltd,never,0,0
+18492,city_116,-0.6556345441786269,Female,0,Full time course,4,STEM,-0.,0,Unknown,1,1,0
+18940,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.1,3,Pvt Ltd,4,0,1
+30512,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,1,1,1
+19654,city_21,-1.607294979728601,Female,1,Full time course,4,STEM,-0.,5,Pvt Ltd,1,3,0
+16577,city_114,0.8078432684738539,Male,0,Full time course,3,STEM,-0.,1,Pvt Ltd,1,0,1
+17836,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,1.1,8,Pvt Ltd,2,0,0
+29074,city_114,0.8078432684738539,Male,0,Full time course,2,Unknown,-0.,0,Unknown,1,0,1
+25155,city_43,-2.4709868035890814,Unknow,1,no_enrollment,3,STEM,-1.,0,Unknown,1,0,0
+31796,city_91,-1.0714861630744141,Unknow,0,no_enrollment,1,Unknown,-1.,0,Pvt Ltd,never,0,0
+30965,city_114,0.8078432684738539,Male,0,Full time course,2,Unknown,-0.,5,Pvt Ltd,1,0,1
+7212,city_162,-0.4637030277651865,Male,1,Full time course,3,STEM,-0.,0,Pvt Ltd,,0,0
+20419,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,4,0,0
+27143,city_2,-0.2957629509034271,Male,1,Full time course,4,STEM,-0.,0,Unknown,3,0,0
+33134,city_46,-0.5036887603513199,Male,1,no_enrollment,3,STEM,-0.,1,Pvt Ltd,4,0,0
+21657,city_57,0.32801447744025397,Male,0,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+14255,city_103,0.7598603893704947,Female,1,no_enrollment,3,Arts,-0.,3,Pvt Ltd,2,0,1
+11728,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,-0.,4,Pvt Ltd,>4,0,1
+915,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,Humanities,0.8,6,Pvt Ltd,1,0,1
+7987,city_127,-0.6396402511441734,Male,1,Full time course,3,STEM,-0.,0,Unknown,2,0,0
+25241,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,>4,0,1
+18483,city_23,0.5919203125087344,Male,1,no_enrollment,3,STEM,0.2,0,Unknown,1,0,0
+7032,city_104,0.7918489754394014,Unknow,0,Full time course,1,Unknown,-1.,0,Unknown,never,0,1
+31668,city_67,0.24004586575076048,Male,1,Full time course,3,STEM,0.2,3,Pvt Ltd,1,0,0
+22870,city_10,0.5599317264398277,Male,1,no_enrollment,3,Other,-0.,3,Early Stage Startup,1,0,0
+13142,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,>4,0,1
+11481,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.2,3,Pvt Ltd,1,0,1
+1679,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,Humanities,1.5,4,Pvt Ltd,1,0,1
+15849,city_114,0.8078432684738539,Male,0,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,1
+22392,city_19,-1.1434604817294534,Male,0,Full time course,3,STEM,-1.,0,Unknown,never,1,0
+29223,city_160,0.7598603893704947,Male,0,no_enrollment,1,Unknown,-1.,0,Unknown,never,0,1
+5296,city_114,0.8078432684738539,Male,1,Full time course,4,STEM,0.2,4,Pvt Ltd,3,1,1
+25329,city_136,0.575926019474281,Unknow,1,no_enrollment,3,Other,-0.,0,Pvt Ltd,1,-1,0
+15164,city_128,-2.383018191899588,Male,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,0
+5780,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,0.1,8,Pvt Ltd,4,0,1
+14767,city_71,0.4719631147503342,Male,1,Part time course,3,STEM,-1.,1,Pvt Ltd,2,0,0
+7926,city_21,-1.607294979728601,Female,0,no_enrollment,4,STEM,-1.,4,Unknown,1,0,0
+32606,city_16,0.6798889241982279,Male,0,Full time course,2,Unknown,0.1,1,Pvt Ltd,3,0,1
+30295,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,3,Pvt Ltd,2,0,0
+2436,city_67,0.24004586575076048,Male,1,Full time course,2,Unknown,0.1,4,Pvt Ltd,3,0,0
+12407,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,0.1,4,Pvt Ltd,1,1,1
+5509,city_99,0.7198746567843612,Female,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,1,0,1
+33300,city_50,0.5679288729570535,Male,1,no_enrollment,4,STEM,0.7,3,Pvt Ltd,>4,-1,0
+12374,city_100,0.49595455430201424,Male,1,no_enrollment,2,Unknown,0.8,0,Unknown,1,0,0
+23562,city_53,-0.6796259837303069,Other,0,Part time course,2,Unknown,-1.,3,Unknown,1,-1,0
+27420,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,never,0,0
+15974,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,1.2,7,Pvt Ltd,2,0,1
+13204,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,0.7,0,Unknown,2,2,1
+12453,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,>4,0,0
+21071,city_90,-1.0155061374538275,Unknow,0,no_enrollment,4,STEM,0.1,4,Pvt Ltd,4,1,0
+795,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,8,Public Sector,1,0,1
+80,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.2,8,Pvt Ltd,1,0,1
+8509,city_103,0.7598603893704947,Unknow,0,Full time course,3,STEM,-0.,3,Pvt Ltd,4,0,1
+27199,city_103,0.7598603893704947,Male,1,no_enrollment,4,Humanities,1.5,4,Pvt Ltd,1,-1,1
+4393,city_75,0.9118061731978017,Male,1,no_enrollment,2,Unknown,-0.,0,Unknown,2,0,1
+26993,city_103,0.7598603893704947,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,1,0,1
+9753,city_37,-0.24778007180006614,Female,0,Full time course,3,STEM,-0.,0,Unknown,never,0,0
+17074,city_65,-0.1838028996622527,Male,1,no_enrollment,2,Unknown,-0.,3,Pvt Ltd,3,0,0
+9291,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,0.7,0,Pvt Ltd,2,0,1
+21210,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,1,0,1
+6548,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,6,Pvt Ltd,>4,0,1
+5601,city_21,-1.607294979728601,Unknow,1,no_enrollment,4,STEM,-1.,5,Pvt Ltd,1,0,0
+29159,city_99,0.7198746567843612,Male,1,no_enrollment,3,STEM,1.5,6,Pvt Ltd,>4,0,1
+20909,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,1.5,1,Pvt Ltd,4,0,1
+13140,city_73,-0.5676659324891333,Male,1,Full time course,4,STEM,0.8,6,Pvt Ltd,2,0,0
+8903,city_99,0.7198746567843612,Unknow,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,1,0,1
+20079,city_103,0.7598603893704947,Male,0,no_enrollment,3,Other,-1.,7,Pvt Ltd,never,0,1
+24628,city_116,-0.6556345441786269,Unknow,1,Full time course,1,Unknown,-1.,7,Pvt Ltd,1,0,0
+5482,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,1.5,1,Early Stage Startup,>4,0,1
+16050,city_160,0.7598603893704947,Unknow,1,no_enrollment,0,Unknown,1.5,0,Unknown,1,0,1
+18581,city_101,-2.1351066498655618,Male,1,no_enrollment,4,STEM,0.7,4,Pvt Ltd,4,0,0
+14438,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-1.,4,Pvt Ltd,1,-1,0
+8031,city_71,0.4719631147503342,Male,1,no_enrollment,2,Unknown,1.5,1,Pvt Ltd,>4,0,0
+32710,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+5857,city_73,-0.5676659324891333,Male,1,Part time course,3,STEM,-0.,3,Pvt Ltd,1,0,0
+28799,city_103,0.7598603893704947,Female,1,no_enrollment,4,STEM,1.5,1,Early Stage Startup,2,1,1
+19726,city_159,0.1440801075440403,Male,1,Part time course,3,STEM,-0.,6,Pvt Ltd,1,0,0
+6191,city_160,0.7598603893704947,Unknow,0,Full time course,2,Unknown,-1.,6,Public Sector,2,0,1
+32521,city_28,0.9118061731978017,Male,1,no_enrollment,2,Unknown,-0.,0,Unknown,1,0,1
+29176,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,0.7,4,Pvt Ltd,2,0,1
+28278,city_71,0.4719631147503342,Male,0,Unknown,5,STEM,-0.,0,Pvt Ltd,1,0,0
+2625,city_45,0.5199459938536943,Male,1,no_enrollment,2,Unknown,0.1,1,Funded Startup,1,0,0
+15587,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,1,0,1
+14741,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,6,Pvt Ltd,>4,0,1
+19210,city_16,0.6798889241982279,Unknow,1,no_enrollment,4,STEM,-0.,0,Unknown,2,1,1
+21015,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,0.8,3,Pvt Ltd,1,0,1
+2010,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,6,Pvt Ltd,>4,0,1
+8942,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.2,0,Unknown,1,0,1
+9586,city_103,0.7598603893704947,Female,1,no_enrollment,4,STEM,-0.,7,Public Sector,1,0,1
+6444,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,0.8,6,Pvt Ltd,4,0,1
+1604,city_16,0.6798889241982279,Male,1,Part time course,3,STEM,1.5,4,Pvt Ltd,2,0,1
+24158,city_21,-1.607294979728601,Unknow,0,Full time course,4,STEM,-1.,0,Unknown,never,0,0
+24017,city_158,-0.47170017428241406,Male,1,Part time course,3,STEM,-0.,3,Pvt Ltd,1,0,0
+24362,city_20,-0.23178577876561365,Unknow,1,Part time course,3,STEM,-0.,0,Pvt Ltd,4,0,0
+29969,city_16,0.6798889241982279,Male,1,no_enrollment,2,Unknown,0.1,5,Pvt Ltd,1,0,1
+16831,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,>4,0,1
+28518,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,1.2,3,Unknown,1,0,0
+21039,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,0.1,4,Funded Startup,>4,3,1
+1776,city_160,0.7598603893704947,Male,0,no_enrollment,3,No Major,1.5,1,Pvt Ltd,>4,1,1
+1678,city_160,0.7598603893704947,Male,1,no_enrollment,4,STEM,0.1,6,Pvt Ltd,4,1,1
+11188,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,0.5,0,Unknown,1,0,1
+5346,city_45,0.5199459938536943,Male,0,no_enrollment,5,STEM,1.5,4,NGO,1,0,0
+25867,city_75,0.9118061731978017,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,4,0,1
+8335,city_103,0.7598603893704947,Male,1,no_enrollment,2,Unknown,-0.,4,Pvt Ltd,1,0,1
+29417,city_102,-0.16780860662779934,Male,1,no_enrollment,1,Unknown,1.5,1,Early Stage Startup,1,-1,0
+28383,city_150,-1.0155061374538275,Other,0,Full time course,0,Unknown,1.5,0,Unknown,never,0,0
+31485,city_67,0.24004586575076048,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,0
+11330,city_114,0.8078432684738539,Male,1,Part time course,4,STEM,1.1,3,Pvt Ltd,4,1,1
+13259,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,6,Pvt Ltd,1,0,1
+7539,city_75,0.9118061731978017,Female,1,no_enrollment,3,Other,1.5,7,NGO,>4,0,1
+18271,city_21,-1.607294979728601,Unknow,0,no_enrollment,3,Other,-1.,0,Unknown,never,0,0
+19556,city_136,0.575926019474281,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,0
+31232,city_21,-1.607294979728601,Female,1,no_enrollment,3,STEM,-1.,3,Pvt Ltd,2,1,0
+1175,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,7,Pvt Ltd,4,0,1
+8107,city_65,-0.1838028996622527,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,2,0,0
+2768,city_71,0.4719631147503342,Male,1,Part time course,3,STEM,-0.,1,Pvt Ltd,1,0,0
+26448,city_23,0.5919203125087344,Male,0,Full time course,4,STEM,0.4,0,Pvt Ltd,>4,0,0
+22700,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-0.,4,Funded Startup,1,0,0
+10287,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.4,5,Pvt Ltd,1,0,1
+21246,city_103,0.7598603893704947,Male,1,Part time course,4,STEM,0.7,0,Public Sector,4,0,1
+9098,city_123,-0.6956202767647602,Unknow,1,Full time course,4,STEM,-0.,6,Pvt Ltd,1,0,0
+17952,city_102,-0.16780860662779934,Male,0,no_enrollment,0,Unknown,-1.,0,Unknown,never,0,0
+3889,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,-0.,6,Pvt Ltd,2,0,1
+268,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Funded Startup,>4,0,1
+27376,city_159,0.1440801075440403,Male,0,Full time course,4,STEM,-0.,4,Public Sector,1,2,0
+22042,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,>4,0,1
+32395,city_103,0.7598603893704947,Female,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,>4,0,1
+16955,city_10,0.5599317264398277,Male,1,Full time course,4,STEM,1.5,6,Public Sector,>4,0,0
+15027,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,1,Pvt Ltd,3,0,1
+27771,city_16,0.6798889241982279,Male,0,no_enrollment,3,STEM,1.5,3,Pvt Ltd,>4,0,1
+25918,city_36,0.5439374334053744,Male,1,Full time course,4,STEM,0.4,3,Pvt Ltd,1,0,0
+28694,city_103,0.7598603893704947,Male,1,no_enrollment,4,Humanities,1.5,3,NGO,1,3,1
+10523,city_11,-2.199083822003374,Unknow,0,Full time course,3,STEM,-0.,1,Unknown,1,1,0
+12163,city_134,-1.0155061374538275,Unknow,0,no_enrollment,5,STEM,-0.,0,Unknown,never,0,0
+10279,city_71,0.4719631147503342,Unknow,0,Full time course,3,STEM,-0.,0,Unknown,never,0,0
+20918,city_16,0.6798889241982279,Unknow,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,1,1
+22940,city_71,0.4719631147503342,Male,1,no_enrollment,4,STEM,-0.,3,Funded Startup,2,0,0
+11283,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+15682,city_40,-0.3917287091101473,Female,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,>4,0,0
+29890,city_160,0.7598603893704947,Male,0,no_enrollment,3,STEM,0.8,3,Funded Startup,>4,0,1
+24998,city_173,0.4239802356469741,Male,0,no_enrollment,2,Unknown,-1.,0,Unknown,1,0,0
+15853,city_50,0.5679288729570535,Unknow,0,no_enrollment,3,Other,-0.,0,Pvt Ltd,>4,0,0
+14581,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,-1.,1,Early Stage Startup,1,0,1
+27390,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-1.,0,Pvt Ltd,1,0,1
+21976,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,6,Public Sector,>4,0,1
+28808,city_71,0.4719631147503342,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,>4,0,0
+14285,city_173,0.4239802356469741,Unknow,0,Full time course,3,Business Degree,-1.,4,Pvt Ltd,1,1,0
+7784,city_45,0.5199459938536943,Male,1,Part time course,2,Unknown,-0.,0,Pvt Ltd,>4,0,0
+15973,city_127,-0.6396402511441734,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,1,0,0
+24155,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,0.1,1,Pvt Ltd,2,0,0
+24815,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,-0.,5,Pvt Ltd,4,0,1
+21023,city_2,-0.2957629509034271,Unknow,0,no_enrollment,4,Arts,-1.,1,Pvt Ltd,never,0,0
+27787,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,2,0,1
+24378,city_127,-0.6396402511441734,Male,0,no_enrollment,3,STEM,-1.,0,Unknown,never,0,0
+7346,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,8,NGO,2,0,1
+25958,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.2,8,Pvt Ltd,1,0,1
+32635,city_159,0.1440801075440403,Male,0,Full time course,3,STEM,-0.,0,Unknown,never,0,0
+1985,city_21,-1.607294979728601,Male,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,0
+288,city_98,0.9917776383700684,Male,1,no_enrollment,3,STEM,0.7,3,Pvt Ltd,>4,0,1
+27281,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,0,1
+7953,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-1.,0,Pvt Ltd,1,3,0
+366,city_176,-0.48769446731686655,Male,0,no_enrollment,3,STEM,-1.,0,Unknown,1,0,0
+27108,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,>4,0,1
+9514,city_160,0.7598603893704947,Male,1,Full time course,2,Unknown,0.2,4,Pvt Ltd,1,0,1
+17386,city_176,-0.48769446731686655,Male,1,Full time course,3,STEM,-0.,1,Pvt Ltd,>4,1,0
+4889,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,4,0,1
+22974,city_160,0.7598603893704947,Male,1,no_enrollment,4,Humanities,1.5,0,Unknown,2,0,1
+28176,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,3,Early Stage Startup,1,0,1
+17224,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.4,0,Unknown,1,0,1
+32636,city_21,-1.607294979728601,Unknow,0,no_enrollment,4,STEM,-1.,3,Pvt Ltd,2,0,0
+21511,city_114,0.8078432684738539,Unknow,0,no_enrollment,2,Unknown,-0.,0,Unknown,never,0,1
+25408,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+10308,city_160,0.7598603893704947,Female,0,no_enrollment,3,STEM,-1.,4,NGO,1,0,1
+6509,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,>4,0,0
+12676,city_114,0.8078432684738539,Male,1,Part time course,3,STEM,0.2,8,Pvt Ltd,1,0,1
+22320,city_102,-0.16780860662779934,Male,1,no_enrollment,3,STEM,1.5,5,Pvt Ltd,>4,0,0
+19403,city_21,-1.607294979728601,Female,1,no_enrollment,3,STEM,-1.,7,Pvt Ltd,1,0,0
+25679,city_40,-0.3917287091101473,Male,1,Full time course,4,STEM,1.1,4,Public Sector,3,0,0
+25097,city_102,-0.16780860662779934,Male,0,Full time course,3,STEM,-0.,0,Unknown,>4,0,0
+30538,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,0.8,8,Pvt Ltd,>4,-1,1
+29321,city_28,0.9118061731978017,Male,1,Full time course,4,STEM,1.4,4,Pvt Ltd,>4,0,1
+5083,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,3,0,1
+17194,city_102,-0.16780860662779934,Male,1,no_enrollment,4,STEM,0.1,3,Pvt Ltd,1,0,0
+25371,city_173,0.4239802356469741,Male,1,no_enrollment,3,STEM,1.5,0,Pvt Ltd,>4,0,0
+25629,city_114,0.8078432684738539,Male,0,no_enrollment,4,STEM,1.5,4,Pvt Ltd,>4,0,1
+2790,city_128,-2.383018191899588,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+31615,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,5,Pvt Ltd,>4,0,1
+9134,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,0,0
+23968,city_160,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,1.4,3,Pvt Ltd,2,0,1
+24908,city_21,-1.607294979728601,Unknow,1,Full time course,0,Unknown,-0.,1,Unknown,1,1,0
+22712,city_162,-0.4637030277651865,Unknow,1,no_enrollment,3,STEM,0.8,4,Pvt Ltd,>4,0,0
+11063,city_159,0.1440801075440403,Male,0,Full time course,4,STEM,-1.,0,Public Sector,1,0,0
+16129,city_103,0.7598603893704947,Male,0,Full time course,2,Unknown,-0.,0,Unknown,1,0,1
+25292,city_100,0.49595455430201424,Unknow,1,no_enrollment,0,Unknown,-1.,7,Pvt Ltd,never,0,0
+11796,city_65,-0.1838028996622527,Male,0,no_enrollment,3,STEM,-1.,0,Unknown,2,0,0
+31234,city_36,0.5439374334053744,Male,1,Full time course,3,STEM,-0.,0,Unknown,2,0,0
+4581,city_23,0.5919203125087344,Male,0,no_enrollment,3,No Major,-0.,6,Public Sector,1,0,0
+17703,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,8,Public Sector,>4,0,1
+30036,city_46,-0.5036887603513199,Male,1,no_enrollment,3,STEM,-1.,0,Pvt Ltd,1,0,0
+9837,city_61,0.703880363749907,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,1,0,1
+2715,city_16,0.6798889241982279,Male,0,Full time course,2,Unknown,-0.,0,Unknown,1,0,1
+22652,city_16,0.6798889241982279,Unknow,1,no_enrollment,3,STEM,1.2,0,Unknown,3,0,1
+15158,city_16,0.6798889241982279,Other,1,no_enrollment,3,Humanities,-0.,6,Pvt Ltd,>4,1,1
+830,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,7,Pvt Ltd,1,0,1
+24660,city_103,0.7598603893704947,Unknow,0,no_enrollment,5,Humanities,-0.,4,Pvt Ltd,3,0,1
+2915,city_150,-1.0155061374538275,Unknow,0,Unknown,2,Unknown,-1.,0,Unknown,,0,0
+18322,city_103,0.7598603893704947,Male,1,Full time course,3,STEM,-0.,3,Pvt Ltd,3,0,1
+23189,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.8,6,Pvt Ltd,3,0,1
+25544,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.2,3,Pvt Ltd,1,0,1
+15534,city_149,-1.0874804561088667,Unknow,1,no_enrollment,3,Humanities,1.5,0,Unknown,1,0,0
+12312,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-0.,0,Pvt Ltd,2,0,0
+7789,city_40,-0.3917287091101473,Unknow,1,Part time course,3,STEM,-0.,0,Unknown,1,0,0
+6335,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,Humanities,1.5,1,Early Stage Startup,1,0,1
+17675,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,0,Funded Startup,2,0,1
+7156,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,0,NGO,2,0,1
+14816,city_61,0.703880363749907,Male,1,no_enrollment,4,STEM,1.5,0,Unknown,>4,2,1
+31402,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,2,2,1
+12759,city_136,0.575926019474281,Male,1,Full time course,4,STEM,-0.,4,Pvt Ltd,2,0,0
+18706,city_143,-0.6796259837303069,Male,1,Full time course,4,STEM,1.5,0,Unknown,>4,0,0
+5266,city_102,-0.16780860662779934,Male,1,Part time course,3,STEM,0.4,3,Pvt Ltd,1,0,0
+27308,city_103,0.7598603893704947,Female,0,no_enrollment,3,STEM,-0.,0,Unknown,never,0,1
+6721,city_21,-1.607294979728601,Unknow,1,Full time course,4,STEM,-0.,3,Early Stage Startup,1,0,0
+667,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,>4,-1,1
+3027,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,>4,0,1
+8735,city_103,0.7598603893704947,Unknow,0,Full time course,3,STEM,-0.,6,Public Sector,,0,1
+24238,city_101,-2.1351066498655618,Unknow,1,Full time course,3,STEM,-1.,1,Early Stage Startup,1,0,0
+28911,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,4,Funded Startup,1,1,1
+18575,city_67,0.24004586575076048,Female,1,Full time course,3,STEM,-1.,0,Unknown,1,0,0
+15098,city_103,0.7598603893704947,Unknow,1,no_enrollment,0,Unknown,-0.,5,Pvt Ltd,4,0,1
+33308,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,5,Pvt Ltd,1,-1,0
+185,city_23,0.5919203125087344,Male,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,never,0,0
+25603,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,1,1
+27386,city_94,-1.0155061374538275,Male,0,no_enrollment,2,Unknown,0.8,0,Unknown,never,0,0
+28630,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,0.1,3,Pvt Ltd,1,0,0
+32243,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,0,1
+3635,city_61,0.703880363749907,Female,0,no_enrollment,3,Arts,-1.,3,Pvt Ltd,2,3,1
+30957,city_162,-0.4637030277651865,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+2326,city_103,0.7598603893704947,Male,0,Full time course,2,Unknown,-0.,0,Unknown,1,3,1
+17950,city_74,-1.9671665730038015,Unknow,1,Part time course,4,STEM,0.2,3,Pvt Ltd,>4,0,0
+32910,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,never,0,0
+32353,city_75,0.9118061731978017,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,1,0,1
+13462,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,0,0
+28937,city_50,0.5679288729570535,Male,1,no_enrollment,3,STEM,-0.,1,Pvt Ltd,1,0,0
+29276,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,3,Pvt Ltd,1,0,0
+16082,city_102,-0.16780860662779934,Male,1,no_enrollment,0,Unknown,-0.,6,Pvt Ltd,>4,1,0
+515,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,2,1,1
+31826,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,1.5,8,Pvt Ltd,2,0,1
+14515,city_102,-0.16780860662779934,Male,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,2,0,0
+26722,city_21,-1.607294979728601,Male,0,Full time course,3,STEM,-0.,0,Unknown,never,1,0
+2937,city_89,0.7998461219566281,Unknow,1,no_enrollment,3,STEM,1.5,1,Early Stage Startup,1,0,1
+30103,city_28,0.9118061731978017,Male,1,no_enrollment,3,STEM,1.0,8,Pvt Ltd,3,0,1
+25100,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,-0.,1,Early Stage Startup,1,-1,0
+13397,city_173,0.4239802356469741,Male,1,Part time course,2,Unknown,0.2,6,Pvt Ltd,3,0,0
+8413,city_21,-1.607294979728601,Male,0,no_enrollment,1,Unknown,-1.,0,Unknown,never,0,0
+11413,city_12,-1.479340635452974,Male,0,Full time course,3,STEM,-0.,3,Pvt Ltd,1,0,0
+9556,city_40,-0.3917287091101473,Unknow,1,no_enrollment,3,STEM,1.4,0,Unknown,1,0,0
+28061,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,1,0,0
+32374,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.1,4,NGO,2,-1,1
+16251,city_42,-2.0951209172794285,Male,0,Full time course,3,STEM,-0.,7,Pvt Ltd,1,0,0
+23674,city_21,-1.607294979728601,Male,0,no_enrollment,3,Business Degree,-0.,0,Unknown,never,0,0
+16689,city_103,0.7598603893704947,Unknow,1,no_enrollment,5,STEM,-0.,5,Pvt Ltd,1,0,1
+8042,city_45,0.5199459938536943,Male,1,no_enrollment,2,Unknown,0.7,0,Unknown,1,0,0
+9055,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,0.4,4,Public Sector,2,0,0
+12674,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,-0.,1,Unknown,1,2,1
+16328,city_114,0.8078432684738539,Male,1,no_enrollment,5,Business Degree,1.5,3,Pvt Ltd,1,0,1
+22099,city_103,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,1.5,6,Public Sector,>4,0,1
+6314,city_103,0.7598603893704947,Male,1,no_enrollment,4,Humanities,-0.,3,Pvt Ltd,1,0,1
+4579,city_28,0.9118061731978017,Male,0,Full time course,2,Unknown,-1.,0,Unknown,2,0,1
+11640,city_117,-1.0155061374538275,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,1,0,0
+5126,city_165,0.6239088985776411,Male,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,2,0,1
+11401,city_152,-1.0155061374538275,Unknow,1,no_enrollment,3,STEM,1.2,3,NGO,2,0,0
+5841,city_75,0.9118061731978017,Male,1,no_enrollment,3,STEM,1.5,0,Pvt Ltd,>4,0,1
+1838,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,0,Pvt Ltd,3,1,0
+6398,city_16,0.6798889241982279,Unknow,1,no_enrollment,5,STEM,1.5,4,Unknown,>4,0,1
+18267,city_91,-1.0714861630744141,Unknow,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,3,0,0
+22591,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,-0.,7,Pvt Ltd,1,0,0
+12996,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,1
+8514,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.0,4,Pvt Ltd,>4,0,1
+3862,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,>4,0,1
+29762,city_162,-0.4637030277651865,Male,1,Full time course,3,STEM,-0.,0,Funded Startup,1,1,0
+32795,city_128,-2.383018191899588,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,1,0,0
+9918,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,0.1,0,Pvt Ltd,>4,1,1
+10162,city_160,0.7598603893704947,Female,1,no_enrollment,3,STEM,0.7,5,Pvt Ltd,3,0,1
+18847,city_64,-1.2714148260050813,Male,1,no_enrollment,3,STEM,0.7,3,Pvt Ltd,3,0,0
+26138,city_45,0.5199459938536943,Unknow,1,no_enrollment,3,STEM,0.7,0,Unknown,2,0,0
+30294,city_114,0.8078432684738539,Male,0,Part time course,4,STEM,1.5,5,Public Sector,1,0,1
+31629,city_61,0.703880363749907,Male,1,no_enrollment,3,STEM,1.2,1,Pvt Ltd,1,0,1
+32019,city_103,0.7598603893704947,Male,0,Full time course,2,Unknown,-0.,0,Unknown,3,0,1
+29341,city_100,0.49595455430201424,Female,1,no_enrollment,3,STEM,1.0,4,Pvt Ltd,>4,0,0
+31465,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,>4,0,1
+19158,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,>4,0,1
+26354,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,>4,0,1
+2936,city_36,0.5439374334053744,Male,1,Full time course,2,Unknown,-0.,4,Pvt Ltd,3,0,0
+24820,city_142,-0.7835888884542537,Male,1,Full time course,4,STEM,-0.,1,Pvt Ltd,1,0,0
+29326,city_128,-2.383018191899588,Unknow,1,no_enrollment,3,STEM,-1.,0,Unknown,1,0,0
+32022,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,1
+10478,city_11,-2.199083822003374,Unknow,1,Part time course,4,STEM,-1.,3,NGO,never,0,0
+24800,city_160,0.7598603893704947,Male,0,no_enrollment,3,Business Degree,0.2,0,Unknown,2,0,1
+29243,city_165,0.6239088985776411,Female,0,Part time course,4,STEM,-1.,0,Funded Startup,1,3,1
+22835,city_27,0.1840658401301737,Male,0,no_enrollment,3,STEM,-0.,0,Unknown,never,0,0
+6615,city_21,-1.607294979728601,Male,0,Part time course,3,STEM,-1.,1,Pvt Ltd,1,0,0
+32152,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,5,Pvt Ltd,2,0,1
+7281,city_103,0.7598603893704947,Female,0,no_enrollment,4,STEM,-0.,6,Pvt Ltd,1,0,1
+7314,city_136,0.575926019474281,Female,0,no_enrollment,5,STEM,-0.,0,Unknown,1,0,0
+5479,city_103,0.7598603893704947,Male,0,no_enrollment,3,STEM,-1.,0,Unknown,2,0,1
+28427,city_160,0.7598603893704947,Unknow,0,Part time course,4,Humanities,0.8,8,Public Sector,1,0,1
+18166,city_30,-1.0155061374538275,Female,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,0
+18384,city_19,-1.1434604817294534,Female,0,no_enrollment,3,Other,-1.,0,Unknown,3,1,0
+23628,city_114,0.8078432684738539,Male,0,Full time course,3,Business Degree,-0.,0,Unknown,2,0,1
+18665,city_21,-1.607294979728601,Male,0,no_enrollment,1,Unknown,-1.,0,Unknown,never,0,0
+20691,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,1.2,3,Other,never,0,0
+10260,city_21,-1.607294979728601,Unknow,0,Part time course,4,STEM,-1.,0,Unknown,2,0,0
+4586,city_21,-1.607294979728601,Male,0,Full time course,3,STEM,-1.,0,Unknown,1,0,0
+610,city_28,0.9118061731978017,Unknow,0,no_enrollment,5,STEM,1.5,7,Pvt Ltd,3,1,1
+17389,city_114,0.8078432684738539,Male,1,Full time course,3,STEM,0.1,0,Unknown,>4,0,1
+12558,city_74,-1.9671665730038015,Unknow,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,0,0
+16395,city_114,0.8078432684738539,Male,1,no_enrollment,2,Unknown,-0.,0,Pvt Ltd,never,0,1
+11770,city_162,-0.4637030277651865,Male,1,no_enrollment,4,STEM,1.0,3,NGO,2,2,0
+27991,city_46,-0.5036887603513199,Male,0,Full time course,2,Unknown,-1.,0,Unknown,1,0,0
+27425,city_75,0.9118061731978017,Other,1,no_enrollment,3,STEM,0.8,0,Unknown,never,0,1
+25585,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,2,0,0
+20758,city_136,0.575926019474281,Male,1,Unknown,4,STEM,0.4,5,Pvt Ltd,>4,3,0
+4791,city_83,0.7838518289221739,Unknow,0,Full time course,4,STEM,-0.,3,Public Sector,3,1,1
+18816,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+31466,city_24,-1.0155061374538275,Male,1,no_enrollment,4,STEM,0.1,0,Unknown,3,0,0
+12500,city_105,-0.24778007180006614,Male,1,Full time course,3,STEM,0.1,4,Pvt Ltd,>4,0,0
+1928,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-0.,0,Unknown,never,0,0
+15385,city_149,-1.0874804561088667,Unknow,0,no_enrollment,3,STEM,-0.,6,Pvt Ltd,1,0,0
+14264,city_16,0.6798889241982279,Unknow,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,>4,0,1
+29541,city_75,0.9118061731978017,Unknow,1,no_enrollment,3,STEM,-0.,7,Pvt Ltd,1,0,1
+8426,city_45,0.5199459938536943,Male,1,Part time course,3,STEM,-0.,1,Pvt Ltd,4,0,0
+11148,city_24,-1.0155061374538275,Unknow,0,no_enrollment,4,Business Degree,-0.,5,Pvt Ltd,1,0,0
+22661,city_16,0.6798889241982279,Male,1,Full time course,4,STEM,-0.,1,Pvt Ltd,3,0,1
+19550,city_21,-1.607294979728601,Female,1,Part time course,3,STEM,-0.,0,Unknown,4,-1,0
+15384,city_21,-1.607294979728601,Male,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,0
+1443,city_75,0.9118061731978017,Male,1,no_enrollment,3,STEM,-0.,3,Funded Startup,1,0,1
+14491,city_144,0.12008866799236027,Male,1,no_enrollment,2,Unknown,0.4,3,Funded Startup,1,0,0
+3275,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.2,4,Pvt Ltd,1,0,1
+5265,city_134,-1.0155061374538275,Male,1,no_enrollment,4,STEM,-0.,6,Pvt Ltd,1,0,0
+15865,city_160,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,-0.,0,Unknown,2,0,1
+8539,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.7,8,Pvt Ltd,1,0,1
+25995,city_16,0.6798889241982279,Unknow,0,no_enrollment,3,STEM,-0.,8,Public Sector,1,0,1
+12288,city_16,0.6798889241982279,Unknow,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,1
+25411,city_114,0.8078432684738539,Male,0,Part time course,4,STEM,-1.,5,Public Sector,3,0,1
+12189,city_74,-1.9671665730038015,Male,0,Full time course,3,STEM,-1.,0,Unknown,2,0,0
+27933,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,0.1,6,Pvt Ltd,2,0,0
+11273,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,0.1,5,Pvt Ltd,1,0,1
+30859,city_159,0.1440801075440403,Male,1,no_enrollment,4,STEM,-0.,4,Public Sector,3,0,0
+15521,city_36,0.5439374334053744,Male,1,Part time course,3,STEM,0.5,0,Pvt Ltd,1,1,0
+25054,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+11506,city_115,-0.28776580438619953,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,0
+5934,city_72,-0.23978292528283945,Male,1,no_enrollment,3,No Major,-1.,6,Pvt Ltd,1,0,0
+3689,city_73,-0.5676659324891333,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,3,0,0
+27337,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,0.7,8,Pvt Ltd,1,1,0
+15911,city_136,0.575926019474281,Unknow,0,no_enrollment,4,STEM,-0.,3,Pvt Ltd,1,0,0
+32996,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,0.4,4,Pvt Ltd,>4,2,1
+10663,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,0.1,6,Pvt Ltd,never,0,1
+18356,city_11,-2.199083822003374,Male,1,no_enrollment,3,STEM,0.2,3,Pvt Ltd,3,0,0
+6865,city_136,0.575926019474281,Unknow,0,no_enrollment,3,STEM,-1.,1,Early Stage Startup,,0,0
+30679,city_28,0.9118061731978017,Male,1,no_enrollment,3,Other,-0.,0,Pvt Ltd,3,1,1
+7347,city_102,-0.16780860662779934,Male,0,no_enrollment,4,STEM,-1.,7,Pvt Ltd,1,0,0
+31951,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,3,Pvt Ltd,1,0,0
+13009,city_103,0.7598603893704947,Unknow,0,no_enrollment,4,STEM,-1.,0,Unknown,1,0,1
+6452,city_165,0.6239088985776411,Male,1,no_enrollment,3,STEM,-0.,6,Pvt Ltd,>4,1,1
+19294,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,-0.,7,Pvt Ltd,2,0,1
+12946,city_103,0.7598603893704947,Unknow,1,Part time course,3,STEM,-0.,4,Pvt Ltd,2,0,1
+8375,city_53,-0.6796259837303069,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,2,0,0
+8043,city_159,0.1440801075440403,Male,1,no_enrollment,4,STEM,0.8,3,Pvt Ltd,1,0,0
+4063,city_16,0.6798889241982279,Other,0,no_enrollment,4,STEM,1.5,5,Other,>4,1,1
+14821,city_28,0.9118061731978017,Male,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,1,0,1
+16107,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,0.7,0,Unknown,>4,0,1
+23465,city_115,-0.28776580438619953,Male,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+18698,city_50,0.5679288729570535,Male,0,Full time course,2,Unknown,-1.,0,Unknown,1,2,0
+24582,city_114,0.8078432684738539,Male,1,Part time course,4,STEM,0.8,3,Pvt Ltd,2,0,1
+19239,city_160,0.7598603893704947,Unknow,1,no_enrollment,4,Humanities,0.1,4,Pvt Ltd,3,0,1
+9664,city_41,0.016125763268414313,Male,1,Part time course,3,STEM,-0.,1,Pvt Ltd,2,0,0
+17300,city_21,-1.607294979728601,Male,0,Unknown,3,STEM,-1.,1,Pvt Ltd,1,0,0
+21257,city_157,-0.44770873473073314,Male,1,no_enrollment,4,STEM,1.5,5,Pvt Ltd,>4,0,0
+26856,city_103,0.7598603893704947,Male,1,no_enrollment,2,Unknown,0.8,5,Pvt Ltd,4,0,1
+29283,city_67,0.24004586575076048,Male,1,no_enrollment,4,STEM,0.7,4,Pvt Ltd,3,0,0
+30846,city_116,-0.6556345441786269,Male,1,no_enrollment,3,Business Degree,1.5,4,Pvt Ltd,>4,0,0
+24670,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.7,4,Pvt Ltd,>4,3,1
+11391,city_73,-0.5676659324891333,Male,1,no_enrollment,3,Humanities,1.5,0,Early Stage Startup,1,0,0
+13823,city_77,0.04011720282009346,Male,0,Full time course,2,Unknown,-0.,0,Pvt Ltd,1,0,0
+25931,city_103,0.7598603893704947,Male,1,Part time course,3,STEM,-1.,8,Pvt Ltd,3,0,1
+14638,city_114,0.8078432684738539,Unknow,1,no_enrollment,0,Unknown,-0.,0,Unknown,1,0,1
+29031,city_94,-1.0155061374538275,Male,1,Part time course,3,STEM,-0.,0,Unknown,1,1,0
+14883,city_21,-1.607294979728601,Male,0,no_enrollment,3,STEM,-1.,8,Pvt Ltd,1,0,0
+17924,city_10,0.5599317264398277,Male,0,Full time course,4,STEM,1.5,0,Unknown,1,0,0
+30951,city_103,0.7598603893704947,Male,1,no_enrollment,4,Other,-1.,7,Pvt Ltd,2,0,1
+9051,city_21,-1.607294979728601,Male,0,no_enrollment,3,STEM,-1.,0,Unknown,never,0,0
+6963,city_65,-0.1838028996622527,Female,1,no_enrollment,3,STEM,0.5,4,Pvt Ltd,1,0,0
+3559,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,7,Pvt Ltd,>4,0,1
+9700,city_71,0.4719631147503342,Female,0,no_enrollment,3,Humanities,-0.,8,Pvt Ltd,2,0,0
+11849,city_73,-0.5676659324891333,Male,1,no_enrollment,4,STEM,0.2,0,Unknown,>4,0,0
+22737,city_16,0.6798889241982279,Unknow,0,no_enrollment,4,STEM,-0.,3,Early Stage Startup,1,0,1
+6969,city_41,0.016125763268414313,Male,1,no_enrollment,3,STEM,0.8,0,Unknown,1,0,0
+31870,city_103,0.7598603893704947,Unknow,1,Full time course,3,STEM,-1.,6,NGO,1,-1,1
+25263,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,1.0,7,Public Sector,1,0,1
+21049,city_90,-1.0155061374538275,Unknow,1,no_enrollment,3,STEM,-1.,0,Unknown,1,0,0
+17307,city_114,0.8078432684738539,Unknow,1,Full time course,3,STEM,-1.,0,Unknown,1,0,1
+19471,city_138,0.08810008192345355,Male,1,Part time course,3,STEM,1.5,0,Pvt Ltd,1,0,0
+22338,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Pvt Ltd,3,0,1
+18519,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+8752,city_103,0.7598603893704947,Male,0,Full time course,5,STEM,-0.,0,Public Sector,>4,0,1
+17254,city_91,-1.0714861630744141,Unknow,0,Full time course,1,Unknown,-1.,0,Unknown,1,1,0
+31441,city_75,0.9118061731978017,Male,1,no_enrollment,3,STEM,0.7,0,Public Sector,2,1,1
+13175,city_75,0.9118061731978017,Unknow,0,no_enrollment,4,STEM,-0.,3,Pvt Ltd,1,0,1
+2122,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-0.,0,Pvt Ltd,never,0,0
+734,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,5,Pvt Ltd,,0,1
+10655,city_136,0.575926019474281,Female,0,Full time course,3,STEM,-0.,0,Unknown,never,0,0
+20900,city_71,0.4719631147503342,Male,1,no_enrollment,4,STEM,-1.,5,Pvt Ltd,1,0,0
+25977,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-1.,3,Pvt Ltd,1,0,0
+8038,city_150,-1.0155061374538275,Unknow,1,Part time course,4,STEM,-0.,0,Pvt Ltd,1,0,0
+9275,city_158,-0.47170017428241406,Male,1,Part time course,3,STEM,0.4,0,Unknown,>4,3,0
+26576,city_103,0.7598603893704947,Other,0,no_enrollment,3,STEM,-0.,5,Pvt Ltd,3,0,1
+8184,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,1,0
+25181,city_100,0.49595455430201424,Unknow,1,no_enrollment,4,STEM,-0.,0,Funded Startup,3,-1,0
+27059,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+17920,city_102,-0.16780860662779934,Male,1,no_enrollment,4,STEM,-0.,4,Pvt Ltd,2,0,0
+14932,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,-0.,4,Public Sector,3,0,1
+2491,city_71,0.4719631147503342,Male,1,no_enrollment,4,STEM,0.8,3,Pvt Ltd,1,2,0
+22450,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,2,1,0
+12831,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,0.5,8,Pvt Ltd,1,0,1
+24057,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,never,0,0
+27854,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,8,Public Sector,>4,0,1
+9083,city_114,0.8078432684738539,Unknow,1,no_enrollment,3,STEM,-0.,0,Early Stage Startup,4,1,1
+26670,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,2,0,1
+5709,city_13,0.016125763268414313,Male,1,no_enrollment,4,STEM,1.0,0,Pvt Ltd,1,0,0
+31995,city_21,-1.607294979728601,Male,1,Part time course,3,STEM,-1.,8,Pvt Ltd,never,0,0
+11845,city_103,0.7598603893704947,Female,0,Full time course,5,STEM,-0.,0,NGO,never,0,1
+14052,city_114,0.8078432684738539,Female,1,no_enrollment,4,STEM,-0.,1,Pvt Ltd,4,0,1
+22407,city_11,-2.199083822003374,Unknow,1,no_enrollment,4,STEM,-0.,3,Pvt Ltd,3,1,0
+33353,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,0.7,8,Pvt Ltd,1,0,1
+32278,city_2,-0.2957629509034271,Male,0,Part time course,3,STEM,-1.,0,Unknown,2,0,0
+14069,city_160,0.7598603893704947,Female,0,Full time course,3,STEM,-0.,0,Unknown,never,-1,1
+828,city_103,0.7598603893704947,Male,1,no_enrollment,2,Unknown,1.5,3,Pvt Ltd,>4,0,1
+16574,city_67,0.24004586575076048,Male,1,no_enrollment,4,Business Degree,1.1,4,Pvt Ltd,2,0,0
+6742,city_21,-1.607294979728601,Unknow,0,Full time course,4,STEM,-1.,4,Pvt Ltd,1,0,0
+6583,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,0.4,3,Funded Startup,1,0,1
+15159,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,4,NGO,1,0,1
+16614,city_83,0.7838518289221739,Male,1,Full time course,3,STEM,-0.,8,Unknown,1,2,1
+27456,city_67,0.24004586575076048,Female,1,Full time course,3,STEM,-0.,6,Pvt Ltd,1,-1,0
+16462,city_128,-2.383018191899588,Male,1,no_enrollment,3,Business Degree,-0.,1,Pvt Ltd,2,0,0
+32105,city_21,-1.607294979728601,Male,1,Part time course,3,STEM,0.5,4,Pvt Ltd,2,0,0
+22464,city_21,-1.607294979728601,Unknow,0,no_enrollment,4,STEM,-1.,3,Pvt Ltd,1,1,0
+20165,city_134,-1.0155061374538275,Unknow,0,Unknown,0,Unknown,-1.,0,Unknown,,3,0
+2610,city_1,0.17606869361294702,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,0
+18668,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,0.1,7,Pvt Ltd,1,0,0
+20361,city_21,-1.607294979728601,Female,1,no_enrollment,4,STEM,-0.,3,Pvt Ltd,1,0,0
+1055,city_103,0.7598603893704947,Male,0,no_enrollment,3,Humanities,1.0,4,Pvt Ltd,>4,0,1
+19794,city_16,0.6798889241982279,Unknow,0,Full time course,3,STEM,-0.,3,Public Sector,2,0,1
+4810,city_160,0.7598603893704947,Unknow,0,no_enrollment,3,STEM,1.5,0,Unknown,1,0,1
+16560,city_90,-1.0155061374538275,Male,0,no_enrollment,3,STEM,-1.,0,Unknown,1,0,0
+5236,city_67,0.24004586575076048,Female,0,Full time course,3,Other,-0.,0,Unknown,1,0,0
+28886,city_21,-1.607294979728601,Unknow,1,Full time course,0,Unknown,-1.,0,Unknown,never,3,0
+18338,city_20,-0.23178577876561365,Male,1,no_enrollment,3,STEM,0.1,4,Other,3,0,0
+25697,city_103,0.7598603893704947,Male,1,no_enrollment,4,Humanities,1.2,3,Pvt Ltd,3,0,1
+15150,city_98,0.9917776383700684,Unknow,1,no_enrollment,4,STEM,1.5,6,Pvt Ltd,>4,0,1
+5005,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,-1.,3,Pvt Ltd,2,0,1
+8358,city_67,0.24004586575076048,Unknow,1,Part time course,2,Unknown,-0.,7,Pvt Ltd,1,0,0
+27297,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+19413,city_21,-1.607294979728601,Male,1,no_enrollment,0,Unknown,-1.,0,Unknown,2,0,0
+5111,city_134,-1.0155061374538275,Unknow,0,no_enrollment,0,Unknown,-1.,0,Unknown,never,0,0
+13477,city_149,-1.0874804561088667,Male,0,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+2120,city_105,-0.24778007180006614,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,2,1,0
+28293,city_16,0.6798889241982279,Male,0,no_enrollment,1,Unknown,-1.,0,Unknown,2,0,1
+31481,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+25635,city_16,0.6798889241982279,Male,1,no_enrollment,3,Other,1.5,1,Early Stage Startup,1,0,1
+14041,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,0.8,5,Pvt Ltd,1,0,1
+10311,city_67,0.24004586575076048,Male,1,Full time course,3,STEM,0.1,0,Unknown,1,0,0
+13925,city_103,0.7598603893704947,Male,1,no_enrollment,5,STEM,-0.,4,Funded Startup,1,0,1
+2183,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,never,0,0
+23188,city_103,0.7598603893704947,Male,0,no_enrollment,4,Humanities,1.5,8,Pvt Ltd,>4,0,1
+8982,city_75,0.9118061731978017,Male,1,no_enrollment,3,STEM,0.5,0,Pvt Ltd,4,0,1
+20064,city_10,0.5599317264398277,Unknow,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,0
+21604,city_21,-1.607294979728601,Female,0,no_enrollment,3,STEM,-1.,4,Public Sector,never,0,0
+3991,city_103,0.7598603893704947,Male,0,Full time course,2,Unknown,-0.,0,Unknown,1,0,1
+3307,city_123,-0.6956202767647602,Male,1,no_enrollment,4,STEM,0.5,1,Early Stage Startup,1,0,0
+4343,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,1
+24642,city_16,0.6798889241982279,Female,1,no_enrollment,4,STEM,-0.,3,Public Sector,2,0,1
+12008,city_103,0.7598603893704947,Unknow,1,Part time course,2,Unknown,0.4,4,Pvt Ltd,1,0,1
+22200,city_114,0.8078432684738539,Unknow,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,1
+2789,city_40,-0.3917287091101473,Male,1,no_enrollment,3,STEM,0.4,3,Pvt Ltd,2,1,0
+22697,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,0
+20321,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,4,0,1
+13470,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,8,Pvt Ltd,>4,0,1
+31236,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,2,0,0
+32607,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,4,0,0
+8216,city_21,-1.607294979728601,Unknow,1,no_enrollment,4,STEM,0.1,4,Pvt Ltd,2,2,0
+5320,city_173,0.4239802356469741,Male,1,no_enrollment,2,Unknown,-0.,4,Pvt Ltd,never,0,0
+30466,city_10,0.5599317264398277,Male,0,Full time course,2,Unknown,-0.,0,Pvt Ltd,1,0,0
+24026,city_74,-1.9671665730038015,Unknow,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,1,0,0
+30013,city_40,-0.3917287091101473,Male,1,no_enrollment,4,Other,-0.,4,Pvt Ltd,1,0,0
+22342,city_99,0.7198746567843612,Female,0,Full time course,3,STEM,-0.,0,Pvt Ltd,1,0,1
+370,city_36,0.5439374334053744,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,0
+30365,city_11,-2.199083822003374,Unknow,0,no_enrollment,3,STEM,-1.,0,Unknown,1,0,0
+30316,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-1.,7,Pvt Ltd,1,0,0
+28350,city_67,0.24004586575076048,Male,1,Full time course,3,STEM,-0.,3,Pvt Ltd,2,0,0
+11927,city_149,-1.0874804561088667,Unknow,1,no_enrollment,3,STEM,0.5,0,Unknown,2,0,0
+31708,city_21,-1.607294979728601,Male,0,Full time course,2,Unknown,-0.,0,Unknown,1,0,0
+25882,city_149,-1.0874804561088667,Male,0,no_enrollment,3,STEM,1.4,0,Unknown,never,0,0
+16079,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,4,-1,0
+21788,city_94,-1.0155061374538275,Male,0,no_enrollment,3,STEM,0.1,0,Funded Startup,1,0,0
+2530,city_149,-1.0874804561088667,Male,0,Full time course,3,STEM,-1.,0,Pvt Ltd,1,0,0
+20640,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,1,0,1
+7148,city_160,0.7598603893704947,Other,0,no_enrollment,3,STEM,1.5,8,Public Sector,>4,0,1
+20308,city_160,0.7598603893704947,Female,0,Full time course,3,STEM,-0.,0,Unknown,1,0,1
+2196,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,1,1
+17225,city_114,0.8078432684738539,Male,1,Full time course,3,STEM,-1.,0,Early Stage Startup,1,0,1
+28163,city_65,-0.1838028996622527,Unknow,1,Full time course,3,STEM,0.8,7,Pvt Ltd,1,0,0
+16164,city_102,-0.16780860662779934,Male,1,no_enrollment,3,STEM,0.4,6,Pvt Ltd,3,1,0
+11460,city_74,-1.9671665730038015,Male,1,no_enrollment,3,STEM,0.4,4,Pvt Ltd,1,1,0
+2900,city_9,-0.6556345441786269,Male,1,no_enrollment,3,STEM,-0.,4,NGO,>4,0,0
+1026,city_162,-0.4637030277651865,Unknow,1,no_enrollment,4,STEM,0.1,6,Pvt Ltd,3,0,0
+8049,city_65,-0.1838028996622527,Unknow,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,1,0,0
+12413,city_28,0.9118061731978017,Male,1,no_enrollment,3,STEM,0.1,0,Pvt Ltd,4,0,1
+17269,city_16,0.6798889241982279,Male,0,no_enrollment,2,Unknown,0.1,0,Unknown,1,0,1
+3885,city_114,0.8078432684738539,Male,1,no_enrollment,2,Unknown,1.5,5,Pvt Ltd,>4,0,1
+5194,city_103,0.7598603893704947,Male,0,no_enrollment,1,Unknown,-1.,0,Pvt Ltd,never,0,1
+11644,city_19,-1.1434604817294534,Male,1,no_enrollment,0,Unknown,-0.,1,Pvt Ltd,1,0,0
+28377,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,0.5,3,Early Stage Startup,1,0,0
+25914,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+24947,city_114,0.8078432684738539,Male,1,Unknown,3,STEM,-0.,0,Pvt Ltd,2,0,1
+32540,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,1.5,1,Pvt Ltd,1,0,0
+1346,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,-0.,4,Public Sector,4,3,1
+13220,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,-0.,4,Pvt Ltd,4,0,1
+19336,city_103,0.7598603893704947,Male,1,no_enrollment,2,Unknown,1.5,0,Pvt Ltd,1,0,1
+7416,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-1.,7,Pvt Ltd,1,0,1
+26996,city_114,0.8078432684738539,Male,1,no_enrollment,3,Other,0.4,1,Funded Startup,2,0,1
+26859,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,1,0,1
+13498,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,>4,0,1
+17659,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,6,NGO,>4,1,1
+25173,city_23,0.5919203125087344,Male,1,no_enrollment,3,STEM,-0.,4,NGO,1,0,0
+12002,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,-0.,1,Funded Startup,1,2,1
+22468,city_21,-1.607294979728601,Male,1,Part time course,4,STEM,-0.,0,Unknown,2,0,0
+25106,city_102,-0.16780860662779934,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,>4,0,0
+11730,city_114,0.8078432684738539,Female,0,Full time course,3,STEM,1.0,1,NGO,1,0,1
+21871,city_72,-0.23978292528283945,Unknow,1,no_enrollment,4,STEM,-0.,1,Funded Startup,1,0,0
+19543,city_152,-1.0155061374538275,Unknow,1,no_enrollment,3,STEM,-0.,1,Funded Startup,1,0,0
+4842,city_16,0.6798889241982279,Male,0,Full time course,3,STEM,-0.,4,Public Sector,1,0,1
+12874,city_160,0.7598603893704947,Female,0,no_enrollment,3,Other,-1.,5,Unknown,1,0,1
+19725,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-1.,4,Pvt Ltd,1,0,0
+27614,city_16,0.6798889241982279,Male,1,no_enrollment,2,Unknown,-0.,8,Other,1,0,1
+322,city_67,0.24004586575076048,Male,1,Full time course,2,Unknown,-1.,1,Pvt Ltd,1,0,0
+29603,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,2,0,1
+28292,city_103,0.7598603893704947,Female,0,no_enrollment,4,Humanities,-0.,0,Early Stage Startup,1,0,1
+423,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,-0.,8,Pvt Ltd,2,0,1
+22858,city_16,0.6798889241982279,Unknow,0,no_enrollment,2,Unknown,-1.,0,Unknown,never,0,1
+16449,city_114,0.8078432684738539,Unknow,1,no_enrollment,4,STEM,1.5,7,Pvt Ltd,>4,0,1
+26195,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,5,Public Sector,1,0,1
+29710,city_149,-1.0874804561088667,Unknow,0,Part time course,0,Unknown,-1.,0,Unknown,never,0,0
+11901,city_160,0.7598603893704947,Male,0,Full time course,2,Unknown,-0.,0,Unknown,1,0,1
+8170,city_45,0.5199459938536943,Male,1,Full time course,2,Unknown,-0.,0,Unknown,1,0,0
+31818,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,0
+10618,city_21,-1.607294979728601,Unknow,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,0
+10217,city_159,0.1440801075440403,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,0
+13819,city_16,0.6798889241982279,Male,0,Full time course,4,STEM,-0.,0,Public Sector,1,0,1
+13722,city_114,0.8078432684738539,Male,1,no_enrollment,2,Unknown,1.5,0,Unknown,1,0,1
+18100,city_90,-1.0155061374538275,Male,0,Full time course,3,STEM,-0.,0,NGO,1,2,0
+5029,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.7,3,Funded Startup,2,0,1
+31473,city_114,0.8078432684738539,Male,0,no_enrollment,3,STEM,1.0,6,Pvt Ltd,3,1,1
+26801,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,1.5,0,Unknown,1,-1,1
+18912,city_103,0.7598603893704947,Male,1,Part time course,3,STEM,-0.,4,Funded Startup,2,0,1
+27030,city_173,0.4239802356469741,Male,1,no_enrollment,4,STEM,0.4,0,Unknown,1,-1,0
+3647,city_71,0.4719631147503342,Male,0,Part time course,2,Unknown,-0.,4,Pvt Ltd,1,0,0
+4222,city_21,-1.607294979728601,Female,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,1,0
+25614,city_103,0.7598603893704947,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,2,0,1
+19648,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,2,0,0
+22430,city_21,-1.607294979728601,Unknow,1,no_enrollment,4,STEM,-0.,3,Public Sector,2,0,0
+15851,city_13,0.016125763268414313,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,0,0
+301,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,0,Funded Startup,1,0,1
+18825,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,>4,0,1
+31758,city_145,-2.159098089417241,Male,0,Full time course,3,STEM,-1.,0,Unknown,1,0,0
+5898,city_74,-1.9671665730038015,Male,1,no_enrollment,4,STEM,-1.,0,Pvt Ltd,1,0,0
+17932,city_114,0.8078432684738539,Unknow,0,no_enrollment,1,Unknown,-1.,0,Unknown,never,0,1
+30260,city_26,-1.0155061374538275,Male,1,no_enrollment,2,Unknown,-0.,1,Funded Startup,2,0,0
+17669,city_67,0.24004586575076048,Male,1,no_enrollment,4,STEM,0.1,8,Pvt Ltd,2,-1,0
+14806,city_36,0.5439374334053744,Male,1,no_enrollment,2,Unknown,-0.,3,Early Stage Startup,2,0,0
+22480,city_40,-0.3917287091101473,Male,1,Full time course,3,STEM,0.1,4,Unknown,4,0,0
+29259,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,>4,-1,0
+22746,city_103,0.7598603893704947,Male,1,no_enrollment,2,Unknown,-1.,3,Unknown,never,1,1
+9852,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,3,0,1
+30,city_158,-0.47170017428241406,Male,1,Part time course,3,STEM,-0.,5,Pvt Ltd,2,0,0
+17854,city_114,0.8078432684738539,Unknow,1,no_enrollment,4,STEM,0.7,8,Pvt Ltd,2,3,1
+9205,city_143,-0.6796259837303069,Unknow,1,no_enrollment,3,STEM,0.4,0,Unknown,>4,0,0
+17779,city_21,-1.607294979728601,Male,0,Full time course,4,STEM,-0.,0,Unknown,1,1,0
+20154,city_136,0.575926019474281,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,>4,0,0
+16828,city_100,0.49595455430201424,Male,1,Full time course,3,STEM,-0.,0,Unknown,2,0,0
+7387,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,0.7,5,Pvt Ltd,1,0,1
+31802,city_64,-1.2714148260050813,Male,1,no_enrollment,4,STEM,0.8,0,Unknown,3,0,0
+17188,city_21,-1.607294979728601,Male,0,no_enrollment,3,STEM,-0.,1,Funded Startup,1,0,0
+7300,city_114,0.8078432684738539,Male,1,no_enrollment,2,Unknown,-0.,1,Pvt Ltd,2,0,1
+12136,city_114,0.8078432684738539,Unknow,1,no_enrollment,4,STEM,0.5,4,Unknown,,0,1
+21899,city_71,0.4719631147503342,Unknow,1,Part time course,3,STEM,0.7,8,Unknown,>4,0,0
+10834,city_114,0.8078432684738539,Unknow,0,Unknown,3,STEM,0.2,0,Unknown,2,0,1
+20841,city_21,-1.607294979728601,Unknow,1,no_enrollment,4,Other,-0.,0,Unknown,>4,0,0
+5962,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,0
+7813,city_104,0.7918489754394014,Male,0,no_enrollment,5,STEM,1.0,3,NGO,3,0,1
+10847,city_67,0.24004586575076048,Male,0,Full time course,5,STEM,-0.,0,Unknown,>4,0,0
+30109,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,0,Unknown,1,0,1
+3312,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.0,4,Funded Startup,1,0,1
+12884,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.4,3,Funded Startup,1,0,1
+20514,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,2,0,1
+8411,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,4,Public Sector,2,0,1
+16798,city_100,0.49595455430201424,Unknow,1,no_enrollment,4,STEM,1.5,3,Pvt Ltd,1,0,0
+27389,city_97,0.7998461219566281,Male,1,no_enrollment,3,STEM,0.8,6,Pvt Ltd,>4,0,1
+32783,city_134,-1.0155061374538275,Male,1,no_enrollment,3,STEM,-0.,1,Early Stage Startup,1,0,0
+10230,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,1.5,5,Funded Startup,1,0,1
+5980,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,3,0
+3672,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-1.,3,Pvt Ltd,,0,0
+29832,city_21,-1.607294979728601,Male,1,no_enrollment,4,STEM,-0.,3,Pvt Ltd,4,0,0
+18719,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,5,Pvt Ltd,1,0,0
+23024,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,>4,3,1
+29629,city_21,-1.607294979728601,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+8112,city_180,-1.0155061374538275,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,1,0,0
+13953,city_103,0.7598603893704947,Unknow,0,no_enrollment,4,STEM,-0.,7,NGO,1,0,1
+17450,city_21,-1.607294979728601,Unknow,0,no_enrollment,3,STEM,-1.,0,Pvt Ltd,never,1,0
+9752,city_21,-1.607294979728601,Unknow,1,Full time course,3,STEM,-0.,0,Unknown,4,0,0
+10167,city_103,0.7598603893704947,Female,0,Part time course,3,STEM,-1.,3,Funded Startup,1,0,1
+181,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-1.,0,Early Stage Startup,1,3,0
+1476,city_149,-1.0874804561088667,Unknow,1,no_enrollment,3,STEM,0.1,4,Pvt Ltd,4,0,0
+16816,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,1.1,0,Pvt Ltd,2,0,1
+16023,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,0,Public Sector,1,0,1
+12059,city_27,0.1840658401301737,Male,1,no_enrollment,2,Unknown,-0.,3,Pvt Ltd,2,0,0
+28220,city_99,0.7198746567843612,Male,0,no_enrollment,3,STEM,1.5,1,Pvt Ltd,>4,0,1
+18822,city_104,0.7918489754394014,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,1,0,1
+17720,city_103,0.7598603893704947,Female,0,Full time course,3,STEM,-1.,1,Early Stage Startup,1,0,1
+13419,city_114,0.8078432684738539,Unknow,1,no_enrollment,0,Unknown,-0.,0,Unknown,,0,1
+23734,city_162,-0.4637030277651865,Male,1,Full time course,3,STEM,-0.,1,Pvt Ltd,never,0,0
+6610,city_100,0.49595455430201424,Unknow,1,no_enrollment,2,Unknown,1.5,0,Pvt Ltd,2,0,0
+18569,city_100,0.49595455430201424,Male,1,no_enrollment,2,Unknown,-0.,4,Pvt Ltd,1,0,0
+25136,city_16,0.6798889241982279,Unknow,0,no_enrollment,3,Business Degree,-1.,0,Unknown,never,0,1
+21469,city_84,-1.0155061374538275,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,3,0
+19752,city_75,0.9118061731978017,Male,1,Full time course,2,Unknown,-0.,0,Unknown,1,0,1
+32453,city_16,0.6798889241982279,Male,1,no_enrollment,3,STEM,-0.,1,Pvt Ltd,1,1,1
+24625,city_103,0.7598603893704947,Male,1,no_enrollment,4,Humanities,1.5,5,Pvt Ltd,1,0,1
+32745,city_16,0.6798889241982279,Unknow,0,no_enrollment,1,Unknown,-0.,0,Pvt Ltd,never,0,1
+15144,city_103,0.7598603893704947,Male,1,Part time course,3,STEM,-0.,8,Public Sector,1,0,1
+26541,city_16,0.6798889241982279,Male,0,no_enrollment,4,STEM,-0.,3,Pvt Ltd,1,0,1
+14132,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,4,0,1
+2580,city_71,0.4719631147503342,Male,1,no_enrollment,3,STEM,0.1,8,Pvt Ltd,1,1,0
+32229,city_30,-1.0155061374538275,Male,1,Full time course,3,STEM,-0.,4,Pvt Ltd,1,2,0
+11638,city_114,0.8078432684738539,Unknow,1,no_enrollment,2,Unknown,1.5,0,Unknown,>4,0,1
+7132,city_91,-1.0714861630744141,Unknow,1,no_enrollment,3,Other,-1.,0,Unknown,>4,0,0
+22168,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,1.5,8,Pvt Ltd,4,0,1
+29886,city_100,0.49595455430201424,Male,1,no_enrollment,3,No Major,0.1,0,Unknown,1,0,0
+5130,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,3,Early Stage Startup,1,0,1
+923,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,1.5,3,Funded Startup,1,0,1
+28035,city_16,0.6798889241982279,Male,0,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,1
+17153,city_160,0.7598603893704947,Male,1,no_enrollment,4,STEM,-0.,4,Unknown,1,0,1
+30428,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,>4,0,1
+14687,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,1,0,1
+26621,city_11,-2.199083822003374,Unknow,1,Full time course,3,STEM,-0.,3,Pvt Ltd,1,0,0
+19744,city_100,0.49595455430201424,Male,1,no_enrollment,4,STEM,0.5,4,Pvt Ltd,4,1,0
+32698,city_160,0.7598603893704947,Unknow,0,no_enrollment,1,Unknown,-0.,0,Unknown,never,0,1
+15049,city_150,-1.0155061374538275,Male,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+32808,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,2,0,0
+7535,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,5,Pvt Ltd,>4,0,1
+20622,city_103,0.7598603893704947,Male,0,Part time course,3,STEM,-1.,0,Unknown,1,0,1
+22863,city_114,0.8078432684738539,Unknow,1,no_enrollment,4,STEM,0.5,7,Pvt Ltd,>4,0,1
+21845,city_103,0.7598603893704947,Unknow,0,no_enrollment,2,Unknown,-1.,0,Unknown,never,0,1
+16135,city_159,0.1440801075440403,Male,1,no_enrollment,4,STEM,0.2,3,Funded Startup,1,0,0
+15095,city_77,0.04011720282009346,Male,1,no_enrollment,3,No Major,-0.,3,Public Sector,2,0,0
+29703,city_76,-1.0155061374538275,Male,1,no_enrollment,3,STEM,0.4,6,Pvt Ltd,4,1,0
+14785,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-1.,4,Pvt Ltd,1,1,0
+20150,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,0.2,4,Pvt Ltd,never,0,1
+19473,city_90,-1.0155061374538275,Male,1,no_enrollment,3,STEM,-0.,5,Public Sector,2,0,0
+26862,city_103,0.7598603893704947,Unknow,1,Part time course,4,STEM,1.5,4,Pvt Ltd,>4,0,1
+3377,city_160,0.7598603893704947,Unknow,1,no_enrollment,4,STEM,-0.,4,Pvt Ltd,1,0,1
+21166,city_150,-1.0155061374538275,Unknow,0,Full time course,3,STEM,-0.,0,Unknown,1,0,0
+24684,city_103,0.7598603893704947,Male,0,no_enrollment,4,Business Degree,-1.,6,Pvt Ltd,1,0,1
+32511,city_16,0.6798889241982279,Male,0,no_enrollment,3,STEM,0.5,6,Public Sector,>4,0,1
+10587,city_64,-1.2714148260050813,Female,1,no_enrollment,3,Humanities,0.5,0,Unknown,1,0,0
+23210,city_103,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,0,1
+8243,city_45,0.5199459938536943,Male,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,0
+2046,city_149,-1.0874804561088667,Male,1,no_enrollment,4,STEM,-0.,3,Early Stage Startup,1,0,0
+875,city_160,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,0.2,1,Pvt Ltd,1,0,1
+437,city_16,0.6798889241982279,Male,1,no_enrollment,4,STEM,-0.,8,Pvt Ltd,2,0,1
+9208,city_21,-1.607294979728601,Unknow,0,Part time course,3,STEM,-1.,0,Pvt Ltd,1,0,0
+18560,city_173,0.4239802356469741,Unknow,1,no_enrollment,4,STEM,1.4,6,Pvt Ltd,,0,0
+31361,city_57,0.32801447744025397,Male,1,no_enrollment,3,STEM,0.8,0,Unknown,1,0,0
+3432,city_11,-2.199083822003374,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,never,0,0
+17066,city_114,0.8078432684738539,Male,1,no_enrollment,4,STEM,1.2,3,Pvt Ltd,2,0,1
+17993,city_105,-0.24778007180006614,Unknow,1,Full time course,3,STEM,-1.,3,Pvt Ltd,2,0,0
+4879,city_83,0.7838518289221739,Male,1,no_enrollment,3,STEM,1.5,3,Pvt Ltd,>4,0,1
+32898,city_21,-1.607294979728601,Male,0,Full time course,3,STEM,-1.,0,Early Stage Startup,1,0,0
+28680,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,3,2,1
+10304,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,-0.,0,Public Sector,1,0,1
+26899,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,3,Funded Startup,1,0,1
+23403,city_100,0.49595455430201424,Unknow,0,no_enrollment,4,Humanities,-0.,0,Unknown,3,0,0
+21936,city_160,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,5,Pvt Ltd,4,0,1
+26927,city_114,0.8078432684738539,Male,0,no_enrollment,3,Humanities,-1.,0,Unknown,4,0,1
+25713,city_136,0.575926019474281,Male,1,no_enrollment,3,STEM,1.1,6,Pvt Ltd,3,0,0
+23976,city_75,0.9118061731978017,Male,0,Full time course,3,STEM,-1.,0,Unknown,never,0,1
+29908,city_104,0.7918489754394014,Male,0,no_enrollment,1,Unknown,0.7,8,Pvt Ltd,2,1,1
+17426,city_101,-2.1351066498655618,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,2,0,0
+9806,city_65,-0.1838028996622527,Male,1,no_enrollment,4,STEM,0.7,8,Pvt Ltd,>4,0,0
+25886,city_114,0.8078432684738539,Male,0,no_enrollment,2,Unknown,-0.,1,Pvt Ltd,1,1,1
+2736,city_16,0.6798889241982279,Male,1,no_enrollment,3,Other,-0.,1,Pvt Ltd,1,0,1
+26688,city_136,0.575926019474281,Male,1,no_enrollment,3,No Major,1.5,1,Pvt Ltd,2,0,0
+19261,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,4,Unknown,3,0,1
+16728,city_114,0.8078432684738539,Male,1,Full time course,3,STEM,-0.,4,Pvt Ltd,2,0,1
+8837,city_99,0.7198746567843612,Unknow,1,no_enrollment,0,Unknown,1.5,3,Pvt Ltd,2,0,1
+9345,city_16,0.6798889241982279,Other,1,no_enrollment,2,Unknown,-0.,3,Pvt Ltd,1,0,1
+25696,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,0.1,4,Pvt Ltd,1,0,1
+33236,city_36,0.5439374334053744,Male,1,Part time course,3,STEM,0.4,0,Funded Startup,1,0,0
+7258,city_118,-0.8235746210403871,Male,1,no_enrollment,3,STEM,-1.,0,Unknown,1,1,0
+4274,city_13,0.016125763268414313,Male,0,no_enrollment,1,Unknown,-0.,0,Unknown,never,0,0
+18287,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,-0.,8,Pvt Ltd,4,0,1
+25062,city_27,0.1840658401301737,Male,1,no_enrollment,3,STEM,1.5,4,Pvt Ltd,2,0,0
+11144,city_71,0.4719631147503342,Male,1,no_enrollment,2,Unknown,-0.,0,Funded Startup,3,0,0
+11404,city_160,0.7598603893704947,Other,1,Part time course,3,STEM,-0.,1,Unknown,2,0,1
+13232,city_160,0.7598603893704947,Unknow,1,no_enrollment,3,STEM,0.5,4,Pvt Ltd,2,0,1
+21968,city_21,-1.607294979728601,Female,0,no_enrollment,3,STEM,-1.,0,Unknown,1,0,0
+12142,city_78,-1.9671665730038015,Unknow,1,Full time course,3,STEM,-1.,0,Unknown,2,0,0
+30796,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,0,Pvt Ltd,>4,0,1
+23735,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,0,Funded Startup,1,0,0
+26679,city_160,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.7,1,Pvt Ltd,>4,0,1
+21726,city_138,0.08810008192345355,Male,1,no_enrollment,4,STEM,0.5,8,Pvt Ltd,1,0,0
+5171,city_101,-2.1351066498655618,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,1,0
+3180,city_114,0.8078432684738539,Male,0,Part time course,1,Unknown,-1.,0,Pvt Ltd,never,0,1
+26950,city_103,0.7598603893704947,Female,1,no_enrollment,3,STEM,0.1,0,Unknown,2,0,1
+24234,city_11,-2.199083822003374,Male,1,Full time course,3,STEM,1.2,0,Pvt Ltd,>4,0,0
+32649,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,0,Funded Startup,2,0,0
+4377,city_145,-2.159098089417241,Unknow,0,Full time course,3,STEM,-1.,0,Unknown,1,0,0
+545,city_162,-0.4637030277651865,Other,0,no_enrollment,1,Unknown,-0.,0,Unknown,never,0,0
+13114,city_16,0.6798889241982279,Male,0,Full time course,3,Arts,-0.,1,Pvt Ltd,1,0,1
+22786,city_10,0.5599317264398277,Male,0,Part time course,3,STEM,-0.,0,Unknown,2,0,0
+21335,city_101,-2.1351066498655618,Male,1,no_enrollment,3,STEM,-1.,3,Other,2,0,0
+13292,city_103,0.7598603893704947,Female,1,Full time course,3,STEM,-1.,0,Unknown,1,0,1
+25862,city_103,0.7598603893704947,Male,1,no_enrollment,3,Other,1.5,0,Pvt Ltd,2,0,1
+37,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-1.,0,Unknown,never,0,1
+25890,city_103,0.7598603893704947,Male,0,no_enrollment,2,Unknown,-0.,0,Unknown,never,0,1
+22037,city_61,0.703880363749907,Unknow,1,no_enrollment,3,STEM,1.4,4,Pvt Ltd,2,0,1
+29304,city_19,-1.1434604817294534,Female,1,no_enrollment,3,STEM,0.2,4,Pvt Ltd,1,0,0
+19816,city_97,0.7998461219566281,Male,0,Part time course,2,Unknown,-1.,5,Pvt Ltd,1,0,1
+7012,city_21,-1.607294979728601,Unknow,0,no_enrollment,3,STEM,-1.,8,Pvt Ltd,1,3,0
+23338,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,1,Early Stage Startup,1,0,0
+30621,city_160,0.7598603893704947,Male,0,Full time course,4,STEM,-0.,0,Unknown,1,0,1
+11855,city_175,-0.3917287091101473,Male,1,Part time course,3,STEM,-0.,7,Pvt Ltd,4,0,0
+14062,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.5,3,Pvt Ltd,1,0,1
+952,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,-0.,8,Pvt Ltd,1,0,1
+28695,city_21,-1.607294979728601,Male,0,Full time course,4,STEM,-1.,4,Pvt Ltd,3,0,0
+25255,city_71,0.4719631147503342,Male,1,no_enrollment,3,STEM,1.1,4,Pvt Ltd,3,0,0
+14684,city_16,0.6798889241982279,Unknow,1,no_enrollment,3,STEM,0.2,6,Pvt Ltd,1,0,1
+2599,city_23,0.5919203125087344,Unknow,1,no_enrollment,0,Unknown,1.5,0,Pvt Ltd,never,0,0
+27764,city_152,-1.0155061374538275,Male,0,Part time course,3,STEM,0.4,0,Unknown,2,0,0
+22708,city_21,-1.607294979728601,Unknow,1,no_enrollment,4,STEM,-0.,5,Pvt Ltd,1,0,0
+13605,city_116,-0.6556345441786269,Male,1,Unknown,4,STEM,-0.,6,Unknown,2,0,0
+3445,city_160,0.7598603893704947,Unknow,1,no_enrollment,0,Unknown,1.1,4,Pvt Ltd,>4,0,1
+12029,city_19,-1.1434604817294534,Male,1,no_enrollment,3,Arts,-0.,0,Funded Startup,1,0,0
+28494,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,1.5,0,Unknown,3,0,1
+26151,city_75,0.9118061731978017,Male,1,no_enrollment,3,Arts,0.7,4,Pvt Ltd,1,0,1
+30903,city_103,0.7598603893704947,Male,1,no_enrollment,3,Humanities,1.5,3,Pvt Ltd,>4,0,1
+23078,city_103,0.7598603893704947,Unknow,0,Full time course,3,STEM,-1.,4,Pvt Ltd,1,0,1
+3520,city_116,-0.6556345441786269,Male,1,no_enrollment,4,Business Degree,-0.,3,Pvt Ltd,4,0,0
+23948,city_103,0.7598603893704947,Male,0,no_enrollment,0,Unknown,-1.,0,Unknown,,0,1
+20536,city_21,-1.607294979728601,Male,1,Full time course,3,STEM,-0.,0,Pvt Ltd,1,0,0
+12472,city_50,0.5679288729570535,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+12756,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,1.5,4,Pvt Ltd,4,0,0
+634,city_160,0.7598603893704947,Female,0,Part time course,2,Unknown,-1.,8,Pvt Ltd,1,0,1
+11458,city_27,0.1840658401301737,Male,1,no_enrollment,3,STEM,-1.,0,Unknown,>4,1,0
+20348,city_150,-1.0155061374538275,Male,1,no_enrollment,4,STEM,-0.,3,Public Sector,1,0,0
+21057,city_103,0.7598603893704947,Male,1,no_enrollment,4,STEM,-0.,3,Pvt Ltd,2,0,1
+26446,city_21,-1.607294979728601,Unknow,1,Full time course,4,STEM,-1.,0,Funded Startup,2,0,0
+24170,city_114,0.8078432684738539,Unknow,1,no_enrollment,2,Unknown,-0.,4,Pvt Ltd,3,0,1
+16216,city_75,0.9118061731978017,Male,1,no_enrollment,3,STEM,1.2,0,Pvt Ltd,4,0,1
+28349,city_114,0.8078432684738539,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,1
+17295,city_16,0.6798889241982279,Unknow,1,no_enrollment,3,STEM,0.1,6,Pvt Ltd,>4,0,1
+33316,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-0.,8,Public Sector,1,0,1
+5280,city_134,-1.0155061374538275,Male,1,Full time course,4,STEM,-0.,0,Unknown,1,1,0
+11201,city_45,0.5199459938536943,Male,0,Full time course,4,STEM,-0.,0,Unknown,1,0,0
+26483,city_16,0.6798889241982279,Unknow,0,no_enrollment,4,STEM,-0.,7,Public Sector,1,0,1
+10977,city_103,0.7598603893704947,Male,1,no_enrollment,2,Unknown,0.2,0,Early Stage Startup,1,1,1
+33290,city_21,-1.607294979728601,Unknow,1,no_enrollment,3,STEM,-0.,5,Pvt Ltd,never,0,0
+27216,city_21,-1.607294979728601,Unknow,1,Full time course,0,Unknown,-1.,0,Unknown,never,0,0
+7877,city_28,0.9118061731978017,Male,1,no_enrollment,4,STEM,1.5,0,Pvt Ltd,>4,0,1
+5650,city_143,-0.6796259837303069,Unknow,1,no_enrollment,3,STEM,-0.,1,Pvt Ltd,1,0,0
+6590,city_24,-1.0155061374538275,Male,1,no_enrollment,2,Unknown,0.2,3,Pvt Ltd,1,0,0
+13464,city_21,-1.607294979728601,Male,0,no_enrollment,3,STEM,-1.,5,Pvt Ltd,never,0,0
+25639,city_71,0.4719631147503342,Male,1,no_enrollment,4,STEM,1.0,4,Pvt Ltd,4,0,0
+12406,city_24,-1.0155061374538275,Male,0,no_enrollment,3,No Major,-0.,3,Other,4,0,0
+32113,city_160,0.7598603893704947,Male,1,no_enrollment,3,Arts,0.5,0,Pvt Ltd,4,0,1
+3787,city_103,0.7598603893704947,Male,1,no_enrollment,3,STEM,0.5,1,Pvt Ltd,4,0,1
+23606,city_103,0.7598603893704947,Unknow,0,Full time course,2,Unknown,-1.,0,Unknown,1,0,1
+7522,city_103,0.7598603893704947,Unknow,0,no_enrollment,3,Business Degree,-0.,0,Public Sector,2,0,1
+15293,city_103,0.7598603893704947,Male,0,Full time course,3,STEM,-1.,0,Unknown,never,0,1
+7564,city_162,-0.4637030277651865,Male,1,no_enrollment,3,STEM,-0.,0,Unknown,1,0,0
+19218,city_103,0.7598603893704947,Male,1,no_enrollment,4,Humanities,0.8,8,Pvt Ltd,4,0,1
+19678,city_16,0.6798889241982279,Unknow,1,no_enrollment,3,STEM,1.5,1,Pvt Ltd,never,1,1
+19499,city_75,0.9118061731978017,Unknow,0,Unknown,2,Unknown,-1.,0,Unknown,never,0,1
+13962,city_36,0.5439374334053744,Male,1,no_enrollment,4,Humanities,1.4,3,Pvt Ltd,1,0,0
+22744,city_24,-1.0155061374538275,Unknow,1,no_enrollment,4,STEM,0.7,3,Pvt Ltd,>4,1,0
+21887,city_16,0.6798889241982279,Other,0,no_enrollment,3,No Major,-0.,0,Unknown,1,0,1
+28552,city_134,-1.0155061374538275,Male,1,no_enrollment,3,STEM,-0.,3,Pvt Ltd,1,0,0
+10726,city_71,0.4719631147503342,Male,1,no_enrollment,3,STEM,-0.,4,Public Sector,1,0,0
+6294,city_73,-0.5676659324891333,Unknow,1,no_enrollment,2,Unknown,1.5,3,Pvt Ltd,2,0,0
+13833,city_21,-1.607294979728601,Male,1,no_enrollment,3,STEM,-0.,4,Pvt Ltd,1,0,0
+31643,city_75,0.9118061731978017,Male,1,no_enrollment,2,Unknown,1.5,4,Public Sector,2,0,1
+21500,city_44,-0.7995831814887071,Male,0,Part time course,3,STEM,-0.,1,Early Stage Startup,never,1,0
+33225,city_138,0.08810008192345355,Male,1,no_enrollment,2,Unknown,0.5,0,Unknown,1,0,0
+8905,city_70,-1.0155061374538275,Unknow,0,Full time course,2,Unknown,-0.,0,Unknown,never,0,0
+9772,city_114,0.8078432684738539,Male,0,no_enrollment,2,Unknown,-0.,0,Unknown,never,0,1
+27163,city_173,0.4239802356469741,Male,0,no_enrollment,4,STEM,0.8,1,Pvt Ltd,>4,0,0
+24507,city_90,-1.0155061374538275,Unknow,0,no_enrollment,3,STEM,1.4,0,Unknown,never,1,0
+21339,city_21,-1.607294979728601,Female,0,Full time course,2,Unknown,-1.,0,Unknown,never,0,0
+1289,city_103,0.7598603893704947,Male,0,no_enrollment,3,Humanities,0.8,0,Public Sector,4,0,1
+195,city_136,0.575926019474281,Male,1,no_enrollment,4,STEM,1.1,0,Unknown,2,0,0
+31762,city_100,0.49595455430201424,Male,0,no_enrollment,1,Unknown,-1.,0,Pvt Ltd,never,0,0
+7873,city_102,-0.16780860662779934,Male,1,Full time course,2,Unknown,-0.,4,Public Sector,1,0,0
+12215,city_102,-0.16780860662779934,Male,1,no_enrollment,4,STEM,0.7,8,Pvt Ltd,2,0,0
