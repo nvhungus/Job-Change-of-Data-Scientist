@@ -1,5 +1,5 @@
 # Job-Change-of-Data-Scientist
-# Dự đoán Thay đổi Công việc của Nhà Khoa học Dữ liệu
+### 1. Dự đoán Thay đổi Công việc của Nhà Khoa học Dữ liệu
 
 Đồ án này nằm trong môn học CSC17104 - Lập trình cho Khoa học Dữ liệu, khoa Công nghệ Thông tin, trường Đại học Khoa học Tự nhiên, Đại học Quốc gia thành phố Hồ Chí Minh. Mục tiêu là xây dựng một pipeline Khoa học Dữ liệu hoàn chỉnh — từ khám phá, tiền xử lý, huấn luyện mô hình đến đánh giá — với một ràng buộc quan trọng: **toàn bộ quá trình xử lý dữ liệu phải được thực hiện bằng thư viện NumPy**.
 
