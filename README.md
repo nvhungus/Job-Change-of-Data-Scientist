@@ -8,7 +8,7 @@ Mô hình Logistic Regression và các độ đo đánh giá được cài đặ
 ---
 
 ### 2. Mục lục
-1.  [Dự đoán Thay đổi Công việc của Nhà Khoa học Dữ liệu](#1-tiêu-đề-và-mô-tả-ngắn-gọn-về-project)
+1.  [Dự đoán Thay đổi Công việc của Nhà Khoa học Dữ liệu](#1-dự-đoán-thay-đổi-công-việc-của-nhà-khoa-học-dữ-liệu)
 2.  [Mục lục](#2-mục-lục)
 3.  [Giới thiệu](#3-giới-thiệu)
 4.  [Dataset](#4-dataset)
